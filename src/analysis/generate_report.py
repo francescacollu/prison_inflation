@@ -5,9 +5,8 @@ import numpy as np
 def generate_summary_report():
     """Generate a comprehensive summary report of inflation analysis."""
     
-    # Load data (relative to project root)
-    project_root = Path(__file__).parent.parent.parent
-    analysis_dir = project_root / "analysis" / "outputs"
+    # Load data (relative to script location)
+    analysis_dir = Path(__file__).parent / "outputs"
     
     comparisons_file = analysis_dir / "inflation_comparisons.csv"
     commissary_item_file = analysis_dir / "commissary_inflation_item_level.csv"
@@ -156,7 +155,7 @@ def generate_summary_report():
     report_lines.append(f"{'Year':<10} {'Commissary':<15} {'CPI-U':<15} {'Difference':<15}")
     report_lines.append("-" * 55)
     
-    overall_yoy = overall_comps[overall_comps['yoy_inflation_pct'].notna()].sort_values('year')
+    overall_yoy = overall_comps[overall_comps['commissary_yoy_pct'].notna()].sort_values('year')
     for _, row in overall_yoy.iterrows():
         report_lines.append(
             f"{int(row['year']):<10} "

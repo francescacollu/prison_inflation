@@ -271,10 +271,10 @@ def create_inflation_difference_over_time(comparisons_df, output_dir):
     return fig
 
 def main():
-    # Load data (relative to project root)
-    project_root = Path(__file__).parent.parent
+    # Load data from analysis outputs
+    project_root = Path(__file__).parent.parent.parent
     print("Loading inflation data...")
-    analysis_dir = project_root / "analysis" / "outputs"
+    analysis_dir = project_root / "src" / "analysis" / "outputs"
     
     comparisons_file = analysis_dir / "inflation_comparisons.csv"
     commissary_item_file = analysis_dir / "commissary_inflation_item_level.csv"
@@ -289,8 +289,8 @@ def main():
     commissary_inflation_df = pd.read_csv(commissary_item_file)
     cpi_inflation_df = pd.read_csv(cpi_inflation_file)
     
-    # Create output directory (relative to project root)
-    output_dir = project_root / "viz" / "outputs"
+    # Create output directory (relative to script location)
+    output_dir = Path(__file__).parent / "outputs"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print(f"\n{'='*60}")

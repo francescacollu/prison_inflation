@@ -53,16 +53,56 @@ def calculate_cpi_inflation(cpi_df):
     
     return pd.DataFrame(results)
 
-def calculate_commissary_inflation(commissary_df):
+def identify_fixed_basket_items(commissary_df, required_years):
     """
-    Calculate inflation rates for commissary items.
+    Identify items that are present in ALL required years (fixed basket).
+    
+    Args:
+        commissary_df: DataFrame with columns: year, item_name, size
+        required_years: List of years that items must be present in (e.g., [2019, 2020, 2021, 2022, 2023, 2024, 2025])
+    
+    Returns:
+        List of item_ids that appear in all required years
+    """
+    # Create item_id (item_name + size)
+    commissary_df = commissary_df.copy()
+    commissary_df['item_id'] = commissary_df['item_name'] + '|' + commissary_df['size'].fillna('')
+    
+    # Count years per item
+    item_year_counts = commissary_df.groupby('item_id')['year'].apply(set).reset_index()
+    item_year_counts['years_present'] = item_year_counts['year']
+    
+    # Check which items have all required years
+    required_years_set = set(required_years)
+    fixed_basket_items = []
+    
+    for _, row in item_year_counts.iterrows():
+        item_years = row['years_present']
+        if required_years_set.issubset(item_years):
+            fixed_basket_items.append(row['item_id'])
+    
+    return fixed_basket_items
+
+def calculate_commissary_inflation(commissary_df, required_years=None):
+    """
+    Calculate inflation rates for commissary items using fixed basket approach.
+    Only items present in ALL required years are included.
     
     Args:
         commissary_df: DataFrame with columns: year, category, item_name, size, price_min, price_max
+        required_years: List of years items must be present in (default: [2019, 2020, 2021, 2022, 2023, 2024, 2025])
     
     Returns:
-        DataFrame with item-level, category-level, and overall inflation rates
+        Dictionary with:
+        - 'item_level': DataFrame with item-level inflation rates
+        - 'category_level': DataFrame with category-level inflation rates
+        - 'cpi_category_level': DataFrame with CPI category-level inflation rates
+        - 'overall': DataFrame with overall inflation rates
+        - 'fixed_basket_info': Dictionary with fixed basket statistics
     """
+    if required_years is None:
+        required_years = [2019, 2020, 2021, 2022, 2023, 2024, 2025]
+    
     # Use average of price_min and price_max
     commissary_df = commissary_df.copy()
     commissary_df['price_avg'] = (commissary_df['price_min'] + commissary_df['price_max']) / 2
@@ -70,21 +110,42 @@ def calculate_commissary_inflation(commissary_df):
     # Add CPI category mapping
     commissary_df['cpi_category'] = commissary_df['category'].apply(get_cpi_category)
     
+    # Create item_id (item_name + size)
+    commissary_df['item_id'] = commissary_df['item_name'] + '|' + commissary_df['size'].fillna('')
+    
+    # Identify fixed basket items (present in all required years)
+    fixed_basket_items = identify_fixed_basket_items(commissary_df, required_years)
+    
+    # Filter to only fixed basket items
+    original_item_count = commissary_df['item_id'].nunique()
+    commissary_df = commissary_df[commissary_df['item_id'].isin(fixed_basket_items)].copy()
+    fixed_basket_item_count = len(fixed_basket_items)
+    
+    # Store fixed basket info for reporting
+    fixed_basket_info = {
+        'total_items_original': original_item_count,
+        'fixed_basket_items': fixed_basket_item_count,
+        'items_excluded': original_item_count - fixed_basket_item_count,
+        'required_years': required_years
+    }
+    
     # Item-level inflation
     item_results = []
     
-    # Group by item (using item_name + size as unique identifier)
-    commissary_df['item_id'] = commissary_df['item_name'] + '|' + commissary_df['size'].fillna('')
-    
-    for item_id in commissary_df['item_id'].unique():
+    for item_id in fixed_basket_items:
         item_data = commissary_df[commissary_df['item_id'] == item_id].sort_values('year')
         
-        if len(item_data) < 2:
+        # Fixed basket items are guaranteed to have all years, but check anyway
+        if len(item_data) < len(required_years):
             continue
         
-        # Get baseline (first year)
-        baseline_year = item_data['year'].min()
-        baseline_price = item_data[item_data['year'] == baseline_year]['price_avg'].values[0]
+        # Use 2019 as consistent baseline for all items
+        baseline_year = 2019
+        baseline_data = item_data[item_data['year'] == baseline_year]
+        if len(baseline_data) == 0:
+            continue
+        baseline_price = baseline_data['price_avg'].values[0]
+        
         category = item_data['category'].iloc[0]
         cpi_category = item_data['cpi_category'].iloc[0]
         item_name = item_data['item_name'].iloc[0]
@@ -96,12 +157,13 @@ def calculate_commissary_inflation(commissary_df):
             
             # Year-over-year inflation
             yoy_inflation = None
-            prev_year_data = item_data[item_data['year'] == year - 1]
-            if len(prev_year_data) > 0:
-                prev_price = prev_year_data['price_avg'].values[0]
-                yoy_inflation = ((price - prev_price) / prev_price) * 100
+            if year > min(required_years):
+                prev_year_data = item_data[item_data['year'] == year - 1]
+                if len(prev_year_data) > 0:
+                    prev_price = prev_year_data['price_avg'].values[0]
+                    yoy_inflation = ((price - prev_price) / prev_price) * 100
             
-            # Cumulative inflation from baseline
+            # Cumulative inflation from 2019 baseline
             cumulative_inflation = ((price - baseline_price) / baseline_price) * 100
             
             item_results.append({
@@ -239,7 +301,8 @@ def calculate_commissary_inflation(commissary_df):
         'item_level': item_df,
         'category_level': category_df,
         'cpi_category_level': cpi_category_df,
-        'overall': overall_df
+        'overall': overall_df,
+        'fixed_basket_info': fixed_basket_info
     }
 
 def compare_inflation(cpi_inflation_df, commissary_inflation_dict):
@@ -365,15 +428,35 @@ def main():
     print("\nCalculating CPI inflation rates...")
     cpi_inflation = calculate_cpi_inflation(cpi_df)
     
-    print("Calculating commissary inflation rates...")
-    commissary_inflation = calculate_commissary_inflation(commissary_df)
+    print("Calculating commissary inflation rates (using fixed basket methodology)...")
+    commissary_inflation_result = calculate_commissary_inflation(commissary_df)
+    commissary_inflation = {k: v for k, v in commissary_inflation_result.items() if k != 'fixed_basket_info'}
+    fixed_basket_info = commissary_inflation_result['fixed_basket_info']
+    
+    # Report on fixed basket
+    print(f"\n{'='*60}")
+    print("FIXED BASKET METHODOLOGY")
+    print('='*60)
+    print(f"Required years: {fixed_basket_info['required_years']}")
+    print(f"Total items in dataset: {fixed_basket_info['total_items_original']}")
+    print(f"Items in fixed basket (present in all years): {fixed_basket_info['fixed_basket_items']}")
+    print(f"Items excluded: {fixed_basket_info['items_excluded']}")
+    if fixed_basket_info['total_items_original'] > 0:
+        print(f"Percentage of items included: {100 * fixed_basket_info['fixed_basket_items'] / fixed_basket_info['total_items_original']:.1f}%")
+    
+    # Breakdown by category using item-level results
+    if len(commissary_inflation['item_level']) > 0:
+        item_df = commissary_inflation['item_level']
+        print(f"\nFixed basket items by category:")
+        category_counts = item_df.groupby('category')['item_name'].nunique().sort_values(ascending=False)
+        for category, count in category_counts.items():
+            print(f"  {category}: {count} items")
     
     print("Comparing inflation rates...")
     comparisons = compare_inflation(cpi_inflation, commissary_inflation)
     
-    # Create output directory (relative to project root)
-    project_root = Path(__file__).parent.parent.parent
-    output_dir = project_root / "analysis" / "outputs"
+    # Create output directory (relative to script location)
+    output_dir = Path(__file__).parent / "outputs"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     # Save results

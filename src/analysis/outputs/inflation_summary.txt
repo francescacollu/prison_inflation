@@ -1,0 +1,115 @@
+================================================================================
+PRISON COMMISSARY INFLATION ANALYSIS - SUMMARY REPORT
+================================================================================
+
+OVERALL SUMMARY
+--------------------------------------------------------------------------------
+
+Study Period: 2019 - 2025
+
+Overall Commissary Inflation (Cumulative): 44.09%
+CPI-U Inflation (Cumulative): 25.74%
+Difference: 18.34 percentage points
+
+Commissary prices have risen 18.34 percentage points MORE than general inflation.
+
+
+AVERAGE ANNUAL INFLATION RATES
+--------------------------------------------------------------------------------
+
+Average Commissary YoY Inflation: 6.45%
+Average CPI-U YoY Inflation: 3.91%
+Average Difference: 2.54 percentage points
+
+
+CATEGORY-LEVEL ANALYSIS
+--------------------------------------------------------------------------------
+
+Cumulative Inflation by Category (2025):
+
+Category                  Commissary      CPI             Difference     
+----------------------------------------------------------------------
+Apparel                          113.80%           6.28%         107.52%
+Recreation                        44.51%          14.42%          30.09%
+Food at home                      43.11%          29.43%          13.68%
+Medicinal drugs                   37.09%          28.17%           8.92%
+Personal care                     49.24%          46.03%           3.20%
+
+
+HIGHEST INFLATION CATEGORIES (Commissary)
+--------------------------------------------------------------------------------
+1. Apparel: 113.80%
+2. Personal care: 49.24%
+3. Recreation: 44.51%
+
+
+LOWEST INFLATION CATEGORIES (Commissary)
+--------------------------------------------------------------------------------
+1. Medicinal drugs: 37.09%
+2. Food at home: 43.11%
+3. Recreation: 44.51%
+
+
+CATEGORIES WITH LARGEST DIFFERENCE FROM CPI
+--------------------------------------------------------------------------------
+
+Categories where commissary inflation exceeds CPI the most:
+1. Apparel: Commissary 113.80% vs CPI 6.28% (+107.52 pp)
+2. Recreation: Commissary 44.51% vs CPI 14.42% (+30.09 pp)
+3. Food at home: Commissary 43.11% vs CPI 29.43% (+13.68 pp)
+4. Medicinal drugs: Commissary 37.09% vs CPI 28.17% (+8.92 pp)
+5. Personal care: Commissary 49.24% vs CPI 46.03% (+3.20 pp)
+
+
+ITEM-LEVEL ANALYSIS
+--------------------------------------------------------------------------------
+
+Top 10 Items with Highest Cumulative Inflation (2025):
+1. Foundation-Asst Shades (1 oz): 1971.43% (FEMALE ONLY)
+2. Afta After Shave (3 oz): 650.00% (HYGIENE)
+3. Eyeliner/Brow Pencil-.05 oz: 650.00% (FEMALE ONLY)
+4. ClearTech Lift Off: 285.71% (ELECTRICAL)
+5. Typing Paper (50 sheets): 268.42% (CORRESPONDENCE)
+6. Eraser-Pencil/Ink: 257.14% (CORRESPONDENCE)
+7. Olympia/Clear Tech Ribbon: 240.00% (ELECTRICAL)
+8. Earbud-Stereo: 225.00% (ELECTRICAL)
+9. T-Shirts: 205.36% (CLOTHING)
+10. Watercolor Paints (16 colors): 185.19% (ART SUPPLIES)
+
+Top 10 Items with Lowest Cumulative Inflation (2025):
+1. Wood Rune Set: -47.50% (JEWELRY / RELIGIOUS)
+2. Hat-White Solid: -40.00% (JEWELRY / RELIGIOUS)
+3. Hygiene Pack (3 piece): -28.85% (MALE ONLY)
+4. Sports Bra: -27.08% (FEMALE ONLY)
+5. Hygiene Pack (3 piece): -26.92% (MALE ONLY)
+6. Mennen Deodorant (3 oz): -24.00% (MALE ONLY)
+7. Nail Clippers: -16.67% (HYGIENE)
+8. Hygiene Pack (7 piece): -8.33% (FEMALE ONLY)
+9. Sugar Free Hot Chocolate: -7.14% (INSTANT DRINK MIX)
+10. Mini Colored Pencils (24 pk): -4.00% (ART SUPPLIES)
+
+
+YEAR-OVER-YEAR TRENDS
+--------------------------------------------------------------------------------
+
+Overall Commissary vs CPI-U (Year-over-Year Inflation):
+
+Year       Commissary      CPI-U           Difference     
+-------------------------------------------------------
+2020                0.39%           1.23%          -0.85%
+2021               19.93%           4.70%          15.23%
+2022                5.75%           8.00%          -2.26%
+2023                3.94%           4.12%          -0.18%
+2024                4.75%           2.95%           1.80%
+2025                3.95%           2.48%           1.47%
+
+
+STATISTICAL SUMMARY
+--------------------------------------------------------------------------------
+
+Total Items Analyzed: 148
+Total Categories: 22
+Years Covered: [np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024), np.int64(2025)]
+
+Items with >50% cumulative inflation: 62
+Items with <-10% cumulative inflation (deflation): 7
