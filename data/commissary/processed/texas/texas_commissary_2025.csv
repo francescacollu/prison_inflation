@@ -1,0 +1,358 @@
+year,category,item_name,size,price_min,price_max
+2025,ART SUPPLIES,Adult Coloring Book (50 pg),,6.5,6.5
+2025,ART SUPPLIES,Colored Pencils,12 pk,4.5,4.5
+2025,ART SUPPLIES,Drawing Pad 9 X 12,,3.4,3.4
+2025,ART SUPPLIES,Illustration Boards,2 pk,5.0,5.0
+2025,ART SUPPLIES,Mini Colored Pencils,24 pk,2.4,2.4
+2025,ART SUPPLIES,Protractor Ruler,,0.75,0.75
+2025,ART SUPPLIES,Watercolor Pad 9 X 12,,6.75,6.75
+2025,ART SUPPLIES,Watercolor Paints (16 colors),,3.85,3.85
+2025,BEVERAGES,Big Red,12 oz,0.6,0.6
+2025,BEVERAGES,Cranberry Juice,11.5 oz,1.4,1.4
+2025,BEVERAGES,Diet Peach Tea,16.9 oz,1.25,1.25
+2025,BEVERAGES,Dr Pepper Zero,12 oz,0.6,0.6
+2025,BEVERAGES,EH Water,16.9 oz,0.15,0.15
+2025,BEVERAGES,EK Dr Pepper,12 oz,0.6,0.6
+2025,BEVERAGES,EKH Coca Cola,12 oz,0.6,0.6
+2025,BEVERAGES,EKH Sprite,12 oz,0.6,0.6
+2025,BEVERAGES,Fanta Orange,12 oz,0.6,0.6
+2025,BEVERAGES,Fanta Pineapple,12 oz,0.6,0.6
+2025,BEVERAGES,Hydrocore Electrolyte Beverage,,0.9,0.9
+2025,BEVERAGES,KH Coke Zero,12 oz,0.6,0.6
+2025,BEVERAGES,KH Diet Coca Cola,12 oz,0.6,0.6
+2025,BEVERAGES,KH Diet Dr. Pepper,12 oz,0.6,0.6
+2025,BEVERAGES,Mountain Dew,12 oz,0.6,0.6
+2025,BEVERAGES,Orange Juice,11.5 oz,1.4,1.4
+2025,BEVERAGES,Root Beer,12 oz,0.6,0.6
+2025,BEVERAGES,V-8 Juice,11.5 oz,0.95,0.95
+2025,BEVERAGES,V8-Splash,,1.4,1.4
+2025,CANDY,Chick-o-Stick- .7 oz,,0.25,0.25
+2025,CANDY,Cinnamon Jawbreaker,10 oz,1.55,1.55
+2025,CANDY,EK Peppermint Stick,1 oz,0.15,0.15
+2025,CANDY,Fruit Filled Hard Candy,22 oz,2.5,2.5
+2025,CANDY,Hostess Asst. Fruit Slices,,1.6,1.6
+2025,CANDY,Hostess Hard Candy Mix,,1.6,1.6
+2025,CANDY,Kit Kat Bar,,1.5,1.5
+2025,CANDY,Lemon Jawbreaker,4 oz,0.7,0.7
+2025,CANDY,M&M Peanut,1.74 oz,1.5,1.5
+2025,CANDY,M&M Plain,1.69 oz,1.5,1.5
+2025,CANDY,Rainbow Fruit Stick,1 oz,0.15,0.15
+2025,CANDY,S/F Pecan Delights,,3.15,3.15
+2025,CANDY,Snickers Candy Bar,1.86 oz,1.5,1.5
+2025,CANDY,Sugar Free Jolly Rancher Candy,,3.5,3.5
+2025,CANDY,Tootsie Pops,8 pk,1.65,1.65
+2025,CANDY,Twix Candy Bar,1.79oz,1.5,1.5
+2025,CLOTHING,Boxer Shorts,,7.65,8.75
+2025,CLOTHING,Cooling T-Shirts,,5.0,8.5
+2025,CLOTHING,Gym Shorts,,10.5,10.5
+2025,CLOTHING,Socks,,1.65,1.65
+2025,CLOTHING,T-Shirts,,7.75,35.0
+2025,CLOTHING,Thermal Shirts/Pants,,8.0,45.0
+2025,CONDIMENTS,BBQ Sauce,24 oz,2.05,2.05
+2025,CONDIMENTS,Chili Con Queso,,2.35,2.35
+2025,CONDIMENTS,Cream Cheese Packet,2 oz,0.45,0.45
+2025,CONDIMENTS,EG Garlic Powder Spice,1.75 oz,1.25,1.25
+2025,CONDIMENTS,EG Mustard,14 oz,1.25,1.25
+2025,CONDIMENTS,EG Onion Powder Spice,1.75 oz,1.25,1.25
+2025,CONDIMENTS,EGH Seasoning Blend/Salt Free,,1.45,1.45
+2025,CONDIMENTS,EK Creamy Peanut Butter,18 oz,2.95,2.95
+2025,CONDIMENTS,EKH Hazelnut Spread,,4.0,4.0
+2025,CONDIMENTS,EKH Sweetener (115 pks),,1.5,1.5
+2025,CONDIMENTS,Grape Jelly,19 oz,2.05,2.05
+2025,CONDIMENTS,Hot Sauce,8oz,0.9,0.9
+2025,CONDIMENTS,KH Jalap. Cheese Squeeze,16 oz,3.25,3.25
+2025,CONDIMENTS,Ketchup,14 oz,1.5,1.5
+2025,CONDIMENTS,No-Sugar Added Grape Jelly,,4.0,4.0
+2025,CONDIMENTS,Non-Dairy Creamer,12 oz,1.85,1.85
+2025,CONDIMENTS,Ranch Dressing Pack,2 oz,0.5,0.5
+2025,CONDIMENTS,Salsa-Medium,15 oz,4.5,4.5
+2025,CONDIMENTS,Salt/Pepper Shaker,4.5 oz,1.85,1.85
+2025,CONDIMENTS,Sandwich Spread,15 oz,2.2,2.2
+2025,CONDIMENTS,Smoked Gouda Cheese,,2.35,2.35
+2025,CONDIMENTS,Stevia Sweetener,,1.4,1.4
+2025,CONDIMENTS,Strawberry Preserves,19 oz,2.05,2.05
+2025,CORRESPONDENCE,Bound Notebk 8x11,80 sheet,5.25,5.25
+2025,CORRESPONDENCE,Carbon Paper (25 sheets),,7.0,7.0
+2025,CORRESPONDENCE,Dictionary (English),,7.5,7.5
+2025,CORRESPONDENCE,Dictionary (Spanish/English),,6.5,6.5
+2025,CORRESPONDENCE,Envelope-#10 Business,,0.05,0.05
+2025,CORRESPONDENCE,Eraser-Pencil/Ink,,1.25,1.25
+2025,CORRESPONDENCE,Folder Storage,10x15,1.4,1.4
+2025,CORRESPONDENCE,Folder w/Pockets-Color,5pk,4.5,4.5
+2025,CORRESPONDENCE,Greeting Cards-Assorted,,0.75,0.75
+2025,CORRESPONDENCE,Jumbo Envelope,18x23,1.5,1.5
+2025,CORRESPONDENCE,Manilla Envelope-Writ,2 pk,1.25,1.25
+2025,CORRESPONDENCE,Mini Bound Notebk,100 sheet,3.5,3.5
+2025,CORRESPONDENCE,Pastel Memo,50 sheet,2.75,2.75
+2025,CORRESPONDENCE,"Pen-Black ""Property""",,0.3,0.3
+2025,CORRESPONDENCE,Pencil Sharpener,,0.75,0.75
+2025,CORRESPONDENCE,Pencil-Lead,,0.15,0.15
+2025,CORRESPONDENCE,Stamps-Assorted,,0.01,11.0
+2025,CORRESPONDENCE,Typing Paper (50 sheets),,3.5,3.5
+2025,CORRESPONDENCE,Writing Tablet 8x11,50 sheet,5.25,5.25
+2025,ELECTRICAL,"Adaptor-1/8""-1/4"" headphone",,1.5,1.5
+2025,ELECTRICAL,Adaptor-75/300 ohm,,1.5,1.5
+2025,ELECTRICAL,Alarm Clock,,7.5,7.5
+2025,ELECTRICAL,Calculator TI-30xs 16 Digit,,22.0,22.0
+2025,ELECTRICAL,ClearTech Lift Off,,1.35,1.35
+2025,ELECTRICAL,Clip On Lamp-Plastic,,13.0,13.0
+2025,ELECTRICAL,Coax Cable,,2.0,2.0
+2025,ELECTRICAL,Dipole Antenna-FM T-Style,,4.25,4.25
+2025,ELECTRICAL,Earbud-Stereo,,3.25,3.25
+2025,ELECTRICAL,"Fan 9"" Electric",,23.0,23.0
+2025,ELECTRICAL,GED Series Calculator,,13.5,13.5
+2025,ELECTRICAL,Headphones,,10.0,10.0
+2025,ELECTRICAL,Hot Pot w/Insert,,24.5,24.5
+2025,ELECTRICAL,LED Light Bulb,,4.5,4.5
+2025,ELECTRICAL,Lift Off Correction Ribbon,,2.0,2.0
+2025,ELECTRICAL,Multi Outlet (2 plug),,9.0,9.0
+2025,ELECTRICAL,Olympia/Clear Tech Ribbon,,5.95,5.95
+2025,ELECTRICAL,Radio/Clock-Clear Tech,,20.0,20.0
+2025,ELECTRICAL,Ribbon-Smith Corona H Series,,5.5,5.5
+2025,ELECTRICAL,Solar Calculator,,4.5,4.5
+2025,ELECTRICAL,Swintec Printwheel-Pica,,40.0,40.0
+2025,ELECTRICAL,Swintec Ribbon-Black,,7.25,7.25
+2025,ELECTRICAL,Typewriter-Swintec,,360.0,360.0
+2025,ELECTRICAL,Watches,,22.0,22.0
+2025,FEMALE ONLY,Always Pantiliners,20 ct,1.35,1.35
+2025,FEMALE ONLY,Briefs/Panties,3 pk,12.0,12.0
+2025,FEMALE ONLY,Exfoliating Pouch Bar Soap,,3.0,3.0
+2025,FEMALE ONLY,Eyeliner/Brow Pencil-.05 oz,,5.25,5.25
+2025,FEMALE ONLY,Foundation-Asst Shades,1 oz,13.0,16.0
+2025,FEMALE ONLY,Hair Dryer-1600 Watts,,31.0,31.0
+2025,FEMALE ONLY,Hair Relaxers,,9.5,9.5
+2025,FEMALE ONLY,Hijab-Females Only,,17.0,17.0
+2025,FEMALE ONLY,Hygiene Pack,7 piece,22.0,22.0
+2025,FEMALE ONLY,Hygiene Pack,3 piece,9.5,9.5
+2025,FEMALE ONLY,Ladies Speed Stick,1.4 oz,2.45,2.45
+2025,FEMALE ONLY,Ladies Speed Stick,1.6 oz,0.9,0.9
+2025,FEMALE ONLY,Lip Therapy,,2.5,2.5
+2025,FEMALE ONLY,Lipstick-Asst Colors,,7.75,8.5
+2025,FEMALE ONLY,Mascara-Avon/Black-.21 oz,,10.0,10.0
+2025,FEMALE ONLY,Maxi Pads,22 ct,3.0,3.0
+2025,FEMALE ONLY,Ogilvie Hair Perm,,23.0,23.0
+2025,FEMALE ONLY,Sports Bra,,4.0,4.75
+2025,FEMALE ONLY,"Storage Box-14""x8""x8""",,40.0,40.0
+2025,FEMALE ONLY,Tampons,,6.0,15.0
+2025,FEMALE ONLY,Tweezer-Blunt,,0.75,0.75
+2025,GAMES,Chess Set,,9.0,9.0
+2025,GAMES,Domino,,7.45,7.45
+2025,HYGIENE,Ad Seg Colgate,1 oz,1.0,1.0
+2025,HYGIENE,Ad Seg Fresh Scent 3 in 1,,1.0,1.0
+2025,HYGIENE,Ad Seg Shampoo,4 oz,0.55,0.55
+2025,HYGIENE,Afta After Shave,3 oz,4.5,4.5
+2025,HYGIENE,Aloe Lotion,15 oz,1.6,1.6
+2025,HYGIENE,Ambi Skin Fade Cream,,8.5,8.5
+2025,HYGIENE,Antibacterial Lotion,4 oz,1.6,1.6
+2025,HYGIENE,Antibacterial Soap,1.25 oz,0.15,0.15
+2025,HYGIENE,Antifungal Foot Powder,3.5 oz,3.25,3.25
+2025,HYGIENE,Baby Powder,,2.8,2.8
+2025,HYGIENE,Barbasol Shave Cream,,5.0,5.0
+2025,HYGIENE,Bergamot-Blue Magic Hair,,2.65,2.65
+2025,HYGIENE,Blue Magic Hair Cond,12 oz,3.75,3.75
+2025,HYGIENE,Body Wash,15 oz,1.4,1.4
+2025,HYGIENE,Cocoa Butter Lotion,15 oz,1.6,1.6
+2025,HYGIENE,Colgate Toothpaste,6 oz,3.0,3.0
+2025,HYGIENE,Conditioner,15 oz,1.35,1.35
+2025,HYGIENE,Cotton Swabs,100 Ct,0.55,0.55
+2025,HYGIENE,Dandruff Shampoo,12 oz,2.25,2.25
+2025,HYGIENE,Dental Floss Picks,,1.15,1.15
+2025,HYGIENE,Denture Adhesive,2.4oz,3.95,3.95
+2025,HYGIENE,Denture Adhesive .85oz,,1.75,1.75
+2025,HYGIENE,Dial Soap,1.25 oz,0.4,0.4
+2025,HYGIENE,Efferdent,102 Tablets,7.75,7.75
+2025,HYGIENE,Fixodent Denture,,5.0,5.0
+2025,HYGIENE,Hair Brush-No Handle,,1.1,1.1
+2025,HYGIENE,Hair Gel,15 oz,2.15,2.15
+2025,HYGIENE,Lubriderm Lotion,,6.0,6.0
+2025,HYGIENE,Magic Shave Cream,6 oz,7.0,7.0
+2025,HYGIENE,Medi/Cleanse Cream,8 oz,2.0,2.0
+2025,HYGIENE,Medicated Powder,,2.1,2.1
+2025,HYGIENE,Mouthwash-Alc Free-8,16 oz,1.35,1.75
+2025,HYGIENE,Nail Clippers,,0.25,0.25
+2025,HYGIENE,Petroleum Jelly,4 oz,1.75,1.75
+2025,HYGIENE,Pocket Comb,,0.3,0.3
+2025,HYGIENE,Ponytail Holders,10 pk,1.4,1.4
+2025,HYGIENE,Razor Disposable,10pk,1.2,1.2
+2025,HYGIENE,Sensodyne Toothpaste,4 oz,10.5,10.5
+2025,HYGIENE,Shampoo,15 oz,1.35,1.4
+2025,HYGIENE,Soap Dish -Plastic,,0.55,0.55
+2025,HYGIENE,Spa Naturals Lotion,,2.5,2.5
+2025,HYGIENE,Toilet Tissue (roll),,0.9,0.9
+2025,HYGIENE,Toothbrush,"3""",0.5,0.5
+2025,HYGIENE,White Rain 2-1 Shampoo & Cond.,,1.5,1.5
+2025,HYGIENE,White Rain 2pk 4oz Soap,,1.4,1.4
+2025,HYGIENE,White Rain Aloe Lotion,,1.3,1.3
+2025,HYGIENE,White Rain Coco Butter Lotion,,1.3,1.3
+2025,ICE CREAM,Blue Bell Pints- Asst Flavors,,3.8,3.8
+2025,ICE CREAM,Chocolate Fudge Bar,,0.8,0.8
+2025,ICE CREAM,Cookies & Cream I/C/S,,0.8,0.8
+2025,ICE CREAM,Krunch Bar,,0.8,0.8
+2025,ICE CREAM,Moo Bar,,0.8,0.8
+2025,ICE CREAM,Vanilla Ice Cream Sandwich,,0.8,0.8
+2025,INSTANT DRINK MIXES,EGH Meal Replacement Shake,,0.9,0.9
+2025,INSTANT DRINK MIXES,EH Milk-Instant Nonfat,4 oz,1.15,1.15
+2025,INSTANT DRINK MIXES,EH Sugar Free Drink Mix,8 pk,0.75,0.75
+2025,INSTANT DRINK MIXES,EK Cappuccino-Asst Flavors,,2.15,2.15
+2025,INSTANT DRINK MIXES,EK Columbian Coffee,4.5 oz,4.75,4.75
+2025,INSTANT DRINK MIXES,EK Plantation Coffee,4.5 oz,1.45,1.45
+2025,INSTANT DRINK MIXES,EKH Electrolyte Mix-Asst Flavors,,0.15,0.15
+2025,INSTANT DRINK MIXES,GH Nutrition Shake,11 oz,3.25,3.25
+2025,INSTANT DRINK MIXES,Hot Chocolate,10 oz,1.95,1.95
+2025,INSTANT DRINK MIXES,Sugar Free Hot Chocolate,,1.95,1.95
+2025,INSTANT DRINK MIXES,Tea Bags,100 bags,3.6,3.6
+2025,INSTANT FOODS,Cereal-Assorted Flavors,20oz,4.05,4.05
+2025,INSTANT FOODS,EH Low Sodium Ramen Noodles,,0.35,0.35
+2025,INSTANT FOODS,EH Oatmeal Variety (10 Pk),12.4oz,2.4,2.4
+2025,INSTANT FOODS,EH Precooked Brown Rice,,1.75,1.75
+2025,INSTANT FOODS,EK Potatoes-4 Cheese,4oz,2.85,2.85
+2025,INSTANT FOODS,EK White Rice-Instant,8 oz,1.6,1.6
+2025,INSTANT FOODS,Pasta - Instant,9oz,2.6,2.6
+2025,INSTANT FOODS,Refried Beans-Instant,15oz,2.3,2.3
+2025,INSTANT FOODS,Thai Chili Noodle,,1.35,1.35
+2025,JEWELRY / RELIGIOUS,Chain/Lanyard,,0.55,0.55
+2025,JEWELRY / RELIGIOUS,Hat-White Knitted,,8.0,8.0
+2025,JEWELRY / RELIGIOUS,Hat-White Solid,,0.75,0.75
+2025,JEWELRY / RELIGIOUS,Medallions,,5.75,22.5
+2025,JEWELRY / RELIGIOUS,Medicine Bag,,2.0,2.0
+2025,JEWELRY / RELIGIOUS,Prayer Oil,4oz,21.0,21.0
+2025,JEWELRY / RELIGIOUS,Wood Rune Set,,5.25,5.25
+2025,KOSHER ITEMS,Beef Stuffed Cabbage,,6.75,6.75
+2025,KOSHER ITEMS,Cheese Ravioli,12 oz,6.0,6.0
+2025,KOSHER ITEMS,EK Instant Chili w/ Beans,12 oz,3.75,3.75
+2025,KOSHER ITEMS,Eggplant Parmesan,,5.5,5.5
+2025,KOSHER ITEMS,Matzo Crackers,10 oz,4.5,4.5
+2025,KOSHER ITEMS,Stuffed Chicken,12 oz,9.5,9.5
+2025,MALE ONLY,Hygiene Pack,3 piece,8.5,10.0
+2025,MALE ONLY,Mennen Antiperspirant,3 oz,3.0,3.0
+2025,MALE ONLY,Mennen Deodorant,3 oz,1.9,1.9
+2025,MISCELLANEOUS,Batteries-Asst Sizes .,,55.0,1.6
+2025,MISCELLANEOUS,Battery AA,,0.5,0.5
+2025,MISCELLANEOUS,Battery AAA,,0.55,0.55
+2025,MISCELLANEOUS,Bowl - Plastic,,0.6,1.4
+2025,MISCELLANEOUS,Commissary Mesh Bag,,4.0,4.5
+2025,MISCELLANEOUS,Cooling Towel,,2.0,2.0
+2025,MISCELLANEOUS,Detergent Crystal Clean,,3.1,3.1
+2025,MISCELLANEOUS,Detergent-Simline+B110,,1.9,1.9
+2025,MISCELLANEOUS,Ear Plugs,,0.2,0.2
+2025,MISCELLANEOUS,Handkerchief,,1.5,1.5
+2025,MISCELLANEOUS,ID Badge,,0.65,1.25
+2025,MISCELLANEOUS,Jersey Gloves-Cotton,,0.85,0.85
+2025,MISCELLANEOUS,Laces-45 inch White,,1.5,1.5
+2025,MISCELLANEOUS,Laces-54 inch White,,1.8,1.8
+2025,MISCELLANEOUS,Laces-Boot-54 inch Tan,,1.4,1.4
+2025,MISCELLANEOUS,Mug - Plastic,,4.4,4.4
+2025,MISCELLANEOUS,Padlock w/Key,,17.0,17.0
+2025,MISCELLANEOUS,Photo Album (18/20 sheet) .,,50.0,1.35
+2025,MISCELLANEOUS,Reading Glasses-Asst Strength,,3.25,3.25
+2025,MISCELLANEOUS,Shave Mirror,,3.5,3.5
+2025,MISCELLANEOUS,Spoon -Plastic,,0.35,0.35
+2025,MISCELLANEOUS,Wash Cloths,,1.45,1.45
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Acne Benzoyl 10%,1.5oz,4.35,4.35
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Alcalak Antacid,24 tabs,1.95,1.95
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Artificial Tears Eye Drops-.5 oz,,2.8,2.8
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Aspirin,24 tabs,1.8,1.8
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Aspirin Free-APAP,24 tabs,1.65,1.65
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Blistex Medicated Lip Balm,,1.85,1.85
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Calamine Lotion,6 oz,2.75,2.75
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Cetirizine Allergy,14 tabs,2.5,2.5
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Chlorphen Tabs,24 tabs,1.0,1.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Clotrimazole Antifungal Cream,,1.25,1.25
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Cold-Eze Lozenges,,10.5,10.5
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Diamode-Anti Diarrheal (6 pks),,1.35,1.35
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Earwax Drops-15ml,,2.25,2.25
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Fiber Lax,90 tabs,7.0,7.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",GK Cough Drops,,1.25,1.25
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Hemorrhoid Ointment,2 oz,4.45,4.45
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Hydrocortisone Cream,1 oz,1.85,1.85
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Ibutab-Ibuprofen,24 tabs,3.5,3.5
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Laxative-Bisacodyl,25 tabs,1.85,1.85
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Loratadine Allergy,30 tabs,2.5,2.5
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Mentstrual Complete (Midol),,2.25,2.25
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Milk Thistle,60 tabs,5.5,5.5
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Milk of Magnesia,4 oz,4.25,4.25
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Monistat,,10.0,10.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Mucus Relief DM,,2.1,2.1
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Nasacort Nasal Spray,,20.0,20.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Nasal Moisturizing Spray,1.5 oz,2.0,2.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Omeprazole Acid Reduce (14 tab),,6.25,6.25
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Pepto Bismuth,30 tabs,2.75,2.75
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Simethicone Anti/Gas,36 tabs,2.3,2.3
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Stool Softener,25 tabs,1.85,1.85
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Sunscreen-SPF 50,4 oz,6.0,6.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Terbinafine Antifungal Crm-.5 oz,,8.25,8.25
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Tolnaftate Antifungal Cream-.5 oz,,1.2,1.2
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Triple Antibiotic Ointment,1 oz,2.1,2.1
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Vitamin-Amino Acid,100 tabs,5.95,5.95
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Vitamin-C500 Complex,100 tabs,2.75,2.75
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Vitamin-Calcium,100 tabs,2.75,2.75
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Vitamin-D,,2.3,2.3
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Vitamin-E 200 IU,100 tabs,4.5,4.5
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Vitamin-Garlic/Oil,100 tabs,2.85,2.85
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Vitamin-Multi No Iron,100 tabs,3.0,3.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Vitamin-Omega 3,120 tabs,7.5,7.5
+2025,OTHER FOOD ITEMS,Dill Pickle,15 oz,1.0,1.0
+2025,OTHER FOOD ITEMS,EK Flour Tortilla,10 pk,1.4,1.4
+2025,OTHER FOOD ITEMS,Jalapeno Peppers-Whole,2 oz,0.4,0.4
+2025,PACKAGED MEAT,Beef & Chedder Stick,,1.85,1.85
+2025,PACKAGED MEAT,Beef Luncheon Loaf,,1.9,1.9
+2025,PACKAGED MEAT,Beef Taco Filling,,3.5,3.5
+2025,PACKAGED MEAT,Beef Taco Filling Hot & Spicy,,3.0,3.0
+2025,PACKAGED MEAT,Beef Tips & Gravy,,2.85,2.85
+2025,PACKAGED MEAT,EG Buffalo Chicken Sausage Bites,,2.2,2.2
+2025,PACKAGED MEAT,EH Chicken Chili w/Beans,8 oz,1.9,1.9
+2025,PACKAGED MEAT,EH Chunk Chicken,4.5 oz,1.95,1.95
+2025,PACKAGED MEAT,EH Low Sodium Chili No Beans,8 oz,2.25,2.25
+2025,PACKAGED MEAT,EH Low Sodium Chili w/Beans,8 oz,2.0,2.0
+2025,PACKAGED MEAT,EH Turkey Deli Bite Snackers,4 oz,2.4,2.4
+2025,PACKAGED MEAT,EKH Mackerel-Fillet,3.53 oz,1.75,1.75
+2025,PACKAGED MEAT,EKH Mackerel-Sriracha,3.53 oz,0.9,0.9
+2025,PACKAGED MEAT,EKH Sardines,3.53 oz,0.9,0.9
+2025,PACKAGED MEAT,EKH Tuna In Water,4.23 oz,1.7,1.7
+2025,PACKAGED MEAT,GKH Tuna w/ Jalapenos,3.53 oz,1.25,1.25
+2025,PACKAGED MEAT,Hot Beef & Jalapeno Stick,,1.85,1.85
+2025,PACKAGED MEAT,Klements Sausage Original,,2.6,2.6
+2025,PACKAGED MEAT,Pink Salmon,,2.5,2.5
+2025,PACKAGED MEAT,Shredded Beef Ribs,,3.4,3.4
+2025,PACKAGED MEAT,Starkist Chicken Teriyaki,,2.15,2.15
+2025,PACKAGED MEAT,Tuna Herb & Garlic,,1.5,1.5
+2025,PACKAGED MEAT,Tuna Lemon Pepper,,1.7,1.7
+2025,PACKAGED MEAT,Vienna Sausage Hot,,1.6,1.6
+2025,PACKAGED MEAT,Vienna Sausage Regular,,1.6,1.6
+2025,SHOES,Hightop Reebok,,63.0,63.0
+2025,SHOES,Men & Women Athletic,,30.0,70.0
+2025,SHOES,Rawlings sz 16-18 4E,,27.5,27.5
+2025,SHOES,Shower Shoes,,8.0,9.25
+2025,SHOES,Work Boots,,30.0,30.0
+2025,SNACKS,Almonds,5 oz,1.95,1.95
+2025,SNACKS,Assorted Crackers,,0.35,0.35
+2025,SNACKS,BBQ Chips,8 oz,1.8,1.8
+2025,SNACKS,Cookies- Buds,8 oz,1.5,1.5
+2025,SNACKS,Cookies-Assorted 12,16oz,1.85,2.25
+2025,SNACKS,Cookies-Assorted-Crème,14.6 oz,1.85,1.9
+2025,SNACKS,Cookies-Marias,,0.65,0.65
+2025,SNACKS,Cream Cheese Pound Cake,,1.2,1.2
+2025,SNACKS,Danish Cream Cheese,,1.05,1.05
+2025,SNACKS,EGH Sunflower Kernels,6 oz,1.6,1.6
+2025,SNACKS,EK Corn Chips,16 oz,2.7,2.7
+2025,SNACKS,EK Golden Round Crackers,10.58 oz,1.25,1.25
+2025,SNACKS,EK Jalapeno Potato Chips,8 oz,2.0,2.0
+2025,SNACKS,EK Tortilla Chips,16 oz,2.55,2.55
+2025,SNACKS,EKH Salted Peanuts,2 oz,0.45,0.45
+2025,SNACKS,EKH Saltine Cracker,4 oz,0.6,0.6
+2025,SNACKS,Garlic Bagel Chips,,2.8,2.8
+2025,SNACKS,Jalapeno Cheese Puffs,,2.2,2.2
+2025,SNACKS,KH Energizer Mix,4 oz,0.8,0.8
+2025,SNACKS,Mini Moon Pies- Variety,,1.8,1.8
+2025,SNACKS,Muffin-Blueberry/Banana,,1.75,1.75
+2025,SNACKS,Nacho Cheese Chip,,0.65,0.65
+2025,SNACKS,Potato Chips,2 oz,0.65,0.65
+2025,SNACKS,Potato Skins,,1.85,1.85
+2025,SNACKS,Pretzels,,1.65,1.65
+2025,SNACKS,Salsa Verda Chip,,1.3,1.3
+2025,SNACKS,Spicy Pork Skins,2.75 oz,1.2,1.2
+2025,SNACKS,Spicy Snack Mix,16 oz,2.65,2.65
+2025,SNACKS,Sweet & Salty Trail Mix,,1.0,1.0
+2025,SNACKS,Trail Mix - Mega Omega,8 oz,3.25,3.25
+2025,SNACKS,Vanilla Wafers,,2.15,2.15
+2025,SNACKS,Whole Shabang Chips,8 oz,1.8,1.8
