@@ -44,3 +44,13 @@ This project will provide tools to:
 
 
 ## Visualizations
+
+
+## Talking points:
+- General inflation comparison
+- Essential vs. Non-Essential items comparison
+- Current (2025) item prices outside vs. inside prisons
+
+
+## Retail prices sources:
+- 

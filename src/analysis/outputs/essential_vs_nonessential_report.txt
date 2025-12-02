@@ -1,0 +1,164 @@
+================================================================================
+ESSENTIAL VS NON-ESSENTIAL COMMISSARY PRICE ANALYSIS
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+
+This analysis examines whether prison commissaries charge more for
+essential items (basic necessities) compared to non-essential items
+(discretionary purchases) in Texas prisons from 2019 to 2025.
+
+KEY FINDING: Essential items have experienced 37.86 percentage points
+LESS cumulative inflation than non-essential items.
+
+
+METHODOLOGY
+--------------------------------------------------------------------------------
+
+Item Classification:
+Items were classified as 'essential' or 'non-essential' based on:
+  - Category context (e.g., HYGIENE items are generally essential)
+  - Item name patterns (e.g., 'soap', 'toothpaste' = essential)
+  - Item purpose (basic necessities vs. luxury/entertainment)
+
+Essential items include:
+  - Basic hygiene products (soap, toothpaste, shampoo, deodorant)
+  - Basic clothing (socks, underwear, t-shirts)
+  - Basic food items (not candy/snacks)
+  - Medications and vitamins
+  - Basic communication items (stamps, envelopes, writing paper)
+
+Non-essential items include:
+  - Candy and snacks
+  - Art supplies and games
+  - Electrical entertainment items
+  - Luxury personal care (makeup, hair styling products)
+  - Greeting cards and non-essential correspondence items
+
+Analysis Period: 2019-2025
+Total Items Analyzed: 150
+  - Essential items: 92
+  - Non-essential items: 58
+
+KEY STATISTICS
+--------------------------------------------------------------------------------
+
+Cumulative Inflation (2019-2025):
+
+Essential Items:
+  Mean: 56.74%
+  Median: 39.50%
+  Standard Deviation: 83.21%
+  Range: [-28.85%, 650.00%]
+  Items with >50% inflation: 41 (44.6%)
+  Items with negative inflation (deflation): 8 (8.7%)
+
+Non-Essential Items:
+  Mean: 94.60%
+  Median: 25.04%
+  Standard Deviation: 271.52%
+  Range: [-47.50%, 1971.43%]
+  Items with >50% inflation: 21 (36.2%)
+  Items with negative inflation (deflation): 3 (5.2%)
+
+Difference (Essential - Non-Essential):
+  Mean difference: -37.86 percentage points
+  Median difference: 14.46 percentage points
+
+CATEGORY BREAKDOWN
+--------------------------------------------------------------------------------
+
+Essential Items by Category (Average Cumulative Inflation):
+
+  CLOTHING                         113.69% (4 items)
+  CORRESPONDENCE                   102.36% (9 items)
+  HYGIENE                           76.06% (22 items)
+  INSTANT DRINK MIX                 74.18% (4 items)
+  KOSHER ITEMS                      48.77% (3 items)
+  OTC MEDICATIONS, VITAMINS, ETC    44.55% (31 items)
+  INSTANT FOODS                     40.15% (3 items)
+  SHOES                             38.00% (1 items)
+  CONDIMENTS                        35.09% (5 items)
+  PACKAGED MEAT                     17.24% (1 items)
+  FEMALE ONLY                       11.09% (5 items)
+  MALE ONLY                        -14.94% (4 items)
+
+Non-Essential Items by Category (Average Cumulative Inflation):
+
+  FEMALE ONLY                      306.45% (10 items)
+  ART SUPPLIES                      86.30% (8 items)
+  ICE CREAM                         68.89% (1 items)
+  ELECTRICAL                        66.67% (18 items)
+  GAMES                             56.52% (1 items)
+  CANDY                             44.55% (6 items)
+  SNACKS                            41.18% (1 items)
+  CORRESPONDENCE                    35.55% (3 items)
+  SODAS                              9.09% (5 items)
+  JEWELRY / RELIGIOUS              -10.80% (5 items)
+
+TOP ITEMS WITH HIGHEST INFLATION
+--------------------------------------------------------------------------------
+
+Top 10 Essential Items:
+   1. Afta After Shave (3 oz)                          650.00% [HYGIENE]
+   2. Typing Paper (50 sheets)                     268.42% [CORRESPONDENCE]
+   3. Eraser-Pencil/Ink                                 257.14% [CORRESPONDENCE]
+   4. T-Shirts                                 205.36% [CLOTHING]
+   5. Ibutab-Ibuprofen (24 tabs)                       180.00% [OTC MEDICATIONS, VITAMINS, ETC]
+   6. Boxer Shorts                                 148.48% [CLOTHING]
+   7. Manilla Envelope-Writ (2 pk)                          140.38% [CORRESPONDENCE]
+   8. EK Columbian Coffee (4.5 oz)                        137.50% [INSTANT DRINK MIX]
+   9. Petroleum Jelly (4 oz)                          133.33% [HYGIENE]
+  10. Antifungal Foot Powder (3.5 oz)                        132.14% [HYGIENE]
+
+Top 10 Non-Essential Items:
+   1. Foundation-Asst Shades (1 oz)                         1971.43% [FEMALE ONLY]
+   2. Eyeliner/Brow Pencil-.05 oz                                 650.00% [FEMALE ONLY]
+   3. ClearTech Lift Off                                 285.71% [ELECTRICAL]
+   4. Olympia/Clear Tech Ribbon                                 240.00% [ELECTRICAL]
+   5. Earbud-Stereo                                 225.00% [ELECTRICAL]
+   6. Watercolor Paints (16 colors)                     185.19% [ART SUPPLIES]
+   7. Colored Pencils (12 pk)                         181.25% [ART SUPPLIES]
+   8. Drawing Pad (9x12)                          172.00% [ART SUPPLIES]
+   9. Storage Box-14"x8"x8"                                 150.00% [FEMALE ONLY]
+  10. Ogilvie Hair Perm                                 130.00% [FEMALE ONLY]
+
+TIME SERIES TRENDS
+--------------------------------------------------------------------------------
+
+Year     Essential Mean     Non-Essential Mean   Difference  
+------------------------------------------------------------
+2019                 0.00%                0.00%        0.00 pp
+2020                 3.24%               17.18%      -13.94 pp
+2021                 7.43%               34.28%      -26.85 pp
+2022                22.12%               48.24%      -26.12 pp
+2023                35.09%               73.79%      -38.70 pp
+2024                45.86%               86.39%      -40.52 pp
+2025                56.74%               94.60%      -37.86 pp
+
+POLICY IMPLICATIONS
+--------------------------------------------------------------------------------
+
+The finding that essential items have lower inflation rates than
+non-essential items suggests that pricing may be more constrained
+on basic necessities, possibly due to policy or public scrutiny.
+However, both groups still show significant inflation above general
+CPI inflation rates.
+
+LIMITATIONS
+--------------------------------------------------------------------------------
+
+1. Classification Subjectivity: The classification of items as
+   'essential' vs 'non-essential' involves some subjectivity.
+   Different classification schemes might yield different results.
+
+2. Single State: This analysis covers only Texas prisons.
+   Results may not generalize to other states.
+
+3. Fixed Basket: Only items present in all years (2019-2025) are
+   included in the analysis. Items that were added or removed
+   during this period are excluded.
+
+4. Price Ranges: Some items have price ranges (min-max). This
+   analysis uses the average of min and max prices.

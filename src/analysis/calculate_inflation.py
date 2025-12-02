@@ -6,6 +6,7 @@ import sys
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent))
 from category_mapping import get_cpi_category
+from essential_classification import classify_item_essential
 
 def calculate_cpi_inflation(cpi_df):
     """
@@ -151,6 +152,9 @@ def calculate_commissary_inflation(commissary_df, required_years=None):
         item_name = item_data['item_name'].iloc[0]
         size = item_data['size'].iloc[0]
         
+        # Classify item as essential or non-essential
+        essential_status = classify_item_essential(item_name, category)
+        
         for idx, row in item_data.iterrows():
             year = row['year']
             price = row['price_avg']
@@ -173,6 +177,7 @@ def calculate_commissary_inflation(commissary_df, required_years=None):
                 'item_name': item_name,
                 'size': size,
                 'price': price,
+                'essential_status': essential_status,
                 'yoy_inflation_pct': yoy_inflation,
                 'cumulative_inflation_pct': cumulative_inflation
             })

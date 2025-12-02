@@ -1,1048 +1,1048 @@
-year,category,cpi_category,item_name,size,price,yoy_inflation_pct,cumulative_inflation_pct
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,2.65,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,2.45,-7.547169811320745,-7.547169811320745
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.0,63.26530612244897,50.943396226415096
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.35,8.749999999999991,64.15094339622641
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.35,0.0,64.15094339622641
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.35,0.0,64.15094339622641
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.35,0.0,64.15094339622641
-2019,HYGIENE,Personal care,Ad Seg Colgate,1 oz,0.7,,0.0
-2020,HYGIENE,Personal care,Ad Seg Colgate,1 oz,0.75,7.1428571428571495,7.1428571428571495
-2021,HYGIENE,Personal care,Ad Seg Colgate,1 oz,0.8,6.666666666666672,14.285714285714299
-2022,HYGIENE,Personal care,Ad Seg Colgate,1 oz,0.8,0.0,14.285714285714299
-2023,HYGIENE,Personal care,Ad Seg Colgate,1 oz,1.0,24.999999999999993,42.85714285714287
-2024,HYGIENE,Personal care,Ad Seg Colgate,1 oz,1.0,0.0,42.85714285714287
-2025,HYGIENE,Personal care,Ad Seg Colgate,1 oz,1.0,0.0,42.85714285714287
-2019,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,,0.0
-2020,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,0.0,0.0
-2021,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,0.0,0.0
-2022,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,0.0,0.0
-2023,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,0.0,0.0
-2024,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,0.0,0.0
-2025,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,0.0,0.0
-2019,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,,0.0
-2020,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,0.0,0.0
-2021,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,0.0,0.0
-2022,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,0.0,0.0
-2023,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,0.0,0.0
-2024,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,0.0,0.0
-2025,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,0.0,0.0
-2019,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.3,,0.0
-2020,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.35,3.8461538461538494,3.8461538461538494
-2021,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.35,0.0,3.8461538461538494
-2022,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.35,0.0,3.8461538461538494
-2023,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.5,11.111111111111104,15.38461538461538
-2024,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.5,0.0,15.38461538461538
-2025,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.5,0.0,15.38461538461538
-2019,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.5,,0.0
-2020,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,5.555555555555555,5.555555555555555
-2021,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,0.0,5.555555555555555
-2022,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,0.0,5.555555555555555
-2023,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,0.0,5.555555555555555
-2024,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,0.0,5.555555555555555
-2025,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,6.5,36.84210526315789,44.44444444444444
-2019,HYGIENE,Personal care,Afta After Shave,3 oz,0.6,,0.0
-2020,HYGIENE,Personal care,Afta After Shave,3 oz,2.75,358.33333333333337,358.33333333333337
-2021,HYGIENE,Personal care,Afta After Shave,3 oz,2.75,0.0,358.33333333333337
-2022,HYGIENE,Personal care,Afta After Shave,3 oz,2.7,-1.818181818181812,350.00000000000006
-2023,HYGIENE,Personal care,Afta After Shave,3 oz,2.7,0.0,350.00000000000006
-2024,HYGIENE,Personal care,Afta After Shave,3 oz,3.35,24.07407407407407,458.33333333333337
-2025,HYGIENE,Personal care,Afta After Shave,3 oz,4.5,34.32835820895522,650.0
-2019,ELECTRICAL,Recreation,Alarm Clock,,4.75,,0.0
-2020,ELECTRICAL,Recreation,Alarm Clock,,6.0,26.31578947368421,26.31578947368421
-2021,ELECTRICAL,Recreation,Alarm Clock,,6.0,0.0,26.31578947368421
-2022,ELECTRICAL,Recreation,Alarm Clock,,6.75,12.5,42.10526315789473
-2023,ELECTRICAL,Recreation,Alarm Clock,,7.5,11.11111111111111,57.89473684210527
-2024,ELECTRICAL,Recreation,Alarm Clock,,7.5,0.0,57.89473684210527
-2025,ELECTRICAL,Recreation,Alarm Clock,,7.5,0.0,57.89473684210527
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.1,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.1,0.0,0.0
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.1,0.0,0.0
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.5,36.36363636363635,36.36363636363635
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.6,6.666666666666672,45.45454545454545
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.9,18.74999999999999,72.7272727272727
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.95,2.631578947368424,77.27272727272727
-2019,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,,0.0
-2020,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,0.0,0.0
-2021,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,0.0,0.0
-2022,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,0.0,0.0
-2023,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,0.0,0.0
-2024,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,0.0,0.0
-2025,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,0.0,0.0
-2019,HYGIENE,Personal care,Antibacterial Lotion,4 oz,0.85,,0.0
-2020,HYGIENE,Personal care,Antibacterial Lotion,4 oz,0.85,0.0,0.0
-2021,HYGIENE,Personal care,Antibacterial Lotion,4 oz,0.9,5.882352941176476,5.882352941176476
-2022,HYGIENE,Personal care,Antibacterial Lotion,4 oz,1.1,22.22222222222223,29.411764705882366
-2023,HYGIENE,Personal care,Antibacterial Lotion,4 oz,1.1,0.0,29.411764705882366
-2024,HYGIENE,Personal care,Antibacterial Lotion,4 oz,1.6,45.45454545454545,88.23529411764707
-2025,HYGIENE,Personal care,Antibacterial Lotion,4 oz,1.6,0.0,88.23529411764707
-2019,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,,0.0
-2020,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,0.0,0.0
-2021,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,0.0,0.0
-2022,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,0.0,0.0
-2023,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,0.0,0.0
-2024,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,0.0,0.0
-2025,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,0.0,0.0
-2019,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,1.4,,0.0
-2020,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,1.4,0.0,0.0
-2021,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,1.4,0.0,0.0
-2022,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,1.4,0.0,0.0
-2023,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,3.25,132.14285714285717,132.14285714285717
-2024,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,3.25,0.0,132.14285714285717
-2025,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,3.25,0.0,132.14285714285717
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.75,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.6,-8.571428571428566,-8.571428571428566
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.6,0.0,-8.571428571428566
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.8,12.499999999999996,2.85714285714286
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.8,0.0,2.85714285714286
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.8,0.0,2.85714285714286
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,2.8,55.55555555555555,59.999999999999986
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.2,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.1,-8.333333333333323,-8.333333333333323
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.2,9.09090909090908,0.0
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.5,25.000000000000007,25.000000000000007
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.5,0.0,25.000000000000007
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.65,9.999999999999993,37.5
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.65,0.0,37.5
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.0,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,0.95,-5.000000000000004,-5.000000000000004
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.0,5.263157894736848,0.0
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.4,39.99999999999999,39.99999999999999
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.4,0.0,39.99999999999999
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.8,28.57142857142858,80.0
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.8,0.0,80.0
-2019,SODAS,Food at home,Big Red,12 oz,0.55,,0.0
-2020,SODAS,Food at home,Big Red,12 oz,0.55,0.0,0.0
-2021,SODAS,Food at home,Big Red,12 oz,0.55,0.0,0.0
-2022,SODAS,Food at home,Big Red,12 oz,0.55,0.0,0.0
-2023,SODAS,Food at home,Big Red,12 oz,0.55,0.0,0.0
-2024,SODAS,Food at home,Big Red,12 oz,0.55,0.0,0.0
-2025,SODAS,Food at home,Big Red,12 oz,0.6,9.09090909090908,9.09090909090908
-2019,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,2.25,,0.0
-2020,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,2.35,4.444444444444448,4.444444444444448
-2021,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,2.35,0.0,4.444444444444448
-2022,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,2.35,0.0,4.444444444444448
-2023,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,3.4,44.68085106382978,51.11111111111111
-2024,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,3.4,0.0,51.11111111111111
-2025,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,3.8,11.764705882352938,68.88888888888887
-2019,CLOTHING,Apparel,Boxer Shorts,,3.3,,0.0
-2020,CLOTHING,Apparel,Boxer Shorts,,3.9,18.181818181818183,18.181818181818183
-2021,CLOTHING,Apparel,Boxer Shorts,,5.5,41.02564102564103,66.66666666666667
-2022,CLOTHING,Apparel,Boxer Shorts,,4.5,-18.181818181818183,36.36363636363637
-2023,CLOTHING,Apparel,Boxer Shorts,,4.875,8.333333333333332,47.727272727272734
-2024,CLOTHING,Apparel,Boxer Shorts,,8.7,78.46153846153845,163.63636363636363
-2025,CLOTHING,Apparel,Boxer Shorts,,8.2,-5.74712643678161,148.4848484848485
-2019,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,7.125,,0.0
-2020,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,8.0,12.280701754385964,12.280701754385964
-2021,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,8.0,0.0,12.280701754385964
-2022,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,7.0,-12.5,-1.7543859649122806
-2023,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,7.5,7.142857142857142,5.263157894736842
-2024,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,7.5,0.0,5.263157894736842
-2025,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,12.0,60.0,68.42105263157895
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,1.55,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,1.45,-6.451612903225811,-6.451612903225811
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,1.45,0.0,-6.451612903225811
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,2.25,55.172413793103445,45.16129032258064
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,2.25,0.0,45.16129032258064
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,2.25,0.0,45.16129032258064
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,2.75,22.22222222222222,77.41935483870968
-2019,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,3.2,,0.0
-2020,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,3.15,-1.5625000000000084,-1.5625000000000084
-2021,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,3.3,4.761904761904759,3.124999999999989
-2022,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,3.7,12.121212121212132,15.625
-2023,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,4.75,28.378378378378372,48.43749999999999
-2024,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,4.75,0.0,48.43749999999999
-2025,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,4.05,-14.736842105263163,26.56249999999999
-2019,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,3.85,,0.0
-2020,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,4.75,23.376623376623375,23.376623376623375
-2021,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,5.0,5.263157894736842,29.87012987012987
-2022,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,5.0,0.0,29.87012987012987
-2023,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,6.0,20.0,55.84415584415584
-2024,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,6.0,0.0,55.84415584415584
-2025,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,6.0,0.0,55.84415584415584
-2019,GAMES,Recreation,Chess Set,,5.75,,0.0
-2020,GAMES,Recreation,Chess Set,,6.5,13.043478260869565,13.043478260869565
-2021,GAMES,Recreation,Chess Set,,6.5,0.0,13.043478260869565
-2022,GAMES,Recreation,Chess Set,,8.0,23.076923076923077,39.130434782608695
-2023,GAMES,Recreation,Chess Set,,8.0,0.0,39.130434782608695
-2024,GAMES,Recreation,Chess Set,,8.0,0.0,39.130434782608695
-2025,GAMES,Recreation,Chess Set,,9.0,12.5,56.52173913043478
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,0.85,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,0.75,-11.764705882352938,-11.764705882352938
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,0.75,0.0,-11.764705882352938
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,1.0,33.33333333333333,17.647058823529417
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,1.0,0.0,17.647058823529417
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,1.0,0.0,17.647058823529417
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,1.0,0.0,17.647058823529417
-2019,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.5,,0.0
-2020,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,3.333333333333336,3.333333333333336
-2021,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,0.0,3.333333333333336
-2022,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,0.0,3.333333333333336
-2023,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,0.0,3.333333333333336
-2024,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,0.0,3.333333333333336
-2025,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,0.0,3.333333333333336
-2019,ELECTRICAL,Recreation,ClearTech Lift Off,,0.35,,0.0
-2020,ELECTRICAL,Recreation,ClearTech Lift Off,,0.35,0.0,0.0
-2021,ELECTRICAL,Recreation,ClearTech Lift Off,,0.35,0.0,0.0
-2022,ELECTRICAL,Recreation,ClearTech Lift Off,,0.35,0.0,0.0
-2023,ELECTRICAL,Recreation,ClearTech Lift Off,,1.2,242.8571428571429,242.8571428571429
-2024,ELECTRICAL,Recreation,ClearTech Lift Off,,1.35,12.50000000000001,285.7142857142857
-2025,ELECTRICAL,Recreation,ClearTech Lift Off,,1.35,0.0,285.7142857142857
-2019,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,11.0,,0.0
-2020,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,11.0,0.0,0.0
-2021,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,11.0,0.0,0.0
-2022,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,12.0,9.090909090909092,9.090909090909092
-2023,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,12.0,0.0,9.090909090909092
-2024,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,12.0,0.0,9.090909090909092
-2025,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,13.0,8.333333333333332,18.181818181818183
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.1,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.1,0.0,0.0
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.1,0.0,0.0
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.25,13.636363636363628,13.636363636363628
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.25,0.0,13.636363636363628
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.25,0.0,13.636363636363628
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.25,0.0,13.636363636363628
-2019,ELECTRICAL,Recreation,Coax Cable,,1.35,,0.0
-2020,ELECTRICAL,Recreation,Coax Cable,,1.35,0.0,0.0
-2021,ELECTRICAL,Recreation,Coax Cable,,1.55,14.814814814814811,14.814814814814811
-2022,ELECTRICAL,Recreation,Coax Cable,,1.85,19.35483870967742,37.03703703703704
-2023,ELECTRICAL,Recreation,Coax Cable,,2.0,8.108108108108103,48.14814814814814
-2024,ELECTRICAL,Recreation,Coax Cable,,2.0,0.0,48.14814814814814
-2025,ELECTRICAL,Recreation,Coax Cable,,2.0,0.0,48.14814814814814
-2019,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.75,,0.0
-2020,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.75,0.0,0.0
-2021,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.6,-5.4545454545454515,-5.4545454545454515
-2022,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.6,0.0,-5.4545454545454515
-2023,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.6,0.0,-5.4545454545454515
-2024,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.6,0.0,-5.4545454545454515
-2025,HYGIENE,Personal care,Colgate Toothpaste,6 oz,3.0,15.38461538461538,9.090909090909092
-2019,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.6,,0.0
-2020,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.55,-3.1250000000000027,-3.1250000000000027
-2021,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.55,0.0,-3.1250000000000027
-2022,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.55,0.0,-3.1250000000000027
-2023,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.75,12.90322580645161,9.374999999999995
-2024,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.75,0.0,9.374999999999995
-2025,ART SUPPLIES,Recreation,Colored Pencils,12 pk,4.5,157.14285714285714,181.24999999999997
-2019,HYGIENE,Personal care,Conditioner,15 oz,1.25,,0.0
-2020,HYGIENE,Personal care,Conditioner,15 oz,1.25,0.0,0.0
-2021,HYGIENE,Personal care,Conditioner,15 oz,1.25,0.0,0.0
-2022,HYGIENE,Personal care,Conditioner,15 oz,1.3,4.0000000000000036,4.0000000000000036
-2023,HYGIENE,Personal care,Conditioner,15 oz,1.325,1.9230769230769162,5.9999999999999964
-2024,HYGIENE,Personal care,Conditioner,15 oz,1.35,1.8867924528301987,8.000000000000007
-2025,HYGIENE,Personal care,Conditioner,15 oz,1.35,0.0,8.000000000000007
-2019,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,,0.0
-2020,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,0.0,0.0
-2021,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,0.0,0.0
-2022,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,0.0,0.0
-2023,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,0.0,0.0
-2024,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,0.0,0.0
-2025,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,0.0,0.0
-2019,HYGIENE,Personal care,Dandruff Shampoo,12 oz,1.25,,0.0
-2020,HYGIENE,Personal care,Dandruff Shampoo,12 oz,1.25,0.0,0.0
-2021,HYGIENE,Personal care,Dandruff Shampoo,12 oz,1.45,15.999999999999998,15.999999999999998
-2022,HYGIENE,Personal care,Dandruff Shampoo,12 oz,1.45,0.0,15.999999999999998
-2023,HYGIENE,Personal care,Dandruff Shampoo,12 oz,2.25,55.172413793103445,80.0
-2024,HYGIENE,Personal care,Dandruff Shampoo,12 oz,2.25,0.0,80.0
-2025,HYGIENE,Personal care,Dandruff Shampoo,12 oz,2.25,0.0,80.0
-2019,HYGIENE,Personal care,Dial Soap,1.25 oz,0.2,,0.0
-2020,HYGIENE,Personal care,Dial Soap,1.25 oz,0.2,0.0,0.0
-2021,HYGIENE,Personal care,Dial Soap,1.25 oz,0.2,0.0,0.0
-2022,HYGIENE,Personal care,Dial Soap,1.25 oz,0.3,49.999999999999986,49.999999999999986
-2023,HYGIENE,Personal care,Dial Soap,1.25 oz,0.3,0.0,49.999999999999986
-2024,HYGIENE,Personal care,Dial Soap,1.25 oz,0.4,33.33333333333335,100.0
-2025,HYGIENE,Personal care,Dial Soap,1.25 oz,0.4,0.0,100.0
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,0.95,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,0.9,-5.263157894736835,-5.263157894736835
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,0.9,0.0,-5.263157894736835
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,1.15,27.77777777777776,21.052631578947363
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,1.3,13.043478260869579,36.842105263157904
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,1.3,0.0,36.842105263157904
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,1.35,3.8461538461538494,42.105263157894754
-2019,CORRESPONDENCE,Recreation,Dictionary (English),,7.0,,0.0
-2020,CORRESPONDENCE,Recreation,Dictionary (English),,6.0,-14.285714285714285,-14.285714285714285
-2021,CORRESPONDENCE,Recreation,Dictionary (English),,6.0,0.0,-14.285714285714285
-2022,CORRESPONDENCE,Recreation,Dictionary (English),,6.0,0.0,-14.285714285714285
-2023,CORRESPONDENCE,Recreation,Dictionary (English),,6.5,8.333333333333332,-7.142857142857142
-2024,CORRESPONDENCE,Recreation,Dictionary (English),,6.5,0.0,-7.142857142857142
-2025,CORRESPONDENCE,Recreation,Dictionary (English),,7.5,15.384615384615385,7.142857142857142
-2019,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,2.0,,0.0
-2020,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,1.9,-5.000000000000004,-5.000000000000004
-2021,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,2.75,44.736842105263165,37.5
-2022,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,4.25,54.54545454545454,112.5
-2023,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,4.25,0.0,112.5
-2024,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,4.25,0.0,112.5
-2025,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,4.25,0.0,112.5
-2019,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.25,,0.0
-2020,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.25,0.0,0.0
-2021,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.25,0.0,0.0
-2022,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.3,4.0000000000000036,4.0000000000000036
-2023,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.3,0.0,4.0000000000000036
-2024,ART SUPPLIES,Recreation,Drawing Pad,9x12,2.3,76.9230769230769,83.99999999999999
-2025,ART SUPPLIES,Recreation,Drawing Pad,9x12,3.4,47.82608695652175,172.0
-2019,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,2.0,,0.0
-2020,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,2.0,0.0,0.0
-2021,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,2.0,0.0,0.0
-2022,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,2.5,25.0,25.0
-2023,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,4.5,80.0,125.0
-2024,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,4.15,-7.77777777777777,107.50000000000001
-2025,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,4.75,14.457831325301196,137.5
-2019,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,,0.0
-2020,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,0.0,0.0
-2021,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,0.0,0.0
-2022,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,0.0,0.0
-2023,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,0.0,0.0
-2024,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,0.0,0.0
-2025,SODAS,Food at home,EK Dr Pepper,12 oz,0.6,9.09090909090908,9.09090909090908
-2019,CANDY,Food at home,EK Peppermint Stick,1 oz,0.1,,0.0
-2020,CANDY,Food at home,EK Peppermint Stick,1 oz,0.1,0.0,0.0
-2021,CANDY,Food at home,EK Peppermint Stick,1 oz,0.1,0.0,0.0
-2022,CANDY,Food at home,EK Peppermint Stick,1 oz,0.1,0.0,0.0
-2023,CANDY,Food at home,EK Peppermint Stick,1 oz,0.15,49.999999999999986,49.999999999999986
-2024,CANDY,Food at home,EK Peppermint Stick,1 oz,0.15,0.0,49.999999999999986
-2025,CANDY,Food at home,EK Peppermint Stick,1 oz,0.15,0.0,49.999999999999986
-2019,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,0.9,,0.0
-2020,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,0.9,0.0,0.0
-2021,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,0.9,0.0,0.0
-2022,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,1.1,22.22222222222223,22.22222222222223
-2023,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,2.0,81.8181818181818,122.22222222222223
-2024,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,1.45,-27.500000000000004,61.11111111111111
-2025,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,1.45,0.0,61.11111111111111
-2019,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.45,,0.0
-2020,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.6,10.344827586206906,10.344827586206906
-2021,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.6,0.0,10.344827586206906
-2022,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.7,6.249999999999992,17.24137931034483
-2023,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.7,0.0,17.24137931034483
-2024,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.7,0.0,17.24137931034483
-2025,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.7,0.0,17.24137931034483
-2019,ELECTRICAL,Recreation,Earbud-Stereo,,1.0,,0.0
-2020,ELECTRICAL,Recreation,Earbud-Stereo,,1.0,0.0,0.0
-2021,ELECTRICAL,Recreation,Earbud-Stereo,,1.0,0.0,0.0
-2022,ELECTRICAL,Recreation,Earbud-Stereo,,3.25,225.0,225.0
-2023,ELECTRICAL,Recreation,Earbud-Stereo,,3.25,0.0,225.0
-2024,ELECTRICAL,Recreation,Earbud-Stereo,,3.25,0.0,225.0
-2025,ELECTRICAL,Recreation,Earbud-Stereo,,3.25,0.0,225.0
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,1.9,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.0,5.263157894736848,5.263157894736848
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,1.95,-2.500000000000002,2.631578947368424
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.25,15.384615384615389,18.421052631578952
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.25,0.0,18.421052631578952
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.25,0.0,18.421052631578952
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.25,0.0,18.421052631578952
-2019,HYGIENE,Personal care,Efferdent,102 tablets,8.0,,0.0
-2020,HYGIENE,Personal care,Efferdent,102 tablets,8.0,0.0,0.0
-2021,HYGIENE,Personal care,Efferdent,102 tablets,7.5,-6.25,-6.25
-2022,HYGIENE,Personal care,Efferdent,102 tablets,7.5,0.0,-6.25
-2023,HYGIENE,Personal care,Efferdent,102 tablets,7.5,0.0,-6.25
-2024,HYGIENE,Personal care,Efferdent,102 tablets,7.75,3.3333333333333335,-3.125
-2025,HYGIENE,Personal care,Efferdent,102 tablets,7.75,0.0,-3.125
-2019,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.03,,0.0
-2020,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.03,0.0,0.0
-2021,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,66.66666666666669,66.66666666666669
-2022,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,0.0,66.66666666666669
-2023,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,0.0,66.66666666666669
-2024,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,0.0,66.66666666666669
-2025,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,0.0,66.66666666666669
-2019,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,0.35,,0.0
-2020,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,0.35,0.0,0.0
-2021,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,0.35,0.0,0.0
-2022,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,0.35,0.0,0.0
-2023,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,1.0,185.71428571428575,185.71428571428575
-2024,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,1.25,25.0,257.14285714285717
-2025,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,1.25,0.0,257.14285714285717
-2019,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,0.7,,0.0
-2020,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,0.7,0.0,0.0
-2021,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,650.0,650.0
-2022,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,0.0,650.0
-2023,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,0.0,650.0
-2024,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,0.0,650.0
-2025,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,0.0,650.0
-2019,ELECTRICAL,Recreation,"Fan 9"" Electric",,20.0,,0.0
-2020,ELECTRICAL,Recreation,"Fan 9"" Electric",,20.0,0.0,0.0
-2021,ELECTRICAL,Recreation,"Fan 9"" Electric",,20.0,0.0,0.0
-2022,ELECTRICAL,Recreation,"Fan 9"" Electric",,23.0,15.0,15.0
-2023,ELECTRICAL,Recreation,"Fan 9"" Electric",,23.0,0.0,15.0
-2024,ELECTRICAL,Recreation,"Fan 9"" Electric",,23.0,0.0,15.0
-2025,ELECTRICAL,Recreation,"Fan 9"" Electric",,23.0,0.0,15.0
-2019,SODAS,Food at home,Fanta Orange,12 oz,0.55,,0.0
-2020,SODAS,Food at home,Fanta Orange,12 oz,0.55,0.0,0.0
-2021,SODAS,Food at home,Fanta Orange,12 oz,0.55,0.0,0.0
-2022,SODAS,Food at home,Fanta Orange,12 oz,0.55,0.0,0.0
-2023,SODAS,Food at home,Fanta Orange,12 oz,0.55,0.0,0.0
-2024,SODAS,Food at home,Fanta Orange,12 oz,0.55,0.0,0.0
-2025,SODAS,Food at home,Fanta Orange,12 oz,0.6,9.09090909090908,9.09090909090908
-2019,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,,0.0
-2020,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,0.0,0.0
-2021,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,0.0,0.0
-2022,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,0.0,0.0
-2023,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,0.0,0.0
-2024,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,0.0,0.0
-2025,SODAS,Food at home,Fanta Pineapple,12 oz,0.6,9.09090909090908,9.09090909090908
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,5.25,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,4.5,-14.285714285714285,-14.285714285714285
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,4.5,0.0,-14.285714285714285
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,5.5,22.22222222222222,4.761904761904762
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,5.5,0.0,4.761904761904762
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,7.0,27.27272727272727,33.33333333333333
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,7.0,0.0,33.33333333333333
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,4.25,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,4.5,5.88235294117647,5.88235294117647
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,4.75,5.555555555555555,11.76470588235294
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,4.9,3.157894736842113,15.294117647058833
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,5.0,2.0408163265306047,17.647058823529413
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,5.0,0.0,17.647058823529413
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,5.0,0.0,17.647058823529413
-2019,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.25,,0.0
-2020,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.35,8.000000000000007,8.000000000000007
-2021,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.35,0.0,8.000000000000007
-2022,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.4,3.7037037037036904,11.999999999999993
-2023,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.4,0.0,11.999999999999993
-2024,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.4,0.0,11.999999999999993
-2025,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.4,0.0,11.999999999999993
-2019,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,0.7,,0.0
-2020,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,6.95,892.8571428571429,892.8571428571429
-2021,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,6.95,0.0,892.8571428571429
-2022,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,7.95,14.388489208633093,1035.7142857142858
-2023,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,12.5,57.23270440251572,1685.7142857142858
-2024,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,14.5,16.0,1971.4285714285716
-2025,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,14.5,0.0,1971.4285714285716
-2019,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.4,,0.0
-2020,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,4.1666666666666705,4.1666666666666705
-2021,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,0.0,4.1666666666666705
-2022,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,0.0,4.1666666666666705
-2023,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,0.0,4.1666666666666705
-2024,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,0.0,4.1666666666666705
-2025,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,0.0,4.1666666666666705
-2019,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.4,,0.0
-2020,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.4,0.0,0.0
-2021,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.4,0.0,0.0
-2022,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.4,0.0,0.0
-2023,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.6,49.999999999999986,49.999999999999986
-2024,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.75,25.000000000000007,87.49999999999999
-2025,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.75,0.0,87.49999999999999
-2019,CLOTHING,Apparel,Gym Shorts,,5.5,,0.0
-2020,CLOTHING,Apparel,Gym Shorts,,7.0,27.27272727272727,27.27272727272727
-2021,CLOTHING,Apparel,Gym Shorts,,8.0,14.285714285714285,45.45454545454545
-2022,CLOTHING,Apparel,Gym Shorts,,8.5,6.25,54.54545454545454
-2023,CLOTHING,Apparel,Gym Shorts,,10.5,23.52941176470588,90.9090909090909
-2024,CLOTHING,Apparel,Gym Shorts,,10.5,0.0,90.9090909090909
-2025,CLOTHING,Apparel,Gym Shorts,,10.5,0.0,90.9090909090909
-2019,HYGIENE,Personal care,Hair Brush-No Handle,,0.65,,0.0
-2020,HYGIENE,Personal care,Hair Brush-No Handle,,0.65,0.0,0.0
-2021,HYGIENE,Personal care,Hair Brush-No Handle,,0.65,0.0,0.0
-2022,HYGIENE,Personal care,Hair Brush-No Handle,,0.8,23.076923076923077,23.076923076923077
-2023,HYGIENE,Personal care,Hair Brush-No Handle,,1.1,37.50000000000001,69.23076923076924
-2024,HYGIENE,Personal care,Hair Brush-No Handle,,1.1,0.0,69.23076923076924
-2025,HYGIENE,Personal care,Hair Brush-No Handle,,1.1,0.0,69.23076923076924
-2019,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,22.0,,0.0
-2020,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,22.0,0.0,0.0
-2021,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,22.0,0.0,0.0
-2022,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,24.0,9.090909090909092,9.090909090909092
-2023,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,25.0,4.166666666666666,13.636363636363635
-2024,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,31.0,24.0,40.909090909090914
-2025,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,31.0,0.0,40.909090909090914
-2019,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,0.0,0.0
-2021,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,0.0,0.0
-2022,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,0.0,0.0
-2023,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,0.0,0.0
-2024,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,0.0,0.0
-2025,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,0.0,0.0
-2019,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,0.0,0.0
-2021,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,0.0,0.0
-2022,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,2.5,100.0,100.0
-2023,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,-70.0,-40.0
-2024,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,0.0,-40.0
-2025,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,0.0,-40.0
-2019,ELECTRICAL,Recreation,Headphones,,5.5,,0.0
-2020,ELECTRICAL,Recreation,Headphones,,6.0,9.090909090909092,9.090909090909092
-2021,ELECTRICAL,Recreation,Headphones,,6.0,0.0,9.090909090909092
-2022,ELECTRICAL,Recreation,Headphones,,7.0,16.666666666666664,27.27272727272727
-2023,ELECTRICAL,Recreation,Headphones,,7.0,0.0,27.27272727272727
-2024,ELECTRICAL,Recreation,Headphones,,7.0,0.0,27.27272727272727
-2025,ELECTRICAL,Recreation,Headphones,,10.0,42.857142857142854,81.81818181818183
-2019,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,,0.0
-2020,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,0.0,0.0
-2021,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,0.0,0.0
-2022,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,0.0,0.0
-2023,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,0.0,0.0
-2024,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,0.0,0.0
-2025,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,0.0,0.0
-2019,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,0.95,,0.0
-2020,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.0,5.263157894736848,5.263157894736848
-2021,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.0,0.0,5.263157894736848
-2022,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.4,39.99999999999999,47.368421052631575
-2023,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.4,0.0,47.368421052631575
-2024,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.95,39.28571428571429,105.26315789473684
-2025,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.95,0.0,105.26315789473684
-2019,ELECTRICAL,Recreation,Hot Pot w/Insert,,22.5,,0.0
-2020,ELECTRICAL,Recreation,Hot Pot w/Insert,,22.5,0.0,0.0
-2021,ELECTRICAL,Recreation,Hot Pot w/Insert,,22.5,0.0,0.0
-2022,ELECTRICAL,Recreation,Hot Pot w/Insert,,24.5,8.88888888888889,8.88888888888889
-2023,ELECTRICAL,Recreation,Hot Pot w/Insert,,24.5,0.0,8.88888888888889
-2024,ELECTRICAL,Recreation,Hot Pot w/Insert,,24.5,0.0,8.88888888888889
-2025,ELECTRICAL,Recreation,Hot Pot w/Insert,,24.5,0.0,8.88888888888889
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.5,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.35,-9.999999999999993,-9.999999999999993
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.35,0.0,-9.999999999999993
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.5,11.111111111111104,0.0
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.5,0.0,0.0
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.85,23.33333333333334,23.33333333333334
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.85,0.0,23.33333333333334
-2019,MALE ONLY,Personal care,Hygiene Pack,3 piece,13.0,,0.0
-2020,MALE ONLY,Personal care,Hygiene Pack,3 piece,13.0,0.0,0.0
-2021,MALE ONLY,Personal care,Hygiene Pack,3 piece,10.0,-23.076923076923077,-23.076923076923077
-2022,MALE ONLY,Personal care,Hygiene Pack,3 piece,7.5,-25.0,-42.30769230769231
-2022,MALE ONLY,Personal care,Hygiene Pack,3 piece,8.75,-12.5,-32.69230769230769
-2023,MALE ONLY,Personal care,Hygiene Pack,3 piece,7.5,0.0,-42.30769230769231
-2023,MALE ONLY,Personal care,Hygiene Pack,3 piece,8.75,16.666666666666664,-32.69230769230769
-2024,MALE ONLY,Personal care,Hygiene Pack,3 piece,9.5,26.666666666666668,-26.923076923076923
-2024,MALE ONLY,Personal care,Hygiene Pack,3 piece,9.25,23.333333333333332,-28.846153846153843
-2025,MALE ONLY,Personal care,Hygiene Pack,3 piece,9.5,0.0,-26.923076923076923
-2025,MALE ONLY,Personal care,Hygiene Pack,3 piece,9.25,-2.631578947368421,-28.846153846153843
-2019,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,24.0,,0.0
-2020,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,-16.666666666666664,-16.666666666666664
-2021,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,0.0,-16.666666666666664
-2022,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,0.0,-16.666666666666664
-2023,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,0.0,-16.666666666666664
-2024,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,0.0,-16.666666666666664
-2025,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,22.0,10.0,-8.333333333333332
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.25,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.55,24.000000000000004,24.000000000000004
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.55,0.0,24.000000000000004
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.65,6.451612903225798,31.999999999999996
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.55,-6.0606060606060534,24.000000000000004
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.55,0.0,24.000000000000004
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,3.5,125.80645161290323,180.0
-2019,ART SUPPLIES,Recreation,Illustration Boards,2 pk,4.3,,0.0
-2020,ART SUPPLIES,Recreation,Illustration Boards,2 pk,4.3,0.0,0.0
-2021,ART SUPPLIES,Recreation,Illustration Boards,2 pk,4.5,4.651162790697678,4.651162790697678
-2022,ART SUPPLIES,Recreation,Illustration Boards,2 pk,4.5,0.0,4.651162790697678
-2023,ART SUPPLIES,Recreation,Illustration Boards,2 pk,5.0,11.11111111111111,16.279069767441865
-2024,ART SUPPLIES,Recreation,Illustration Boards,2 pk,5.0,0.0,16.279069767441865
-2025,ART SUPPLIES,Recreation,Illustration Boards,2 pk,5.0,0.0,16.279069767441865
-2019,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,0.95,,0.0
-2020,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.2,26.31578947368421,26.31578947368421
-2021,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.2,0.0,26.31578947368421
-2022,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.5,25.000000000000007,57.89473684210527
-2023,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.5,0.0,57.89473684210527
-2024,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.5,0.0,57.89473684210527
-2025,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.5,0.0,57.89473684210527
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.15,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.1,-4.347826086956506,-4.347826086956506
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.1,0.0,-4.347826086956506
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.25,13.636363636363628,8.695652173913052
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.25,0.0,8.695652173913052
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.85,48.00000000000001,60.86956521739132
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.85,0.0,60.86956521739132
-2019,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,,0.0
-2020,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,0.0,0.0
-2021,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,0.0,0.0
-2022,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,0.0,0.0
-2023,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,0.0,0.0
-2024,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,0.0,0.0
-2025,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,0.0,0.0
-2019,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,4.75,,0.0
-2020,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,5.0,5.263157894736842,5.263157894736842
-2021,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,5.0,0.0,5.263157894736842
-2022,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,6.75,35.0,42.10526315789473
-2023,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,6.75,0.0,42.10526315789473
-2024,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,8.5,25.925925925925924,78.94736842105263
-2025,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,8.125,-4.411764705882353,71.05263157894737
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.0,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,1.9,-5.000000000000004,-5.000000000000004
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,1.9,0.0,-5.000000000000004
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.5,31.578947368421055,25.0
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.5,0.0,25.0
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.5,0.0,25.0
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.5,0.0,25.0
-2019,HYGIENE,Personal care,Magic Shave Cream,6 oz,4.45,,0.0
-2020,HYGIENE,Personal care,Magic Shave Cream,6 oz,4.45,0.0,0.0
-2021,HYGIENE,Personal care,Magic Shave Cream,6 oz,4.45,0.0,0.0
-2022,HYGIENE,Personal care,Magic Shave Cream,6 oz,4.45,0.0,0.0
-2023,HYGIENE,Personal care,Magic Shave Cream,6 oz,7.0,57.30337078651685,57.30337078651685
-2024,HYGIENE,Personal care,Magic Shave Cream,6 oz,7.0,0.0,57.30337078651685
-2025,HYGIENE,Personal care,Magic Shave Cream,6 oz,7.0,0.0,57.30337078651685
-2019,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,,0.0
-2020,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,0.0,0.0
-2021,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,0.0,0.0
-2022,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,0.0,0.0
-2023,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,0.0,0.0
-2024,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,1.25,140.3846153846154,140.3846153846154
-2025,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,1.25,0.0,140.3846153846154
-2019,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,9.0,,0.0
-2020,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,9.0,0.0,0.0
-2021,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,11.11111111111111,11.11111111111111
-2022,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,0.0,11.11111111111111
-2023,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,0.0,11.11111111111111
-2024,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,0.0,11.11111111111111
-2025,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,0.0,11.11111111111111
-2019,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.25,,0.0
-2020,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.25,0.0,0.0
-2021,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.25,0.0,0.0
-2022,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.25,0.0,0.0
-2023,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.5,7.6923076923076925,7.6923076923076925
-2024,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,2.9,-17.142857142857146,-10.769230769230772
-2025,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,4.5,55.172413793103445,38.46153846153847
-2019,FEMALE ONLY,Personal care,Maxi Pads,22 ct,2.45,,0.0
-2020,FEMALE ONLY,Personal care,Maxi Pads,22 ct,2.45,0.0,0.0
-2021,FEMALE ONLY,Personal care,Maxi Pads,22 ct,2.45,0.0,0.0
-2022,FEMALE ONLY,Personal care,Maxi Pads,22 ct,2.85,16.326530612244895,16.326530612244895
-2023,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,5.263157894736839,22.448979591836725
-2024,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,0.0,22.448979591836725
-2025,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,0.0,22.448979591836725
-2019,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,0.0,0.0
-2021,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,0.0,0.0
-2022,JEWELRY / RELIGIOUS,Other goods,Medallions,,12.375,6.451612903225806,6.451612903225806
-2023,JEWELRY / RELIGIOUS,Other goods,Medallions,,12.375,0.0,6.451612903225806
-2024,JEWELRY / RELIGIOUS,Other goods,Medallions,,14.125,14.14141414141414,21.50537634408602
-2025,JEWELRY / RELIGIOUS,Other goods,Medallions,,14.125,0.0,21.50537634408602
-2019,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,,0.0
-2020,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,0.0,0.0
-2021,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,0.0,0.0
-2022,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.6,33.33333333333335,33.33333333333335
-2023,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.6,0.0,33.33333333333335
-2024,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,2.0,24.999999999999993,66.66666666666667
-2025,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,2.0,0.0,66.66666666666667
-2019,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.5,,0.0
-2020,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.5,0.0,0.0
-2021,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.45,-1.9999999999999927,-1.9999999999999927
-2022,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.45,0.0,-1.9999999999999927
-2023,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.45,0.0,-1.9999999999999927
-2024,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.45,0.0,-1.9999999999999927
-2025,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,3.0,22.448979591836725,20.0
-2019,MALE ONLY,Personal care,Mennen Deodorant,3 oz,2.5,,0.0
-2020,MALE ONLY,Personal care,Mennen Deodorant,3 oz,2.5,0.0,0.0
-2021,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.0,-60.0,-60.0
-2022,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.4,39.99999999999999,-44.00000000000001
-2023,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.4,0.0,-44.00000000000001
-2024,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.4,0.0,-44.00000000000001
-2025,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.9,35.714285714285715,-24.000000000000004
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,3.4,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,2.7,-20.58823529411764,-20.58823529411764
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,2.7,0.0,-20.58823529411764
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,5.5,103.7037037037037,61.76470588235294
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,5.5,0.0,61.76470588235294
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,5.5,0.0,61.76470588235294
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,5.5,0.0,61.76470588235294
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.45,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.2,-10.20408163265306,-10.20408163265306
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.2,0.0,-10.20408163265306
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.45,11.363636363636363,0.0
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.75,12.244897959183664,12.244897959183664
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,4.25,54.54545454545454,73.46938775510203
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,4.25,0.0,73.46938775510203
-2019,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.5,,0.0
-2020,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.5,0.0,0.0
-2021,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.5,0.0,0.0
-2022,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.5,0.0,0.0
-2023,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,3.0,20.0,20.0
-2024,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,4.15,38.33333333333335,66.00000000000001
-2025,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.4,-42.168674698795186,-4.0000000000000036
-2019,SODAS,Food at home,Mountain Dew,12 oz,0.55,,0.0
-2020,SODAS,Food at home,Mountain Dew,12 oz,0.55,0.0,0.0
-2021,SODAS,Food at home,Mountain Dew,12 oz,0.55,0.0,0.0
-2022,SODAS,Food at home,Mountain Dew,12 oz,0.55,0.0,0.0
-2023,SODAS,Food at home,Mountain Dew,12 oz,0.55,0.0,0.0
-2024,SODAS,Food at home,Mountain Dew,12 oz,0.55,0.0,0.0
-2025,SODAS,Food at home,Mountain Dew,12 oz,0.6,9.09090909090908,9.09090909090908
-2019,ELECTRICAL,Recreation,Multi Outlet (2 plug),,7.5,,0.0
-2020,ELECTRICAL,Recreation,Multi Outlet (2 plug),,8.0,6.666666666666667,6.666666666666667
-2021,ELECTRICAL,Recreation,Multi Outlet (2 plug),,8.0,0.0,6.666666666666667
-2022,ELECTRICAL,Recreation,Multi Outlet (2 plug),,9.0,12.5,20.0
-2023,ELECTRICAL,Recreation,Multi Outlet (2 plug),,9.0,0.0,20.0
-2024,ELECTRICAL,Recreation,Multi Outlet (2 plug),,9.0,0.0,20.0
-2025,ELECTRICAL,Recreation,Multi Outlet (2 plug),,9.0,0.0,20.0
-2019,HYGIENE,Personal care,Nail Clippers,,0.3,,0.0
-2020,HYGIENE,Personal care,Nail Clippers,,0.35,16.666666666666664,16.666666666666664
-2021,HYGIENE,Personal care,Nail Clippers,,0.4,14.285714285714299,33.33333333333335
-2022,HYGIENE,Personal care,Nail Clippers,,0.25,-37.50000000000001,-16.666666666666664
-2023,HYGIENE,Personal care,Nail Clippers,,0.25,0.0,-16.666666666666664
-2024,HYGIENE,Personal care,Nail Clippers,,0.25,0.0,-16.666666666666664
-2025,HYGIENE,Personal care,Nail Clippers,,0.25,0.0,-16.666666666666664
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,15.0,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,17.0,13.333333333333334,13.333333333333334
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,17.0,0.0,13.333333333333334
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,18.6,9.41176470588236,24.00000000000001
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,20.0,7.526881720430099,33.33333333333333
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,20.0,0.0,33.33333333333333
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,20.0,0.0,33.33333333333333
-2019,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.45,,0.0
-2020,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.5,3.448275862068969,3.448275862068969
-2021,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.55,3.333333333333336,6.896551724137938
-2022,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.65,6.451612903225798,13.79310344827586
-2023,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.85,12.121212121212132,27.586206896551737
-2024,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.85,0.0,27.586206896551737
-2025,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.85,0.0,27.586206896551737
-2019,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,10.0,,0.0
-2020,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,10.0,0.0,0.0
-2021,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,10.0,0.0,0.0
-2022,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,15.0,50.0,50.0
-2023,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,23.0,53.333333333333336,130.0
-2024,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,23.0,0.0,130.0
-2025,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,23.0,0.0,130.0
-2019,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,1.75,,0.0
-2020,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,1.75,0.0,0.0
-2021,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,1.75,0.0,0.0
-2022,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,1.75,0.0,0.0
-2023,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,4.75,171.42857142857142,171.42857142857142
-2024,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,4.85,2.1052631578947296,177.1428571428571
-2025,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,5.95,22.680412371134036,240.0
-2019,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,1.85,,0.0
-2020,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,1.8,-2.702702702702705,-2.702702702702705
-2021,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,1.8,0.0,-2.702702702702705
-2022,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,1.8,0.0,-2.702702702702705
-2023,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,2.6,44.44444444444445,40.54054054054054
-2024,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,2.6,0.0,40.54054054054054
-2025,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,2.6,0.0,40.54054054054054
-2019,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,,0.0
-2020,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,0.0,0.0
-2021,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,0.0,0.0
-2022,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,0.0,0.0
-2023,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,0.0,0.0
-2024,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,0.0,0.0
-2025,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,0.0,0.0
-2019,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.45,,0.0
-2020,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.35,-22.22222222222223,-22.22222222222223
-2021,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.35,0.0,-22.22222222222223
-2022,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.5,42.85714285714287,11.111111111111107
-2023,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.5,0.0,11.111111111111107
-2024,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.65,30.000000000000004,44.44444444444445
-2025,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.75,15.38461538461538,66.66666666666666
-2019,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,,0.0
-2020,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,0.0,0.0
-2021,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,0.0,0.0
-2022,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,0.0,0.0
-2023,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,0.0,0.0
-2024,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,0.0,0.0
-2025,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,0.0,0.0
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.0,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,1.85,-7.499999999999996,-7.499999999999996
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,1.85,0.0,-7.499999999999996
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.5,35.13513513513512,25.0
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.5,0.0,25.0
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.5,0.0,25.0
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.75,10.0,37.5
-2019,HYGIENE,Personal care,Petroleum Jelly,4 oz,0.75,,0.0
-2020,HYGIENE,Personal care,Petroleum Jelly,4 oz,0.75,0.0,0.0
-2021,HYGIENE,Personal care,Petroleum Jelly,4 oz,0.75,0.0,0.0
-2022,HYGIENE,Personal care,Petroleum Jelly,4 oz,1.7,126.66666666666666,126.66666666666666
-2023,HYGIENE,Personal care,Petroleum Jelly,4 oz,1.75,2.941176470588238,133.33333333333331
-2024,HYGIENE,Personal care,Petroleum Jelly,4 oz,1.75,0.0,133.33333333333331
-2025,HYGIENE,Personal care,Petroleum Jelly,4 oz,1.75,0.0,133.33333333333331
-2019,HYGIENE,Personal care,Pocket Comb,,0.25,,0.0
-2020,HYGIENE,Personal care,Pocket Comb,,0.3,19.999999999999996,19.999999999999996
-2021,HYGIENE,Personal care,Pocket Comb,,0.3,0.0,19.999999999999996
-2022,HYGIENE,Personal care,Pocket Comb,,0.3,0.0,19.999999999999996
-2023,HYGIENE,Personal care,Pocket Comb,,0.3,0.0,19.999999999999996
-2024,HYGIENE,Personal care,Pocket Comb,,0.3,0.0,19.999999999999996
-2025,HYGIENE,Personal care,Pocket Comb,,0.3,0.0,19.999999999999996
-2019,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.0,,0.0
-2020,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.0,0.0,0.0
-2021,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.0,0.0,0.0
-2022,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.0,0.0,0.0
-2023,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.15,14.999999999999991,14.999999999999991
-2024,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.2,4.347826086956526,19.999999999999996
-2025,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.4,16.666666666666664,39.99999999999999
-2019,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,18.75,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,6.666666666666667,6.666666666666667
-2021,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,0.0,6.666666666666667
-2022,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,0.0,6.666666666666667
-2023,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,0.0,6.666666666666667
-2024,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,21.0,5.0,12.0
-2025,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,21.0,0.0,12.0
-2019,ART SUPPLIES,Recreation,Protractor Ruler,,0.45,,0.0
-2020,ART SUPPLIES,Recreation,Protractor Ruler,,0.5,11.111111111111107,11.111111111111107
-2021,ART SUPPLIES,Recreation,Protractor Ruler,,0.35,-30.000000000000004,-22.22222222222223
-2022,ART SUPPLIES,Recreation,Protractor Ruler,,0.35,0.0,-22.22222222222223
-2023,ART SUPPLIES,Recreation,Protractor Ruler,,1.0,185.71428571428575,122.22222222222223
-2024,ART SUPPLIES,Recreation,Protractor Ruler,,1.0,0.0,122.22222222222223
-2025,ART SUPPLIES,Recreation,Protractor Ruler,,0.75,-25.0,66.66666666666666
-2019,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,,0.0
-2020,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,0.0,0.0
-2021,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,0.0,0.0
-2022,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,0.0,0.0
-2023,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,0.0,0.0
-2024,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,0.0,0.0
-2025,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,0.0,0.0
-2019,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.1,,0.0
-2020,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.1,0.0,0.0
-2021,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.1,0.0,0.0
-2022,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.1,0.0,0.0
-2023,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.15,49.999999999999986,49.999999999999986
-2024,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.15,0.0,49.999999999999986
-2025,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.15,0.0,49.999999999999986
-2019,HYGIENE,Personal care,Razor Disposable,10 pk,0.65,,0.0
-2020,HYGIENE,Personal care,Razor Disposable,10 pk,1.15,76.9230769230769,76.9230769230769
-2021,HYGIENE,Personal care,Razor Disposable,10 pk,1.75,52.17391304347827,169.23076923076923
-2022,HYGIENE,Personal care,Razor Disposable,10 pk,1.75,0.0,169.23076923076923
-2023,HYGIENE,Personal care,Razor Disposable,10 pk,1.75,0.0,169.23076923076923
-2024,HYGIENE,Personal care,Razor Disposable,10 pk,1.75,0.0,169.23076923076923
-2025,HYGIENE,Personal care,Razor Disposable,10 pk,1.2,-31.428571428571434,84.6153846153846
-2019,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,1.5,,0.0
-2020,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,1.7,13.33333333333333,13.33333333333333
-2021,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,1.7,0.0,13.33333333333333
-2022,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,2.65,55.88235294117647,76.66666666666666
-2023,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,4.5,69.81132075471699,200.0
-2024,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,2.3,-48.88888888888889,53.33333333333332
-2025,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,2.3,0.0,53.33333333333332
-2019,CONDIMENTS,Food at home,Salsa-Medium,15 oz,3.0,,0.0
-2020,CONDIMENTS,Food at home,Salsa-Medium,15 oz,3.0,0.0,0.0
-2021,CONDIMENTS,Food at home,Salsa-Medium,15 oz,3.0,0.0,0.0
-2022,CONDIMENTS,Food at home,Salsa-Medium,15 oz,3.75,25.0,25.0
-2023,CONDIMENTS,Food at home,Salsa-Medium,15 oz,4.5,20.0,50.0
-2024,CONDIMENTS,Food at home,Salsa-Medium,15 oz,4.5,0.0,50.0
-2025,CONDIMENTS,Food at home,Salsa-Medium,15 oz,4.5,0.0,50.0
-2019,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.35,,0.0
-2020,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.35,0.0,0.0
-2021,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.35,0.0,0.0
-2022,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.45,7.407407407407398,7.407407407407398
-2023,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.45,0.0,7.407407407407398
-2024,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.85,27.586206896551737,37.03703703703704
-2025,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.85,0.0,37.03703703703704
-2019,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,,0.0
-2020,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,0.0,0.0
-2021,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,0.0,0.0
-2022,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,0.0,0.0
-2023,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,0.0,0.0
-2024,CONDIMENTS,Food at home,Sandwich Spread,15 oz,2.2,57.14285714285716,57.14285714285716
-2025,CONDIMENTS,Food at home,Sandwich Spread,15 oz,2.2,0.0,57.14285714285716
-2019,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,6.5,,0.0
-2020,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,7.0,7.6923076923076925,7.6923076923076925
-2021,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,7.0,0.0,7.6923076923076925
-2022,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,8.75,25.0,34.61538461538461
-2023,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,8.75,0.0,34.61538461538461
-2024,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,10.5,20.0,61.53846153846154
-2025,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,10.5,0.0,61.53846153846154
-2019,HYGIENE,Personal care,Shampoo,15 oz,1.25,,0.0
-2020,HYGIENE,Personal care,Shampoo,15 oz,1.25,0.0,0.0
-2021,HYGIENE,Personal care,Shampoo,15 oz,1.25,0.0,0.0
-2022,HYGIENE,Personal care,Shampoo,15 oz,1.3,4.0000000000000036,4.0000000000000036
-2023,HYGIENE,Personal care,Shampoo,15 oz,1.325,1.9230769230769162,5.9999999999999964
-2024,HYGIENE,Personal care,Shampoo,15 oz,1.325,0.0,5.9999999999999964
-2025,HYGIENE,Personal care,Shampoo,15 oz,1.375,3.7735849056603805,10.0
-2019,SHOES,Apparel,Shower Shoes,,6.25,,0.0
-2020,SHOES,Apparel,Shower Shoes,,6.25,0.0,0.0
-2021,SHOES,Apparel,Shower Shoes,,6.25,0.0,0.0
-2022,SHOES,Apparel,Shower Shoes,,7.0,12.0,12.0
-2023,SHOES,Apparel,Shower Shoes,,8.0,14.285714285714285,28.000000000000004
-2024,SHOES,Apparel,Shower Shoes,,9.0,12.5,44.0
-2025,SHOES,Apparel,Shower Shoes,,8.625,-4.166666666666666,38.0
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,1.3,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,1.2,-7.692307692307699,-7.692307692307699
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,1.2,0.0,-7.692307692307699
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,3.15,162.5,142.3076923076923
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,3.15,0.0,142.3076923076923
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,2.3,-26.984126984126988,76.9230769230769
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,2.3,0.0,76.9230769230769
-2019,CLOTHING,Apparel,Socks,,1.5,,0.0
-2020,CLOTHING,Apparel,Socks,,1.5,0.0,0.0
-2021,CLOTHING,Apparel,Socks,,1.4,-6.666666666666672,-6.666666666666672
-2022,CLOTHING,Apparel,Socks,,1.4,0.0,-6.666666666666672
-2023,CLOTHING,Apparel,Socks,,1.5,7.1428571428571495,0.0
-2024,CLOTHING,Apparel,Socks,,1.5,0.0,0.0
-2025,CLOTHING,Apparel,Socks,,1.65,9.999999999999993,9.999999999999993
-2019,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,0.85,,0.0
-2020,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,0.95,11.764705882352938,11.764705882352938
-2021,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.0,5.263157894736848,17.647058823529417
-2022,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.2,19.999999999999996,41.17647058823529
-2023,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.2,0.0,41.17647058823529
-2024,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.2,0.0,41.17647058823529
-2025,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.2,0.0,41.17647058823529
-2019,FEMALE ONLY,Personal care,Sports Bra,,6.0,,0.0
-2020,FEMALE ONLY,Personal care,Sports Bra,,6.0,0.0,0.0
-2021,FEMALE ONLY,Personal care,Sports Bra,,6.0,0.0,0.0
-2022,FEMALE ONLY,Personal care,Sports Bra,,6.0,0.0,0.0
-2023,FEMALE ONLY,Personal care,Sports Bra,,4.375,-27.083333333333332,-27.083333333333332
-2024,FEMALE ONLY,Personal care,Sports Bra,,4.375,0.0,-27.083333333333332
-2025,FEMALE ONLY,Personal care,Sports Bra,,4.375,0.0,-27.083333333333332
-2019,CORRESPONDENCE,Recreation,Stamps-Assorted,,3.355,,0.0
-2020,CORRESPONDENCE,Recreation,Stamps-Assorted,,3.88,15.648286140089414,15.648286140089414
-2021,CORRESPONDENCE,Recreation,Stamps-Assorted,,3.88,0.0,15.648286140089414
-2022,CORRESPONDENCE,Recreation,Stamps-Assorted,,4.4799999999999995,15.463917525773189,33.532041728763026
-2023,CORRESPONDENCE,Recreation,Stamps-Assorted,,4.4799999999999995,0.0,33.532041728763026
-2024,CORRESPONDENCE,Recreation,Stamps-Assorted,,4.93,10.044642857142861,46.94485842026825
-2025,CORRESPONDENCE,Recreation,Stamps-Assorted,,5.505,11.6632860040568,64.08345752608048
-2019,CONDIMENTS,Food at home,Stevia Sweetener,,1.35,,0.0
-2020,CONDIMENTS,Food at home,Stevia Sweetener,,1.35,0.0,0.0
-2021,CONDIMENTS,Food at home,Stevia Sweetener,,1.3,-3.703703703703707,-3.703703703703707
-2022,CONDIMENTS,Food at home,Stevia Sweetener,,1.4,7.692307692307682,3.7037037037036904
-2023,CONDIMENTS,Food at home,Stevia Sweetener,,1.4,0.0,3.7037037037036904
-2024,CONDIMENTS,Food at home,Stevia Sweetener,,1.4,0.0,3.7037037037036904
-2025,CONDIMENTS,Food at home,Stevia Sweetener,,1.4,0.0,3.7037037037036904
-2019,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,16.0,,0.0
-2020,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,16.0,0.0,0.0
-2021,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,22.0,37.5,37.5
-2022,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,22.0,0.0,37.5
-2023,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,27.0,22.727272727272727,68.75
-2024,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,40.0,48.148148148148145,150.0
-2025,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,40.0,0.0,150.0
-2019,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,6.25,,0.0
-2020,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,6.5,4.0,4.0
-2021,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,6.5,0.0,4.0
-2022,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,8.5,30.76923076923077,36.0
-2023,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,8.5,0.0,36.0
-2024,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,9.5,11.76470588235294,52.0
-2025,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,9.5,0.0,52.0
-2019,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.1,,0.0
-2020,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.1,0.0,0.0
-2021,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.1,0.0,0.0
-2022,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.65,26.19047619047618,26.19047619047618
-2023,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.65,0.0,26.19047619047618
-2024,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,1.95,-26.41509433962264,-7.1428571428571495
-2025,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,1.95,0.0,-7.1428571428571495
-2019,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,,0.0
-2020,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,0.0,0.0
-2021,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,0.0,0.0
-2022,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,0.0,0.0
-2023,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,0.0,0.0
-2024,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,0.0,0.0
-2025,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,0.0,0.0
-2019,ELECTRICAL,Recreation,Swintec Ribbon-Black,,6.5,,0.0
-2020,ELECTRICAL,Recreation,Swintec Ribbon-Black,,5.125,-21.153846153846153,-21.153846153846153
-2021,ELECTRICAL,Recreation,Swintec Ribbon-Black,,5.125,0.0,-21.153846153846153
-2022,ELECTRICAL,Recreation,Swintec Ribbon-Black,,5.0,-2.4390243902439024,-23.076923076923077
-2023,ELECTRICAL,Recreation,Swintec Ribbon-Black,,5.375,7.5,-17.307692307692307
-2024,ELECTRICAL,Recreation,Swintec Ribbon-Black,,7.25,34.883720930232556,11.538461538461538
-2025,ELECTRICAL,Recreation,Swintec Ribbon-Black,,7.25,0.0,11.538461538461538
-2019,CLOTHING,Apparel,T-Shirts,,7.0,,0.0
-2020,CLOTHING,Apparel,T-Shirts,,7.0,0.0,0.0
-2021,CLOTHING,Apparel,T-Shirts,,7.0,0.0,0.0
-2022,CLOTHING,Apparel,T-Shirts,,7.0,0.0,0.0
-2023,CLOTHING,Apparel,T-Shirts,,7.75,10.714285714285714,10.714285714285714
-2024,CLOTHING,Apparel,T-Shirts,,7.75,0.0,10.714285714285714
-2025,CLOTHING,Apparel,T-Shirts,,21.375,175.80645161290323,205.35714285714283
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,7.0,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,0.6,-91.42857142857143,-91.42857142857143
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,6.6,1000.0,-5.71428571428572
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,8.25,25.000000000000007,17.857142857142858
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,8.25,0.0,17.857142857142858
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,8.25,0.0,17.857142857142858
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,8.25,0.0,17.857142857142858
-2019,HYGIENE,Personal care,Toilet Tissue (roll),,0.5,,0.0
-2020,HYGIENE,Personal care,Toilet Tissue (roll),,0.5,0.0,0.0
-2021,HYGIENE,Personal care,Toilet Tissue (roll),,0.6,19.999999999999996,19.999999999999996
-2022,HYGIENE,Personal care,Toilet Tissue (roll),,0.6,0.0,19.999999999999996
-2023,HYGIENE,Personal care,Toilet Tissue (roll),,0.85,41.66666666666667,70.0
-2024,HYGIENE,Personal care,Toilet Tissue (roll),,0.85,0.0,70.0
-2025,HYGIENE,Personal care,Toilet Tissue (roll),,0.9,5.882352941176476,80.0
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,0.85,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,0.8,-5.882352941176463,-5.882352941176463
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,0.8,0.0,-5.882352941176463
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,1.0,24.999999999999993,17.647058823529417
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,1.2,19.999999999999996,41.17647058823529
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,1.2,0.0,41.17647058823529
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,1.2,0.0,41.17647058823529
-2019,CANDY,Food at home,Tootsie Pops,8 pk,0.9,,0.0
-2020,CANDY,Food at home,Tootsie Pops,8 pk,0.9,0.0,0.0
-2021,CANDY,Food at home,Tootsie Pops,8 pk,0.9,0.0,0.0
-2022,CANDY,Food at home,Tootsie Pops,8 pk,0.9,0.0,0.0
-2023,CANDY,Food at home,Tootsie Pops,8 pk,1.2,33.33333333333333,33.33333333333333
-2024,CANDY,Food at home,Tootsie Pops,8 pk,1.5,25.000000000000007,66.66666666666666
-2025,CANDY,Food at home,Tootsie Pops,8 pk,1.65,9.999999999999993,83.33333333333331
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.0,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,1.85,-7.499999999999996,-7.499999999999996
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,1.85,0.0,-7.499999999999996
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.1,13.513513513513512,5.000000000000004
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.1,0.0,5.000000000000004
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.1,0.0,5.000000000000004
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.1,0.0,5.000000000000004
-2019,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,,0.0
-2020,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,0.0,0.0
-2021,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,0.0,0.0
-2022,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,0.0,0.0
-2023,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,0.0,0.0
-2024,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,0.0,0.0
-2025,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,0.0,0.0
-2019,CANDY,Food at home,Twix Candy Bar,1.79 oz,0.85,,0.0
-2020,CANDY,Food at home,Twix Candy Bar,1.79 oz,0.95,11.764705882352938,11.764705882352938
-2021,CANDY,Food at home,Twix Candy Bar,1.79 oz,0.95,0.0,11.764705882352938
-2022,CANDY,Food at home,Twix Candy Bar,1.79 oz,1.0,5.263157894736848,17.647058823529417
-2023,CANDY,Food at home,Twix Candy Bar,1.79 oz,1.25,25.0,47.05882352941177
-2024,CANDY,Food at home,Twix Candy Bar,1.79 oz,1.25,0.0,47.05882352941177
-2025,CANDY,Food at home,Twix Candy Bar,1.79 oz,1.5,20.0,76.47058823529413
-2019,ELECTRICAL,Recreation,Typewriter-Swintec,,225.0,,0.0
-2020,ELECTRICAL,Recreation,Typewriter-Swintec,,225.0,0.0,0.0
-2021,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,60.0,60.0
-2022,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,0.0,60.0
-2023,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,0.0,60.0
-2024,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,0.0,60.0
-2025,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,0.0,60.0
-2019,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,0.95,,0.0
-2020,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,0.95,0.0,0.0
-2021,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,0.95,0.0,0.0
-2022,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,0.95,0.0,0.0
-2023,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,1.1,15.789473684210542,15.789473684210542
-2024,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,2.3,109.09090909090907,142.10526315789474
-2025,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,3.5,52.17391304347827,268.42105263157896
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,4.75,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,3.75,-21.052631578947366,-21.052631578947366
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,3.75,0.0,-21.052631578947366
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,5.6,49.33333333333332,17.894736842105257
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,5.6,0.0,17.894736842105257
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,5.6,0.0,17.894736842105257
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,5.95,6.25000000000001,25.26315789473685
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.65,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.3,-13.207547169811324,-13.207547169811324
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.3,0.0,-13.207547169811324
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.7,17.391304347826104,1.8867924528301987
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.7,0.0,1.8867924528301987
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.7,0.0,1.8867924528301987
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.75,1.8518518518518452,3.7735849056603805
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.35,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.25,-4.255319148936174,-4.255319148936174
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.25,0.0,-4.255319148936174
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.75,22.22222222222222,17.021276595744677
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.75,0.0,17.021276595744677
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.75,0.0,17.021276595744677
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.75,0.0,17.021276595744677
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,3.35,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.65,-20.895522388059707,-20.895522388059707
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.65,0.0,-20.895522388059707
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.8,5.660377358490563,-16.4179104477612
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.8,0.0,-16.4179104477612
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.8,0.0,-16.4179104477612
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,4.5,60.71428571428572,34.32835820895522
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.25,-21.05263157894737,-21.05263157894737
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.25,0.0,-21.05263157894737
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,26.66666666666667,0.0
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,0.0,0.0
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,0.0,0.0
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,0.0,0.0
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.3,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,1.85,-19.565217391304337,-19.565217391304337
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.35,27.027027027027025,2.1739130434782727
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.6,10.638297872340425,13.043478260869579
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.6,0.0,13.043478260869579
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.6,0.0,13.043478260869579
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,3.0,15.38461538461538,30.43478260869566
-2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.85,,0.0
-2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.1,-19.480519480519483,-19.480519480519483
-2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.1,0.0,-19.480519480519483
-2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.3,6.451612903225798,-14.285714285714294
-2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.3,0.0,-14.285714285714294
-2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,7.5,127.2727272727273,94.8051948051948
-2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,7.5,0.0,94.8051948051948
-2019,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.25,,0.0
-2020,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,4.761904761904762,4.761904761904762
-2021,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,0.0,4.761904761904762
-2022,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,0.0,4.761904761904762
-2023,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,0.0,4.761904761904762
-2024,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,0.0,4.761904761904762
-2025,ART SUPPLIES,Recreation,Watercolor Pad,9x12,6.75,22.727272727272727,28.57142857142857
-2019,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,1.35,,0.0
-2020,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,1.5,11.111111111111104,11.111111111111104
-2021,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,156.66666666666666,185.18518518518516
-2022,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,0.0,185.18518518518516
-2023,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,0.0,185.18518518518516
-2024,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,0.0,185.18518518518516
-2025,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,0.0,185.18518518518516
-2019,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,10.0,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,10.0,0.0,0.0
-2021,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,12.5,25.0,25.0
-2022,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,12.5,0.0,25.0
-2023,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,-57.99999999999999,-47.5
-2024,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,0.0,-47.5
-2025,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,0.0,-47.5
+year,category,cpi_category,item_name,size,price,essential_status,yoy_inflation_pct,cumulative_inflation_pct
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,2.65,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,2.45,essential,-7.547169811320745,-7.547169811320745
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.0,essential,63.26530612244897,50.943396226415096
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.35,essential,8.749999999999991,64.15094339622641
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.35,essential,0.0,64.15094339622641
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.35,essential,0.0,64.15094339622641
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Acne Benzoyl 10%,1.5 oz,4.35,essential,0.0,64.15094339622641
+2019,HYGIENE,Personal care,Ad Seg Colgate,1 oz,0.7,essential,,0.0
+2020,HYGIENE,Personal care,Ad Seg Colgate,1 oz,0.75,essential,7.1428571428571495,7.1428571428571495
+2021,HYGIENE,Personal care,Ad Seg Colgate,1 oz,0.8,essential,6.666666666666672,14.285714285714299
+2022,HYGIENE,Personal care,Ad Seg Colgate,1 oz,0.8,essential,0.0,14.285714285714299
+2023,HYGIENE,Personal care,Ad Seg Colgate,1 oz,1.0,essential,24.999999999999993,42.85714285714287
+2024,HYGIENE,Personal care,Ad Seg Colgate,1 oz,1.0,essential,0.0,42.85714285714287
+2025,HYGIENE,Personal care,Ad Seg Colgate,1 oz,1.0,essential,0.0,42.85714285714287
+2019,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,essential,,0.0
+2020,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,essential,0.0,0.0
+2021,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,essential,0.0,0.0
+2022,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,essential,0.0,0.0
+2023,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,essential,0.0,0.0
+2024,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,essential,0.0,0.0
+2025,HYGIENE,Personal care,Ad Seg Shampoo,4 oz,0.55,essential,0.0,0.0
+2019,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,non-essential,,0.0
+2020,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,non-essential,0.0,0.0
+2023,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,non-essential,0.0,0.0
+2024,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,non-essential,0.0,0.0
+2025,ELECTRICAL,Recreation,"Adaptor-1/8""-1/4"" headphone",,1.5,non-essential,0.0,0.0
+2019,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.3,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.35,non-essential,3.8461538461538494,3.8461538461538494
+2021,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.35,non-essential,0.0,3.8461538461538494
+2022,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.35,non-essential,0.0,3.8461538461538494
+2023,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.5,non-essential,11.111111111111104,15.38461538461538
+2024,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.5,non-essential,0.0,15.38461538461538
+2025,ELECTRICAL,Recreation,Adaptor-75/300 ohm,,1.5,non-essential,0.0,15.38461538461538
+2019,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.5,non-essential,,0.0
+2020,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,non-essential,5.555555555555555,5.555555555555555
+2021,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,non-essential,0.0,5.555555555555555
+2022,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,non-essential,0.0,5.555555555555555
+2023,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,non-essential,0.0,5.555555555555555
+2024,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,4.75,non-essential,0.0,5.555555555555555
+2025,ART SUPPLIES,Recreation,Adult Coloring Book (50 pg),,6.5,non-essential,36.84210526315789,44.44444444444444
+2019,HYGIENE,Personal care,Afta After Shave,3 oz,0.6,essential,,0.0
+2020,HYGIENE,Personal care,Afta After Shave,3 oz,2.75,essential,358.33333333333337,358.33333333333337
+2021,HYGIENE,Personal care,Afta After Shave,3 oz,2.75,essential,0.0,358.33333333333337
+2022,HYGIENE,Personal care,Afta After Shave,3 oz,2.7,essential,-1.818181818181812,350.00000000000006
+2023,HYGIENE,Personal care,Afta After Shave,3 oz,2.7,essential,0.0,350.00000000000006
+2024,HYGIENE,Personal care,Afta After Shave,3 oz,3.35,essential,24.07407407407407,458.33333333333337
+2025,HYGIENE,Personal care,Afta After Shave,3 oz,4.5,essential,34.32835820895522,650.0
+2019,ELECTRICAL,Recreation,Alarm Clock,,4.75,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Alarm Clock,,6.0,non-essential,26.31578947368421,26.31578947368421
+2021,ELECTRICAL,Recreation,Alarm Clock,,6.0,non-essential,0.0,26.31578947368421
+2022,ELECTRICAL,Recreation,Alarm Clock,,6.75,non-essential,12.5,42.10526315789473
+2023,ELECTRICAL,Recreation,Alarm Clock,,7.5,non-essential,11.11111111111111,57.89473684210527
+2024,ELECTRICAL,Recreation,Alarm Clock,,7.5,non-essential,0.0,57.89473684210527
+2025,ELECTRICAL,Recreation,Alarm Clock,,7.5,non-essential,0.0,57.89473684210527
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.1,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.1,essential,0.0,0.0
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.1,essential,0.0,0.0
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.5,essential,36.36363636363635,36.36363636363635
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.6,essential,6.666666666666672,45.45454545454545
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.9,essential,18.74999999999999,72.7272727272727
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Alcalak Antacid,24 tabs,1.95,essential,2.631578947368424,77.27272727272727
+2019,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,essential,,0.0
+2020,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,essential,0.0,0.0
+2022,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,essential,0.0,0.0
+2023,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,essential,0.0,0.0
+2024,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,essential,0.0,0.0
+2025,FEMALE ONLY,Personal care,Always Pantiliners,20 ct,1.35,essential,0.0,0.0
+2019,HYGIENE,Personal care,Antibacterial Lotion,4 oz,0.85,essential,,0.0
+2020,HYGIENE,Personal care,Antibacterial Lotion,4 oz,0.85,essential,0.0,0.0
+2021,HYGIENE,Personal care,Antibacterial Lotion,4 oz,0.9,essential,5.882352941176476,5.882352941176476
+2022,HYGIENE,Personal care,Antibacterial Lotion,4 oz,1.1,essential,22.22222222222223,29.411764705882366
+2023,HYGIENE,Personal care,Antibacterial Lotion,4 oz,1.1,essential,0.0,29.411764705882366
+2024,HYGIENE,Personal care,Antibacterial Lotion,4 oz,1.6,essential,45.45454545454545,88.23529411764707
+2025,HYGIENE,Personal care,Antibacterial Lotion,4 oz,1.6,essential,0.0,88.23529411764707
+2019,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,essential,,0.0
+2020,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,essential,0.0,0.0
+2021,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,essential,0.0,0.0
+2022,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,essential,0.0,0.0
+2023,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,essential,0.0,0.0
+2024,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,essential,0.0,0.0
+2025,HYGIENE,Personal care,Antibacterial Soap,1.25 oz,0.15,essential,0.0,0.0
+2019,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,1.4,essential,,0.0
+2020,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,1.4,essential,0.0,0.0
+2021,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,1.4,essential,0.0,0.0
+2022,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,1.4,essential,0.0,0.0
+2023,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,3.25,essential,132.14285714285717,132.14285714285717
+2024,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,3.25,essential,0.0,132.14285714285717
+2025,HYGIENE,Personal care,Antifungal Foot Powder,3.5 oz,3.25,essential,0.0,132.14285714285717
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.75,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.6,essential,-8.571428571428566,-8.571428571428566
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.6,essential,0.0,-8.571428571428566
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.8,essential,12.499999999999996,2.85714285714286
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.8,essential,0.0,2.85714285714286
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,1.8,essential,0.0,2.85714285714286
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Artificial Tears Eye Drops-.5 oz,,2.8,essential,55.55555555555555,59.999999999999986
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.2,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.1,essential,-8.333333333333323,-8.333333333333323
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.2,essential,9.09090909090908,0.0
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.5,essential,25.000000000000007,25.000000000000007
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.5,essential,0.0,25.000000000000007
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.65,essential,9.999999999999993,37.5
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin Free-APAP,24 tabs,1.65,essential,0.0,37.5
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.0,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,0.95,essential,-5.000000000000004,-5.000000000000004
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.0,essential,5.263157894736848,0.0
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.4,essential,39.99999999999999,39.99999999999999
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.4,essential,0.0,39.99999999999999
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.8,essential,28.57142857142858,80.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Aspirin,24 tabs,1.8,essential,0.0,80.0
+2019,SODAS,Food at home,Big Red,12 oz,0.55,non-essential,,0.0
+2020,SODAS,Food at home,Big Red,12 oz,0.55,non-essential,0.0,0.0
+2021,SODAS,Food at home,Big Red,12 oz,0.55,non-essential,0.0,0.0
+2022,SODAS,Food at home,Big Red,12 oz,0.55,non-essential,0.0,0.0
+2023,SODAS,Food at home,Big Red,12 oz,0.55,non-essential,0.0,0.0
+2024,SODAS,Food at home,Big Red,12 oz,0.55,non-essential,0.0,0.0
+2025,SODAS,Food at home,Big Red,12 oz,0.6,non-essential,9.09090909090908,9.09090909090908
+2019,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,2.25,non-essential,,0.0
+2020,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,2.35,non-essential,4.444444444444448,4.444444444444448
+2021,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,2.35,non-essential,0.0,4.444444444444448
+2022,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,2.35,non-essential,0.0,4.444444444444448
+2023,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,3.4,non-essential,44.68085106382978,51.11111111111111
+2024,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,3.4,non-essential,0.0,51.11111111111111
+2025,ICE CREAM,Food at home,Blue Bell Pints- Asst Flavors,,3.8,non-essential,11.764705882352938,68.88888888888887
+2019,CLOTHING,Apparel,Boxer Shorts,,3.3,essential,,0.0
+2020,CLOTHING,Apparel,Boxer Shorts,,3.9,essential,18.181818181818183,18.181818181818183
+2021,CLOTHING,Apparel,Boxer Shorts,,5.5,essential,41.02564102564103,66.66666666666667
+2022,CLOTHING,Apparel,Boxer Shorts,,4.5,essential,-18.181818181818183,36.36363636363637
+2023,CLOTHING,Apparel,Boxer Shorts,,4.875,essential,8.333333333333332,47.727272727272734
+2024,CLOTHING,Apparel,Boxer Shorts,,8.7,essential,78.46153846153845,163.63636363636363
+2025,CLOTHING,Apparel,Boxer Shorts,,8.2,essential,-5.74712643678161,148.4848484848485
+2019,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,7.125,essential,,0.0
+2020,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,8.0,essential,12.280701754385964,12.280701754385964
+2021,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,8.0,essential,0.0,12.280701754385964
+2022,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,7.0,essential,-12.5,-1.7543859649122806
+2023,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,7.5,essential,7.142857142857142,5.263157894736842
+2024,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,7.5,essential,0.0,5.263157894736842
+2025,FEMALE ONLY,Personal care,Briefs/Panties,3 pk,12.0,essential,60.0,68.42105263157895
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,1.55,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,1.45,essential,-6.451612903225811,-6.451612903225811
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,1.45,essential,0.0,-6.451612903225811
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,2.25,essential,55.172413793103445,45.16129032258064
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,2.25,essential,0.0,45.16129032258064
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,2.25,essential,0.0,45.16129032258064
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Calamine Lotion,6 oz,2.75,essential,22.22222222222222,77.41935483870968
+2019,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,3.2,essential,,0.0
+2020,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,3.15,essential,-1.5625000000000084,-1.5625000000000084
+2021,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,3.3,essential,4.761904761904759,3.124999999999989
+2022,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,3.7,essential,12.121212121212132,15.625
+2023,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,4.75,essential,28.378378378378372,48.43749999999999
+2024,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,4.75,essential,0.0,48.43749999999999
+2025,INSTANT FOODS,Food at home,Cereal-Assorted Flavors,20 oz,4.05,essential,-14.736842105263163,26.56249999999999
+2019,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,3.85,essential,,0.0
+2020,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,4.75,essential,23.376623376623375,23.376623376623375
+2021,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,5.0,essential,5.263157894736842,29.87012987012987
+2022,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,5.0,essential,0.0,29.87012987012987
+2023,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,6.0,essential,20.0,55.84415584415584
+2024,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,6.0,essential,0.0,55.84415584415584
+2025,KOSHER ITEMS,Food at home,Cheese Ravioli,12 oz,6.0,essential,0.0,55.84415584415584
+2019,GAMES,Recreation,Chess Set,,5.75,non-essential,,0.0
+2020,GAMES,Recreation,Chess Set,,6.5,non-essential,13.043478260869565,13.043478260869565
+2021,GAMES,Recreation,Chess Set,,6.5,non-essential,0.0,13.043478260869565
+2022,GAMES,Recreation,Chess Set,,8.0,non-essential,23.076923076923077,39.130434782608695
+2023,GAMES,Recreation,Chess Set,,8.0,non-essential,0.0,39.130434782608695
+2024,GAMES,Recreation,Chess Set,,8.0,non-essential,0.0,39.130434782608695
+2025,GAMES,Recreation,Chess Set,,9.0,non-essential,12.5,56.52173913043478
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,0.85,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,0.75,essential,-11.764705882352938,-11.764705882352938
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,0.75,essential,0.0,-11.764705882352938
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,1.0,essential,33.33333333333333,17.647058823529417
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,1.0,essential,0.0,17.647058823529417
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,1.0,essential,0.0,17.647058823529417
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Chlorphen Tabs,24 tabs,1.0,essential,0.0,17.647058823529417
+2019,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.5,non-essential,,0.0
+2020,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,non-essential,3.333333333333336,3.333333333333336
+2021,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,non-essential,0.0,3.333333333333336
+2022,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,non-essential,0.0,3.333333333333336
+2023,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,non-essential,0.0,3.333333333333336
+2024,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,non-essential,0.0,3.333333333333336
+2025,CANDY,Food at home,Cinnamon Jawbreaker,10 oz,1.55,non-essential,0.0,3.333333333333336
+2019,ELECTRICAL,Recreation,ClearTech Lift Off,,0.35,non-essential,,0.0
+2020,ELECTRICAL,Recreation,ClearTech Lift Off,,0.35,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,ClearTech Lift Off,,0.35,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,ClearTech Lift Off,,0.35,non-essential,0.0,0.0
+2023,ELECTRICAL,Recreation,ClearTech Lift Off,,1.2,non-essential,242.8571428571429,242.8571428571429
+2024,ELECTRICAL,Recreation,ClearTech Lift Off,,1.35,non-essential,12.50000000000001,285.7142857142857
+2025,ELECTRICAL,Recreation,ClearTech Lift Off,,1.35,non-essential,0.0,285.7142857142857
+2019,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,11.0,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,11.0,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,11.0,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,12.0,non-essential,9.090909090909092,9.090909090909092
+2023,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,12.0,non-essential,0.0,9.090909090909092
+2024,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,12.0,non-essential,0.0,9.090909090909092
+2025,ELECTRICAL,Recreation,Clip On Lamp-Plastic,,13.0,non-essential,8.333333333333332,18.181818181818183
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.1,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.1,essential,0.0,0.0
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.1,essential,0.0,0.0
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.25,essential,13.636363636363628,13.636363636363628
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.25,essential,0.0,13.636363636363628
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.25,essential,0.0,13.636363636363628
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Clotrimazole Antifungal Cream,,1.25,essential,0.0,13.636363636363628
+2019,ELECTRICAL,Recreation,Coax Cable,,1.35,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Coax Cable,,1.35,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Coax Cable,,1.55,non-essential,14.814814814814811,14.814814814814811
+2022,ELECTRICAL,Recreation,Coax Cable,,1.85,non-essential,19.35483870967742,37.03703703703704
+2023,ELECTRICAL,Recreation,Coax Cable,,2.0,non-essential,8.108108108108103,48.14814814814814
+2024,ELECTRICAL,Recreation,Coax Cable,,2.0,non-essential,0.0,48.14814814814814
+2025,ELECTRICAL,Recreation,Coax Cable,,2.0,non-essential,0.0,48.14814814814814
+2019,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.75,essential,,0.0
+2020,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.75,essential,0.0,0.0
+2021,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.6,essential,-5.4545454545454515,-5.4545454545454515
+2022,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.6,essential,0.0,-5.4545454545454515
+2023,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.6,essential,0.0,-5.4545454545454515
+2024,HYGIENE,Personal care,Colgate Toothpaste,6 oz,2.6,essential,0.0,-5.4545454545454515
+2025,HYGIENE,Personal care,Colgate Toothpaste,6 oz,3.0,essential,15.38461538461538,9.090909090909092
+2019,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.6,non-essential,,0.0
+2020,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.55,non-essential,-3.1250000000000027,-3.1250000000000027
+2021,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.55,non-essential,0.0,-3.1250000000000027
+2022,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.55,non-essential,0.0,-3.1250000000000027
+2023,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.75,non-essential,12.90322580645161,9.374999999999995
+2024,ART SUPPLIES,Recreation,Colored Pencils,12 pk,1.75,non-essential,0.0,9.374999999999995
+2025,ART SUPPLIES,Recreation,Colored Pencils,12 pk,4.5,non-essential,157.14285714285714,181.24999999999997
+2019,HYGIENE,Personal care,Conditioner,15 oz,1.25,essential,,0.0
+2020,HYGIENE,Personal care,Conditioner,15 oz,1.25,essential,0.0,0.0
+2021,HYGIENE,Personal care,Conditioner,15 oz,1.25,essential,0.0,0.0
+2022,HYGIENE,Personal care,Conditioner,15 oz,1.3,essential,4.0000000000000036,4.0000000000000036
+2023,HYGIENE,Personal care,Conditioner,15 oz,1.325,essential,1.9230769230769162,5.9999999999999964
+2024,HYGIENE,Personal care,Conditioner,15 oz,1.35,essential,1.8867924528301987,8.000000000000007
+2025,HYGIENE,Personal care,Conditioner,15 oz,1.35,essential,0.0,8.000000000000007
+2019,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,essential,,0.0
+2020,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,essential,0.0,0.0
+2021,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,essential,0.0,0.0
+2022,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,essential,0.0,0.0
+2023,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,essential,0.0,0.0
+2024,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,essential,0.0,0.0
+2025,HYGIENE,Personal care,Cotton Swabs,100 ct,0.55,essential,0.0,0.0
+2019,HYGIENE,Personal care,Dandruff Shampoo,12 oz,1.25,essential,,0.0
+2020,HYGIENE,Personal care,Dandruff Shampoo,12 oz,1.25,essential,0.0,0.0
+2021,HYGIENE,Personal care,Dandruff Shampoo,12 oz,1.45,essential,15.999999999999998,15.999999999999998
+2022,HYGIENE,Personal care,Dandruff Shampoo,12 oz,1.45,essential,0.0,15.999999999999998
+2023,HYGIENE,Personal care,Dandruff Shampoo,12 oz,2.25,essential,55.172413793103445,80.0
+2024,HYGIENE,Personal care,Dandruff Shampoo,12 oz,2.25,essential,0.0,80.0
+2025,HYGIENE,Personal care,Dandruff Shampoo,12 oz,2.25,essential,0.0,80.0
+2019,HYGIENE,Personal care,Dial Soap,1.25 oz,0.2,essential,,0.0
+2020,HYGIENE,Personal care,Dial Soap,1.25 oz,0.2,essential,0.0,0.0
+2021,HYGIENE,Personal care,Dial Soap,1.25 oz,0.2,essential,0.0,0.0
+2022,HYGIENE,Personal care,Dial Soap,1.25 oz,0.3,essential,49.999999999999986,49.999999999999986
+2023,HYGIENE,Personal care,Dial Soap,1.25 oz,0.3,essential,0.0,49.999999999999986
+2024,HYGIENE,Personal care,Dial Soap,1.25 oz,0.4,essential,33.33333333333335,100.0
+2025,HYGIENE,Personal care,Dial Soap,1.25 oz,0.4,essential,0.0,100.0
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,0.95,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,0.9,essential,-5.263157894736835,-5.263157894736835
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,0.9,essential,0.0,-5.263157894736835
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,1.15,essential,27.77777777777776,21.052631578947363
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,1.3,essential,13.043478260869579,36.842105263157904
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,1.3,essential,0.0,36.842105263157904
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Diamode-Anti Diarrheal,6 pks,1.35,essential,3.8461538461538494,42.105263157894754
+2019,CORRESPONDENCE,Recreation,Dictionary (English),,7.0,non-essential,,0.0
+2020,CORRESPONDENCE,Recreation,Dictionary (English),,6.0,non-essential,-14.285714285714285,-14.285714285714285
+2021,CORRESPONDENCE,Recreation,Dictionary (English),,6.0,non-essential,0.0,-14.285714285714285
+2022,CORRESPONDENCE,Recreation,Dictionary (English),,6.0,non-essential,0.0,-14.285714285714285
+2023,CORRESPONDENCE,Recreation,Dictionary (English),,6.5,non-essential,8.333333333333332,-7.142857142857142
+2024,CORRESPONDENCE,Recreation,Dictionary (English),,6.5,non-essential,0.0,-7.142857142857142
+2025,CORRESPONDENCE,Recreation,Dictionary (English),,7.5,non-essential,15.384615384615385,7.142857142857142
+2019,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,2.0,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,1.9,non-essential,-5.000000000000004,-5.000000000000004
+2021,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,2.75,non-essential,44.736842105263165,37.5
+2022,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,4.25,non-essential,54.54545454545454,112.5
+2023,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,4.25,non-essential,0.0,112.5
+2024,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,4.25,non-essential,0.0,112.5
+2025,ELECTRICAL,Recreation,Dipole Antenna-FM T-Style,,4.25,non-essential,0.0,112.5
+2019,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.25,non-essential,,0.0
+2020,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.25,non-essential,0.0,0.0
+2021,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.25,non-essential,0.0,0.0
+2022,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.3,non-essential,4.0000000000000036,4.0000000000000036
+2023,ART SUPPLIES,Recreation,Drawing Pad,9x12,1.3,non-essential,0.0,4.0000000000000036
+2024,ART SUPPLIES,Recreation,Drawing Pad,9x12,2.3,non-essential,76.9230769230769,83.99999999999999
+2025,ART SUPPLIES,Recreation,Drawing Pad,9x12,3.4,non-essential,47.82608695652175,172.0
+2019,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,2.0,essential,,0.0
+2020,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,2.0,essential,0.0,0.0
+2021,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,2.0,essential,0.0,0.0
+2022,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,2.5,essential,25.0,25.0
+2023,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,4.5,essential,80.0,125.0
+2024,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,4.15,essential,-7.77777777777777,107.50000000000001
+2025,INSTANT DRINK MIX,Food at home,EK Columbian Coffee,4.5 oz,4.75,essential,14.457831325301196,137.5
+2019,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,non-essential,,0.0
+2020,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,non-essential,0.0,0.0
+2021,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,non-essential,0.0,0.0
+2022,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,non-essential,0.0,0.0
+2023,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,non-essential,0.0,0.0
+2024,SODAS,Food at home,EK Dr Pepper,12 oz,0.55,non-essential,0.0,0.0
+2025,SODAS,Food at home,EK Dr Pepper,12 oz,0.6,non-essential,9.09090909090908,9.09090909090908
+2019,CANDY,Food at home,EK Peppermint Stick,1 oz,0.1,non-essential,,0.0
+2020,CANDY,Food at home,EK Peppermint Stick,1 oz,0.1,non-essential,0.0,0.0
+2021,CANDY,Food at home,EK Peppermint Stick,1 oz,0.1,non-essential,0.0,0.0
+2022,CANDY,Food at home,EK Peppermint Stick,1 oz,0.1,non-essential,0.0,0.0
+2023,CANDY,Food at home,EK Peppermint Stick,1 oz,0.15,non-essential,49.999999999999986,49.999999999999986
+2024,CANDY,Food at home,EK Peppermint Stick,1 oz,0.15,non-essential,0.0,49.999999999999986
+2025,CANDY,Food at home,EK Peppermint Stick,1 oz,0.15,non-essential,0.0,49.999999999999986
+2019,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,0.9,essential,,0.0
+2020,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,0.9,essential,0.0,0.0
+2021,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,0.9,essential,0.0,0.0
+2022,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,1.1,essential,22.22222222222223,22.22222222222223
+2023,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,2.0,essential,81.8181818181818,122.22222222222223
+2024,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,1.45,essential,-27.500000000000004,61.11111111111111
+2025,INSTANT DRINK MIX,Food at home,EK Plantation Coffee,4.5 oz,1.45,essential,0.0,61.11111111111111
+2019,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.45,essential,,0.0
+2020,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.6,essential,10.344827586206906,10.344827586206906
+2021,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.6,essential,0.0,10.344827586206906
+2022,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.7,essential,6.249999999999992,17.24137931034483
+2023,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.7,essential,0.0,17.24137931034483
+2024,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.7,essential,0.0,17.24137931034483
+2025,PACKAGED MEAT,Food at home,EKH Tuna In Water,4.23 oz,1.7,essential,0.0,17.24137931034483
+2019,ELECTRICAL,Recreation,Earbud-Stereo,,1.0,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Earbud-Stereo,,1.0,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Earbud-Stereo,,1.0,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,Earbud-Stereo,,3.25,non-essential,225.0,225.0
+2023,ELECTRICAL,Recreation,Earbud-Stereo,,3.25,non-essential,0.0,225.0
+2024,ELECTRICAL,Recreation,Earbud-Stereo,,3.25,non-essential,0.0,225.0
+2025,ELECTRICAL,Recreation,Earbud-Stereo,,3.25,non-essential,0.0,225.0
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,1.9,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.0,essential,5.263157894736848,5.263157894736848
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,1.95,essential,-2.500000000000002,2.631578947368424
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.25,essential,15.384615384615389,18.421052631578952
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.25,essential,0.0,18.421052631578952
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.25,essential,0.0,18.421052631578952
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Earwax Drops,15 ml,2.25,essential,0.0,18.421052631578952
+2019,HYGIENE,Personal care,Efferdent,102 tablets,8.0,essential,,0.0
+2020,HYGIENE,Personal care,Efferdent,102 tablets,8.0,essential,0.0,0.0
+2021,HYGIENE,Personal care,Efferdent,102 tablets,7.5,essential,-6.25,-6.25
+2022,HYGIENE,Personal care,Efferdent,102 tablets,7.5,essential,0.0,-6.25
+2023,HYGIENE,Personal care,Efferdent,102 tablets,7.5,essential,0.0,-6.25
+2024,HYGIENE,Personal care,Efferdent,102 tablets,7.75,essential,3.3333333333333335,-3.125
+2025,HYGIENE,Personal care,Efferdent,102 tablets,7.75,essential,0.0,-3.125
+2019,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.03,essential,,0.0
+2020,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.03,essential,0.0,0.0
+2021,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,essential,66.66666666666669,66.66666666666669
+2022,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,essential,0.0,66.66666666666669
+2023,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,essential,0.0,66.66666666666669
+2024,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,essential,0.0,66.66666666666669
+2025,CORRESPONDENCE,Recreation,Envelope-#10 Business,,0.05,essential,0.0,66.66666666666669
+2019,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,0.35,essential,,0.0
+2020,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,0.35,essential,0.0,0.0
+2021,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,0.35,essential,0.0,0.0
+2022,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,0.35,essential,0.0,0.0
+2023,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,1.0,essential,185.71428571428575,185.71428571428575
+2024,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,1.25,essential,25.0,257.14285714285717
+2025,CORRESPONDENCE,Recreation,Eraser-Pencil/Ink,,1.25,essential,0.0,257.14285714285717
+2019,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,0.7,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,0.7,non-essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,non-essential,650.0,650.0
+2022,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,non-essential,0.0,650.0
+2023,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,non-essential,0.0,650.0
+2024,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,non-essential,0.0,650.0
+2025,FEMALE ONLY,Personal care,Eyeliner/Brow Pencil-.05 oz,,5.25,non-essential,0.0,650.0
+2019,ELECTRICAL,Recreation,"Fan 9"" Electric",,20.0,non-essential,,0.0
+2020,ELECTRICAL,Recreation,"Fan 9"" Electric",,20.0,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,"Fan 9"" Electric",,20.0,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,"Fan 9"" Electric",,23.0,non-essential,15.0,15.0
+2023,ELECTRICAL,Recreation,"Fan 9"" Electric",,23.0,non-essential,0.0,15.0
+2024,ELECTRICAL,Recreation,"Fan 9"" Electric",,23.0,non-essential,0.0,15.0
+2025,ELECTRICAL,Recreation,"Fan 9"" Electric",,23.0,non-essential,0.0,15.0
+2019,SODAS,Food at home,Fanta Orange,12 oz,0.55,non-essential,,0.0
+2020,SODAS,Food at home,Fanta Orange,12 oz,0.55,non-essential,0.0,0.0
+2021,SODAS,Food at home,Fanta Orange,12 oz,0.55,non-essential,0.0,0.0
+2022,SODAS,Food at home,Fanta Orange,12 oz,0.55,non-essential,0.0,0.0
+2023,SODAS,Food at home,Fanta Orange,12 oz,0.55,non-essential,0.0,0.0
+2024,SODAS,Food at home,Fanta Orange,12 oz,0.55,non-essential,0.0,0.0
+2025,SODAS,Food at home,Fanta Orange,12 oz,0.6,non-essential,9.09090909090908,9.09090909090908
+2019,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,non-essential,,0.0
+2020,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,non-essential,0.0,0.0
+2021,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,non-essential,0.0,0.0
+2022,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,non-essential,0.0,0.0
+2023,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,non-essential,0.0,0.0
+2024,SODAS,Food at home,Fanta Pineapple,12 oz,0.55,non-essential,0.0,0.0
+2025,SODAS,Food at home,Fanta Pineapple,12 oz,0.6,non-essential,9.09090909090908,9.09090909090908
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,5.25,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,4.5,essential,-14.285714285714285,-14.285714285714285
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,4.5,essential,0.0,-14.285714285714285
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,5.5,essential,22.22222222222222,4.761904761904762
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,5.5,essential,0.0,4.761904761904762
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,7.0,essential,27.27272727272727,33.33333333333333
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fiber Lax,90 tabs,7.0,essential,0.0,33.33333333333333
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,4.25,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,4.5,essential,5.88235294117647,5.88235294117647
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,4.75,essential,5.555555555555555,11.76470588235294
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,4.9,essential,3.157894736842113,15.294117647058833
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,5.0,essential,2.0408163265306047,17.647058823529413
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,5.0,essential,0.0,17.647058823529413
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Fixodent Denture,,5.0,essential,0.0,17.647058823529413
+2019,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.25,non-essential,,0.0
+2020,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.35,non-essential,8.000000000000007,8.000000000000007
+2021,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.35,non-essential,0.0,8.000000000000007
+2022,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.4,non-essential,3.7037037037036904,11.999999999999993
+2023,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.4,non-essential,0.0,11.999999999999993
+2024,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.4,non-essential,0.0,11.999999999999993
+2025,CORRESPONDENCE,Recreation,Folder Storage,10x15,1.4,non-essential,0.0,11.999999999999993
+2019,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,0.7,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,6.95,non-essential,892.8571428571429,892.8571428571429
+2021,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,6.95,non-essential,0.0,892.8571428571429
+2022,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,7.95,non-essential,14.388489208633093,1035.7142857142858
+2023,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,12.5,non-essential,57.23270440251572,1685.7142857142858
+2024,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,14.5,non-essential,16.0,1971.4285714285716
+2025,FEMALE ONLY,Personal care,Foundation-Asst Shades,1 oz,14.5,non-essential,0.0,1971.4285714285716
+2019,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.4,non-essential,,0.0
+2020,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,non-essential,4.1666666666666705,4.1666666666666705
+2021,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,non-essential,0.0,4.1666666666666705
+2022,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,non-essential,0.0,4.1666666666666705
+2023,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,non-essential,0.0,4.1666666666666705
+2024,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,non-essential,0.0,4.1666666666666705
+2025,CANDY,Food at home,Fruit Filled Hard Candy,22 oz,2.5,non-essential,0.0,4.1666666666666705
+2019,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.4,non-essential,,0.0
+2020,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.4,non-essential,0.0,0.0
+2021,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.4,non-essential,0.0,0.0
+2022,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.4,non-essential,0.0,0.0
+2023,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.6,non-essential,49.999999999999986,49.999999999999986
+2024,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.75,non-essential,25.000000000000007,87.49999999999999
+2025,CORRESPONDENCE,Recreation,Greeting Cards-Assorted,,0.75,non-essential,0.0,87.49999999999999
+2019,CLOTHING,Apparel,Gym Shorts,,5.5,essential,,0.0
+2020,CLOTHING,Apparel,Gym Shorts,,7.0,essential,27.27272727272727,27.27272727272727
+2021,CLOTHING,Apparel,Gym Shorts,,8.0,essential,14.285714285714285,45.45454545454545
+2022,CLOTHING,Apparel,Gym Shorts,,8.5,essential,6.25,54.54545454545454
+2023,CLOTHING,Apparel,Gym Shorts,,10.5,essential,23.52941176470588,90.9090909090909
+2024,CLOTHING,Apparel,Gym Shorts,,10.5,essential,0.0,90.9090909090909
+2025,CLOTHING,Apparel,Gym Shorts,,10.5,essential,0.0,90.9090909090909
+2019,HYGIENE,Personal care,Hair Brush-No Handle,,0.65,essential,,0.0
+2020,HYGIENE,Personal care,Hair Brush-No Handle,,0.65,essential,0.0,0.0
+2021,HYGIENE,Personal care,Hair Brush-No Handle,,0.65,essential,0.0,0.0
+2022,HYGIENE,Personal care,Hair Brush-No Handle,,0.8,essential,23.076923076923077,23.076923076923077
+2023,HYGIENE,Personal care,Hair Brush-No Handle,,1.1,essential,37.50000000000001,69.23076923076924
+2024,HYGIENE,Personal care,Hair Brush-No Handle,,1.1,essential,0.0,69.23076923076924
+2025,HYGIENE,Personal care,Hair Brush-No Handle,,1.1,essential,0.0,69.23076923076924
+2019,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,22.0,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,22.0,non-essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,22.0,non-essential,0.0,0.0
+2022,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,24.0,non-essential,9.090909090909092,9.090909090909092
+2023,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,25.0,non-essential,4.166666666666666,13.636363636363635
+2024,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,31.0,non-essential,24.0,40.909090909090914
+2025,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,31.0,non-essential,0.0,40.909090909090914
+2019,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2021,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2022,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2023,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2024,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2025,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2019,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,non-essential,0.0,0.0
+2021,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,non-essential,0.0,0.0
+2022,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,2.5,non-essential,100.0,100.0
+2023,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,non-essential,-70.0,-40.0
+2024,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,non-essential,0.0,-40.0
+2025,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,non-essential,0.0,-40.0
+2019,ELECTRICAL,Recreation,Headphones,,5.5,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Headphones,,6.0,non-essential,9.090909090909092,9.090909090909092
+2021,ELECTRICAL,Recreation,Headphones,,6.0,non-essential,0.0,9.090909090909092
+2022,ELECTRICAL,Recreation,Headphones,,7.0,non-essential,16.666666666666664,27.27272727272727
+2023,ELECTRICAL,Recreation,Headphones,,7.0,non-essential,0.0,27.27272727272727
+2024,ELECTRICAL,Recreation,Headphones,,7.0,non-essential,0.0,27.27272727272727
+2025,ELECTRICAL,Recreation,Headphones,,10.0,non-essential,42.857142857142854,81.81818181818183
+2019,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,non-essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,non-essential,0.0,0.0
+2022,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,non-essential,0.0,0.0
+2023,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,non-essential,0.0,0.0
+2024,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,non-essential,0.0,0.0
+2025,FEMALE ONLY,Personal care,Hijab-Females Only,,17.0,non-essential,0.0,0.0
+2019,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,0.95,essential,,0.0
+2020,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.0,essential,5.263157894736848,5.263157894736848
+2021,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.0,essential,0.0,5.263157894736848
+2022,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.4,essential,39.99999999999999,47.368421052631575
+2023,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.4,essential,0.0,47.368421052631575
+2024,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.95,essential,39.28571428571429,105.26315789473684
+2025,INSTANT DRINK MIX,Food at home,Hot Chocolate,10 oz,1.95,essential,0.0,105.26315789473684
+2019,ELECTRICAL,Recreation,Hot Pot w/Insert,,22.5,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Hot Pot w/Insert,,22.5,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Hot Pot w/Insert,,22.5,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,Hot Pot w/Insert,,24.5,non-essential,8.88888888888889,8.88888888888889
+2023,ELECTRICAL,Recreation,Hot Pot w/Insert,,24.5,non-essential,0.0,8.88888888888889
+2024,ELECTRICAL,Recreation,Hot Pot w/Insert,,24.5,non-essential,0.0,8.88888888888889
+2025,ELECTRICAL,Recreation,Hot Pot w/Insert,,24.5,non-essential,0.0,8.88888888888889
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.5,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.35,essential,-9.999999999999993,-9.999999999999993
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.35,essential,0.0,-9.999999999999993
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.5,essential,11.111111111111104,0.0
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.5,essential,0.0,0.0
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.85,essential,23.33333333333334,23.33333333333334
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Hydrocortisone Cream,1 oz,1.85,essential,0.0,23.33333333333334
+2019,MALE ONLY,Personal care,Hygiene Pack,3 piece,13.0,essential,,0.0
+2020,MALE ONLY,Personal care,Hygiene Pack,3 piece,13.0,essential,0.0,0.0
+2021,MALE ONLY,Personal care,Hygiene Pack,3 piece,10.0,essential,-23.076923076923077,-23.076923076923077
+2022,MALE ONLY,Personal care,Hygiene Pack,3 piece,7.5,essential,-25.0,-42.30769230769231
+2022,MALE ONLY,Personal care,Hygiene Pack,3 piece,8.75,essential,-12.5,-32.69230769230769
+2023,MALE ONLY,Personal care,Hygiene Pack,3 piece,7.5,essential,0.0,-42.30769230769231
+2023,MALE ONLY,Personal care,Hygiene Pack,3 piece,8.75,essential,16.666666666666664,-32.69230769230769
+2024,MALE ONLY,Personal care,Hygiene Pack,3 piece,9.5,essential,26.666666666666668,-26.923076923076923
+2024,MALE ONLY,Personal care,Hygiene Pack,3 piece,9.25,essential,23.333333333333332,-28.846153846153843
+2025,MALE ONLY,Personal care,Hygiene Pack,3 piece,9.5,essential,0.0,-26.923076923076923
+2025,MALE ONLY,Personal care,Hygiene Pack,3 piece,9.25,essential,-2.631578947368421,-28.846153846153843
+2019,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,24.0,essential,,0.0
+2020,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,essential,-16.666666666666664,-16.666666666666664
+2021,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,essential,0.0,-16.666666666666664
+2022,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,essential,0.0,-16.666666666666664
+2023,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,essential,0.0,-16.666666666666664
+2024,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,20.0,essential,0.0,-16.666666666666664
+2025,FEMALE ONLY,Personal care,Hygiene Pack,7 piece,22.0,essential,10.0,-8.333333333333332
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.25,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.55,essential,24.000000000000004,24.000000000000004
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.55,essential,0.0,24.000000000000004
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.65,essential,6.451612903225798,31.999999999999996
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.55,essential,-6.0606060606060534,24.000000000000004
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,1.55,essential,0.0,24.000000000000004
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Ibutab-Ibuprofen,24 tabs,3.5,essential,125.80645161290323,180.0
+2019,ART SUPPLIES,Recreation,Illustration Boards,2 pk,4.3,non-essential,,0.0
+2020,ART SUPPLIES,Recreation,Illustration Boards,2 pk,4.3,non-essential,0.0,0.0
+2021,ART SUPPLIES,Recreation,Illustration Boards,2 pk,4.5,non-essential,4.651162790697678,4.651162790697678
+2022,ART SUPPLIES,Recreation,Illustration Boards,2 pk,4.5,non-essential,0.0,4.651162790697678
+2023,ART SUPPLIES,Recreation,Illustration Boards,2 pk,5.0,non-essential,11.11111111111111,16.279069767441865
+2024,ART SUPPLIES,Recreation,Illustration Boards,2 pk,5.0,non-essential,0.0,16.279069767441865
+2025,ART SUPPLIES,Recreation,Illustration Boards,2 pk,5.0,non-essential,0.0,16.279069767441865
+2019,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,0.95,essential,,0.0
+2020,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.2,essential,26.31578947368421,26.31578947368421
+2021,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.2,essential,0.0,26.31578947368421
+2022,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.5,essential,25.000000000000007,57.89473684210527
+2023,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.5,essential,0.0,57.89473684210527
+2024,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.5,essential,0.0,57.89473684210527
+2025,CORRESPONDENCE,Recreation,Jumbo Envelope,18x23,1.5,essential,0.0,57.89473684210527
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.15,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.1,essential,-4.347826086956506,-4.347826086956506
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.1,essential,0.0,-4.347826086956506
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.25,essential,13.636363636363628,8.695652173913052
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.25,essential,0.0,8.695652173913052
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.85,essential,48.00000000000001,60.86956521739132
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Laxative-Bisacodyl,25 tabs,1.85,essential,0.0,60.86956521739132
+2019,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,non-essential,0.0,0.0
+2023,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,non-essential,0.0,0.0
+2024,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,non-essential,0.0,0.0
+2025,ELECTRICAL,Recreation,Lift Off Correction Ribbon,,2.0,non-essential,0.0,0.0
+2019,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,4.75,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,5.0,non-essential,5.263157894736842,5.263157894736842
+2021,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,5.0,non-essential,0.0,5.263157894736842
+2022,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,6.75,non-essential,35.0,42.10526315789473
+2023,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,6.75,non-essential,0.0,42.10526315789473
+2024,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,8.5,non-essential,25.925925925925924,78.94736842105263
+2025,FEMALE ONLY,Personal care,Lipstick-Asst Colors,,8.125,non-essential,-4.411764705882353,71.05263157894737
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.0,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,1.9,essential,-5.000000000000004,-5.000000000000004
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,1.9,essential,0.0,-5.000000000000004
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.5,essential,31.578947368421055,25.0
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.5,essential,0.0,25.0
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.5,essential,0.0,25.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Loratadine Allergy,30 tabs,2.5,essential,0.0,25.0
+2019,HYGIENE,Personal care,Magic Shave Cream,6 oz,4.45,essential,,0.0
+2020,HYGIENE,Personal care,Magic Shave Cream,6 oz,4.45,essential,0.0,0.0
+2021,HYGIENE,Personal care,Magic Shave Cream,6 oz,4.45,essential,0.0,0.0
+2022,HYGIENE,Personal care,Magic Shave Cream,6 oz,4.45,essential,0.0,0.0
+2023,HYGIENE,Personal care,Magic Shave Cream,6 oz,7.0,essential,57.30337078651685,57.30337078651685
+2024,HYGIENE,Personal care,Magic Shave Cream,6 oz,7.0,essential,0.0,57.30337078651685
+2025,HYGIENE,Personal care,Magic Shave Cream,6 oz,7.0,essential,0.0,57.30337078651685
+2019,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,essential,,0.0
+2020,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,essential,0.0,0.0
+2021,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,essential,0.0,0.0
+2022,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,essential,0.0,0.0
+2023,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,0.52,essential,0.0,0.0
+2024,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,1.25,essential,140.3846153846154,140.3846153846154
+2025,CORRESPONDENCE,Recreation,Manilla Envelope-Writ,2 pk,1.25,essential,0.0,140.3846153846154
+2019,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,9.0,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,9.0,non-essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,non-essential,11.11111111111111,11.11111111111111
+2022,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,non-essential,0.0,11.11111111111111
+2023,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,non-essential,0.0,11.11111111111111
+2024,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,non-essential,0.0,11.11111111111111
+2025,FEMALE ONLY,Personal care,Mascara-Avon/Black-.21 oz,,10.0,non-essential,0.0,11.11111111111111
+2019,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.25,essential,,0.0
+2020,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.25,essential,0.0,0.0
+2021,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.25,essential,0.0,0.0
+2022,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.25,essential,0.0,0.0
+2023,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,3.5,essential,7.6923076923076925,7.6923076923076925
+2024,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,2.9,essential,-17.142857142857146,-10.769230769230772
+2025,KOSHER ITEMS,Food at home,Matzo Crackers,10 oz,4.5,essential,55.172413793103445,38.46153846153847
+2019,FEMALE ONLY,Personal care,Maxi Pads,22 ct,2.45,essential,,0.0
+2020,FEMALE ONLY,Personal care,Maxi Pads,22 ct,2.45,essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Maxi Pads,22 ct,2.45,essential,0.0,0.0
+2022,FEMALE ONLY,Personal care,Maxi Pads,22 ct,2.85,essential,16.326530612244895,16.326530612244895
+2023,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,essential,5.263157894736839,22.448979591836725
+2024,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,essential,0.0,22.448979591836725
+2025,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,essential,0.0,22.448979591836725
+2019,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,non-essential,0.0,0.0
+2021,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,non-essential,0.0,0.0
+2022,JEWELRY / RELIGIOUS,Other goods,Medallions,,12.375,non-essential,6.451612903225806,6.451612903225806
+2023,JEWELRY / RELIGIOUS,Other goods,Medallions,,12.375,non-essential,0.0,6.451612903225806
+2024,JEWELRY / RELIGIOUS,Other goods,Medallions,,14.125,non-essential,14.14141414141414,21.50537634408602
+2025,JEWELRY / RELIGIOUS,Other goods,Medallions,,14.125,non-essential,0.0,21.50537634408602
+2019,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,essential,,0.0
+2020,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,essential,0.0,0.0
+2021,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,essential,0.0,0.0
+2022,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.6,essential,33.33333333333335,33.33333333333335
+2023,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.6,essential,0.0,33.33333333333335
+2024,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,2.0,essential,24.999999999999993,66.66666666666667
+2025,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,2.0,essential,0.0,66.66666666666667
+2019,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.5,essential,,0.0
+2020,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.5,essential,0.0,0.0
+2021,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.45,essential,-1.9999999999999927,-1.9999999999999927
+2022,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.45,essential,0.0,-1.9999999999999927
+2023,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.45,essential,0.0,-1.9999999999999927
+2024,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,2.45,essential,0.0,-1.9999999999999927
+2025,MALE ONLY,Personal care,Mennen Antiperspirant,3 oz,3.0,essential,22.448979591836725,20.0
+2019,MALE ONLY,Personal care,Mennen Deodorant,3 oz,2.5,essential,,0.0
+2020,MALE ONLY,Personal care,Mennen Deodorant,3 oz,2.5,essential,0.0,0.0
+2021,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.0,essential,-60.0,-60.0
+2022,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.4,essential,39.99999999999999,-44.00000000000001
+2023,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.4,essential,0.0,-44.00000000000001
+2024,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.4,essential,0.0,-44.00000000000001
+2025,MALE ONLY,Personal care,Mennen Deodorant,3 oz,1.9,essential,35.714285714285715,-24.000000000000004
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,3.4,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,2.7,essential,-20.58823529411764,-20.58823529411764
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,2.7,essential,0.0,-20.58823529411764
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,5.5,essential,103.7037037037037,61.76470588235294
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,5.5,essential,0.0,61.76470588235294
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,5.5,essential,0.0,61.76470588235294
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk Thistle,60 tabs,5.5,essential,0.0,61.76470588235294
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.45,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.2,essential,-10.20408163265306,-10.20408163265306
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.2,essential,0.0,-10.20408163265306
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.45,essential,11.363636363636363,0.0
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,2.75,essential,12.244897959183664,12.244897959183664
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,4.25,essential,54.54545454545454,73.46938775510203
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Milk of Magnesia,4 oz,4.25,essential,0.0,73.46938775510203
+2019,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.5,non-essential,,0.0
+2020,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.5,non-essential,0.0,0.0
+2021,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.5,non-essential,0.0,0.0
+2022,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.5,non-essential,0.0,0.0
+2023,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,3.0,non-essential,20.0,20.0
+2024,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,4.15,non-essential,38.33333333333335,66.00000000000001
+2025,ART SUPPLIES,Recreation,Mini Colored Pencils,24 pk,2.4,non-essential,-42.168674698795186,-4.0000000000000036
+2019,SODAS,Food at home,Mountain Dew,12 oz,0.55,non-essential,,0.0
+2020,SODAS,Food at home,Mountain Dew,12 oz,0.55,non-essential,0.0,0.0
+2021,SODAS,Food at home,Mountain Dew,12 oz,0.55,non-essential,0.0,0.0
+2022,SODAS,Food at home,Mountain Dew,12 oz,0.55,non-essential,0.0,0.0
+2023,SODAS,Food at home,Mountain Dew,12 oz,0.55,non-essential,0.0,0.0
+2024,SODAS,Food at home,Mountain Dew,12 oz,0.55,non-essential,0.0,0.0
+2025,SODAS,Food at home,Mountain Dew,12 oz,0.6,non-essential,9.09090909090908,9.09090909090908
+2019,ELECTRICAL,Recreation,Multi Outlet (2 plug),,7.5,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Multi Outlet (2 plug),,8.0,non-essential,6.666666666666667,6.666666666666667
+2021,ELECTRICAL,Recreation,Multi Outlet (2 plug),,8.0,non-essential,0.0,6.666666666666667
+2022,ELECTRICAL,Recreation,Multi Outlet (2 plug),,9.0,non-essential,12.5,20.0
+2023,ELECTRICAL,Recreation,Multi Outlet (2 plug),,9.0,non-essential,0.0,20.0
+2024,ELECTRICAL,Recreation,Multi Outlet (2 plug),,9.0,non-essential,0.0,20.0
+2025,ELECTRICAL,Recreation,Multi Outlet (2 plug),,9.0,non-essential,0.0,20.0
+2019,HYGIENE,Personal care,Nail Clippers,,0.3,essential,,0.0
+2020,HYGIENE,Personal care,Nail Clippers,,0.35,essential,16.666666666666664,16.666666666666664
+2021,HYGIENE,Personal care,Nail Clippers,,0.4,essential,14.285714285714299,33.33333333333335
+2022,HYGIENE,Personal care,Nail Clippers,,0.25,essential,-37.50000000000001,-16.666666666666664
+2023,HYGIENE,Personal care,Nail Clippers,,0.25,essential,0.0,-16.666666666666664
+2024,HYGIENE,Personal care,Nail Clippers,,0.25,essential,0.0,-16.666666666666664
+2025,HYGIENE,Personal care,Nail Clippers,,0.25,essential,0.0,-16.666666666666664
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,15.0,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,17.0,essential,13.333333333333334,13.333333333333334
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,17.0,essential,0.0,13.333333333333334
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,18.6,essential,9.41176470588236,24.00000000000001
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,20.0,essential,7.526881720430099,33.33333333333333
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,20.0,essential,0.0,33.33333333333333
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Nasacort Nasal Spray,,20.0,essential,0.0,33.33333333333333
+2019,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.45,essential,,0.0
+2020,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.5,essential,3.448275862068969,3.448275862068969
+2021,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.55,essential,3.333333333333336,6.896551724137938
+2022,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.65,essential,6.451612903225798,13.79310344827586
+2023,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.85,essential,12.121212121212132,27.586206896551737
+2024,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.85,essential,0.0,27.586206896551737
+2025,CONDIMENTS,Food at home,Non-Dairy Creamer,12 oz,1.85,essential,0.0,27.586206896551737
+2019,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,10.0,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,10.0,non-essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,10.0,non-essential,0.0,0.0
+2022,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,15.0,non-essential,50.0,50.0
+2023,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,23.0,non-essential,53.333333333333336,130.0
+2024,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,23.0,non-essential,0.0,130.0
+2025,FEMALE ONLY,Personal care,Ogilvie Hair Perm,,23.0,non-essential,0.0,130.0
+2019,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,1.75,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,1.75,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,1.75,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,1.75,non-essential,0.0,0.0
+2023,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,4.75,non-essential,171.42857142857142,171.42857142857142
+2024,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,4.85,non-essential,2.1052631578947296,177.1428571428571
+2025,ELECTRICAL,Recreation,Olympia/Clear Tech Ribbon,,5.95,non-essential,22.680412371134036,240.0
+2019,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,1.85,essential,,0.0
+2020,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,1.8,essential,-2.702702702702705,-2.702702702702705
+2021,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,1.8,essential,0.0,-2.702702702702705
+2022,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,1.8,essential,0.0,-2.702702702702705
+2023,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,2.6,essential,44.44444444444445,40.54054054054054
+2024,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,2.6,essential,0.0,40.54054054054054
+2025,INSTANT FOODS,Food at home,Pasta - Instant,9 oz,2.6,essential,0.0,40.54054054054054
+2019,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,essential,,0.0
+2020,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,essential,0.0,0.0
+2021,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,essential,0.0,0.0
+2022,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,essential,0.0,0.0
+2023,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,essential,0.0,0.0
+2024,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,essential,0.0,0.0
+2025,CORRESPONDENCE,Recreation,"Pen-Black ""Property""",,0.3,essential,0.0,0.0
+2019,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.45,essential,,0.0
+2020,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.35,essential,-22.22222222222223,-22.22222222222223
+2021,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.35,essential,0.0,-22.22222222222223
+2022,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.5,essential,42.85714285714287,11.111111111111107
+2023,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.5,essential,0.0,11.111111111111107
+2024,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.65,essential,30.000000000000004,44.44444444444445
+2025,CORRESPONDENCE,Recreation,Pencil Sharpener,,0.75,essential,15.38461538461538,66.66666666666666
+2019,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,essential,,0.0
+2020,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,essential,0.0,0.0
+2021,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,essential,0.0,0.0
+2022,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,essential,0.0,0.0
+2023,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,essential,0.0,0.0
+2024,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,essential,0.0,0.0
+2025,CORRESPONDENCE,Recreation,Pencil-Lead,,0.15,essential,0.0,0.0
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.0,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,1.85,essential,-7.499999999999996,-7.499999999999996
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,1.85,essential,0.0,-7.499999999999996
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.5,essential,35.13513513513512,25.0
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.5,essential,0.0,25.0
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.5,essential,0.0,25.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Pepto Bismuth,30 tabs,2.75,essential,10.0,37.5
+2019,HYGIENE,Personal care,Petroleum Jelly,4 oz,0.75,essential,,0.0
+2020,HYGIENE,Personal care,Petroleum Jelly,4 oz,0.75,essential,0.0,0.0
+2021,HYGIENE,Personal care,Petroleum Jelly,4 oz,0.75,essential,0.0,0.0
+2022,HYGIENE,Personal care,Petroleum Jelly,4 oz,1.7,essential,126.66666666666666,126.66666666666666
+2023,HYGIENE,Personal care,Petroleum Jelly,4 oz,1.75,essential,2.941176470588238,133.33333333333331
+2024,HYGIENE,Personal care,Petroleum Jelly,4 oz,1.75,essential,0.0,133.33333333333331
+2025,HYGIENE,Personal care,Petroleum Jelly,4 oz,1.75,essential,0.0,133.33333333333331
+2019,HYGIENE,Personal care,Pocket Comb,,0.25,essential,,0.0
+2020,HYGIENE,Personal care,Pocket Comb,,0.3,essential,19.999999999999996,19.999999999999996
+2021,HYGIENE,Personal care,Pocket Comb,,0.3,essential,0.0,19.999999999999996
+2022,HYGIENE,Personal care,Pocket Comb,,0.3,essential,0.0,19.999999999999996
+2023,HYGIENE,Personal care,Pocket Comb,,0.3,essential,0.0,19.999999999999996
+2024,HYGIENE,Personal care,Pocket Comb,,0.3,essential,0.0,19.999999999999996
+2025,HYGIENE,Personal care,Pocket Comb,,0.3,essential,0.0,19.999999999999996
+2019,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.0,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.0,non-essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.0,non-essential,0.0,0.0
+2022,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.0,non-essential,0.0,0.0
+2023,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.15,non-essential,14.999999999999991,14.999999999999991
+2024,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.2,non-essential,4.347826086956526,19.999999999999996
+2025,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.4,non-essential,16.666666666666664,39.99999999999999
+2019,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,18.75,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,non-essential,6.666666666666667,6.666666666666667
+2021,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
+2022,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
+2023,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
+2024,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,21.0,non-essential,5.0,12.0
+2025,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,21.0,non-essential,0.0,12.0
+2019,ART SUPPLIES,Recreation,Protractor Ruler,,0.45,non-essential,,0.0
+2020,ART SUPPLIES,Recreation,Protractor Ruler,,0.5,non-essential,11.111111111111107,11.111111111111107
+2021,ART SUPPLIES,Recreation,Protractor Ruler,,0.35,non-essential,-30.000000000000004,-22.22222222222223
+2022,ART SUPPLIES,Recreation,Protractor Ruler,,0.35,non-essential,0.0,-22.22222222222223
+2023,ART SUPPLIES,Recreation,Protractor Ruler,,1.0,non-essential,185.71428571428575,122.22222222222223
+2024,ART SUPPLIES,Recreation,Protractor Ruler,,1.0,non-essential,0.0,122.22222222222223
+2025,ART SUPPLIES,Recreation,Protractor Ruler,,0.75,non-essential,-25.0,66.66666666666666
+2019,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,non-essential,0.0,0.0
+2023,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,non-essential,0.0,0.0
+2024,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,non-essential,0.0,0.0
+2025,ELECTRICAL,Recreation,Radio/Clock-Clear Tech,,20.0,non-essential,0.0,0.0
+2019,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.1,non-essential,,0.0
+2020,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.1,non-essential,0.0,0.0
+2021,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.1,non-essential,0.0,0.0
+2022,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.1,non-essential,0.0,0.0
+2023,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.15,non-essential,49.999999999999986,49.999999999999986
+2024,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.15,non-essential,0.0,49.999999999999986
+2025,CANDY,Food at home,Rainbow Fruit Stick,1 oz,0.15,non-essential,0.0,49.999999999999986
+2019,HYGIENE,Personal care,Razor Disposable,10 pk,0.65,essential,,0.0
+2020,HYGIENE,Personal care,Razor Disposable,10 pk,1.15,essential,76.9230769230769,76.9230769230769
+2021,HYGIENE,Personal care,Razor Disposable,10 pk,1.75,essential,52.17391304347827,169.23076923076923
+2022,HYGIENE,Personal care,Razor Disposable,10 pk,1.75,essential,0.0,169.23076923076923
+2023,HYGIENE,Personal care,Razor Disposable,10 pk,1.75,essential,0.0,169.23076923076923
+2024,HYGIENE,Personal care,Razor Disposable,10 pk,1.75,essential,0.0,169.23076923076923
+2025,HYGIENE,Personal care,Razor Disposable,10 pk,1.2,essential,-31.428571428571434,84.6153846153846
+2019,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,1.5,essential,,0.0
+2020,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,1.7,essential,13.33333333333333,13.33333333333333
+2021,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,1.7,essential,0.0,13.33333333333333
+2022,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,2.65,essential,55.88235294117647,76.66666666666666
+2023,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,4.5,essential,69.81132075471699,200.0
+2024,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,2.3,essential,-48.88888888888889,53.33333333333332
+2025,INSTANT FOODS,Food at home,Refried Beans-Instant,15 oz,2.3,essential,0.0,53.33333333333332
+2019,CONDIMENTS,Food at home,Salsa-Medium,15 oz,3.0,essential,,0.0
+2020,CONDIMENTS,Food at home,Salsa-Medium,15 oz,3.0,essential,0.0,0.0
+2021,CONDIMENTS,Food at home,Salsa-Medium,15 oz,3.0,essential,0.0,0.0
+2022,CONDIMENTS,Food at home,Salsa-Medium,15 oz,3.75,essential,25.0,25.0
+2023,CONDIMENTS,Food at home,Salsa-Medium,15 oz,4.5,essential,20.0,50.0
+2024,CONDIMENTS,Food at home,Salsa-Medium,15 oz,4.5,essential,0.0,50.0
+2025,CONDIMENTS,Food at home,Salsa-Medium,15 oz,4.5,essential,0.0,50.0
+2019,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.35,essential,,0.0
+2020,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.35,essential,0.0,0.0
+2021,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.35,essential,0.0,0.0
+2022,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.45,essential,7.407407407407398,7.407407407407398
+2023,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.45,essential,0.0,7.407407407407398
+2024,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.85,essential,27.586206896551737,37.03703703703704
+2025,CONDIMENTS,Food at home,Salt/Pepper Shaker,4.5 oz,1.85,essential,0.0,37.03703703703704
+2019,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,essential,,0.0
+2020,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,essential,0.0,0.0
+2021,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,essential,0.0,0.0
+2022,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,essential,0.0,0.0
+2023,CONDIMENTS,Food at home,Sandwich Spread,15 oz,1.4,essential,0.0,0.0
+2024,CONDIMENTS,Food at home,Sandwich Spread,15 oz,2.2,essential,57.14285714285716,57.14285714285716
+2025,CONDIMENTS,Food at home,Sandwich Spread,15 oz,2.2,essential,0.0,57.14285714285716
+2019,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,6.5,essential,,0.0
+2020,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,7.0,essential,7.6923076923076925,7.6923076923076925
+2021,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,7.0,essential,0.0,7.6923076923076925
+2022,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,8.75,essential,25.0,34.61538461538461
+2023,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,8.75,essential,0.0,34.61538461538461
+2024,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,10.5,essential,20.0,61.53846153846154
+2025,HYGIENE,Personal care,Sensodyne Toothpaste,4 oz,10.5,essential,0.0,61.53846153846154
+2019,HYGIENE,Personal care,Shampoo,15 oz,1.25,essential,,0.0
+2020,HYGIENE,Personal care,Shampoo,15 oz,1.25,essential,0.0,0.0
+2021,HYGIENE,Personal care,Shampoo,15 oz,1.25,essential,0.0,0.0
+2022,HYGIENE,Personal care,Shampoo,15 oz,1.3,essential,4.0000000000000036,4.0000000000000036
+2023,HYGIENE,Personal care,Shampoo,15 oz,1.325,essential,1.9230769230769162,5.9999999999999964
+2024,HYGIENE,Personal care,Shampoo,15 oz,1.325,essential,0.0,5.9999999999999964
+2025,HYGIENE,Personal care,Shampoo,15 oz,1.375,essential,3.7735849056603805,10.0
+2019,SHOES,Apparel,Shower Shoes,,6.25,essential,,0.0
+2020,SHOES,Apparel,Shower Shoes,,6.25,essential,0.0,0.0
+2021,SHOES,Apparel,Shower Shoes,,6.25,essential,0.0,0.0
+2022,SHOES,Apparel,Shower Shoes,,7.0,essential,12.0,12.0
+2023,SHOES,Apparel,Shower Shoes,,8.0,essential,14.285714285714285,28.000000000000004
+2024,SHOES,Apparel,Shower Shoes,,9.0,essential,12.5,44.0
+2025,SHOES,Apparel,Shower Shoes,,8.625,essential,-4.166666666666666,38.0
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,1.3,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,1.2,essential,-7.692307692307699,-7.692307692307699
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,1.2,essential,0.0,-7.692307692307699
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,3.15,essential,162.5,142.3076923076923
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,3.15,essential,0.0,142.3076923076923
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,2.3,essential,-26.984126984126988,76.9230769230769
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Simethicone Anti/Gas,36 tabs,2.3,essential,0.0,76.9230769230769
+2019,CLOTHING,Apparel,Socks,,1.5,essential,,0.0
+2020,CLOTHING,Apparel,Socks,,1.5,essential,0.0,0.0
+2021,CLOTHING,Apparel,Socks,,1.4,essential,-6.666666666666672,-6.666666666666672
+2022,CLOTHING,Apparel,Socks,,1.4,essential,0.0,-6.666666666666672
+2023,CLOTHING,Apparel,Socks,,1.5,essential,7.1428571428571495,0.0
+2024,CLOTHING,Apparel,Socks,,1.5,essential,0.0,0.0
+2025,CLOTHING,Apparel,Socks,,1.65,essential,9.999999999999993,9.999999999999993
+2019,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,0.85,non-essential,,0.0
+2020,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,0.95,non-essential,11.764705882352938,11.764705882352938
+2021,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.0,non-essential,5.263157894736848,17.647058823529417
+2022,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.2,non-essential,19.999999999999996,41.17647058823529
+2023,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.2,non-essential,0.0,41.17647058823529
+2024,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.2,non-essential,0.0,41.17647058823529
+2025,SNACKS,Food at home,Spicy Pork Skins,2.75 oz,1.2,non-essential,0.0,41.17647058823529
+2019,FEMALE ONLY,Personal care,Sports Bra,,6.0,essential,,0.0
+2020,FEMALE ONLY,Personal care,Sports Bra,,6.0,essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Sports Bra,,6.0,essential,0.0,0.0
+2022,FEMALE ONLY,Personal care,Sports Bra,,6.0,essential,0.0,0.0
+2023,FEMALE ONLY,Personal care,Sports Bra,,4.375,essential,-27.083333333333332,-27.083333333333332
+2024,FEMALE ONLY,Personal care,Sports Bra,,4.375,essential,0.0,-27.083333333333332
+2025,FEMALE ONLY,Personal care,Sports Bra,,4.375,essential,0.0,-27.083333333333332
+2019,CORRESPONDENCE,Recreation,Stamps-Assorted,,3.355,essential,,0.0
+2020,CORRESPONDENCE,Recreation,Stamps-Assorted,,3.88,essential,15.648286140089414,15.648286140089414
+2021,CORRESPONDENCE,Recreation,Stamps-Assorted,,3.88,essential,0.0,15.648286140089414
+2022,CORRESPONDENCE,Recreation,Stamps-Assorted,,4.4799999999999995,essential,15.463917525773189,33.532041728763026
+2023,CORRESPONDENCE,Recreation,Stamps-Assorted,,4.4799999999999995,essential,0.0,33.532041728763026
+2024,CORRESPONDENCE,Recreation,Stamps-Assorted,,4.93,essential,10.044642857142861,46.94485842026825
+2025,CORRESPONDENCE,Recreation,Stamps-Assorted,,5.505,essential,11.6632860040568,64.08345752608048
+2019,CONDIMENTS,Food at home,Stevia Sweetener,,1.35,essential,,0.0
+2020,CONDIMENTS,Food at home,Stevia Sweetener,,1.35,essential,0.0,0.0
+2021,CONDIMENTS,Food at home,Stevia Sweetener,,1.3,essential,-3.703703703703707,-3.703703703703707
+2022,CONDIMENTS,Food at home,Stevia Sweetener,,1.4,essential,7.692307692307682,3.7037037037036904
+2023,CONDIMENTS,Food at home,Stevia Sweetener,,1.4,essential,0.0,3.7037037037036904
+2024,CONDIMENTS,Food at home,Stevia Sweetener,,1.4,essential,0.0,3.7037037037036904
+2025,CONDIMENTS,Food at home,Stevia Sweetener,,1.4,essential,0.0,3.7037037037036904
+2019,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,16.0,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,16.0,non-essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,22.0,non-essential,37.5,37.5
+2022,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,22.0,non-essential,0.0,37.5
+2023,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,27.0,non-essential,22.727272727272727,68.75
+2024,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,40.0,non-essential,48.148148148148145,150.0
+2025,FEMALE ONLY,Personal care,"Storage Box-14""x8""x8""",,40.0,non-essential,0.0,150.0
+2019,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,6.25,essential,,0.0
+2020,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,6.5,essential,4.0,4.0
+2021,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,6.5,essential,0.0,4.0
+2022,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,8.5,essential,30.76923076923077,36.0
+2023,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,8.5,essential,0.0,36.0
+2024,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,9.5,essential,11.76470588235294,52.0
+2025,KOSHER ITEMS,Food at home,Stuffed Chicken,12 oz,9.5,essential,0.0,52.0
+2019,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.1,essential,,0.0
+2020,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.1,essential,0.0,0.0
+2021,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.1,essential,0.0,0.0
+2022,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.65,essential,26.19047619047618,26.19047619047618
+2023,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,2.65,essential,0.0,26.19047619047618
+2024,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,1.95,essential,-26.41509433962264,-7.1428571428571495
+2025,INSTANT DRINK MIX,Food at home,Sugar Free Hot Chocolate,,1.95,essential,0.0,-7.1428571428571495
+2019,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,non-essential,0.0,0.0
+2022,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,non-essential,0.0,0.0
+2023,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,non-essential,0.0,0.0
+2024,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,non-essential,0.0,0.0
+2025,ELECTRICAL,Recreation,Swintec Printwheel-Pica,,40.0,non-essential,0.0,0.0
+2019,ELECTRICAL,Recreation,Swintec Ribbon-Black,,6.5,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Swintec Ribbon-Black,,5.125,non-essential,-21.153846153846153,-21.153846153846153
+2021,ELECTRICAL,Recreation,Swintec Ribbon-Black,,5.125,non-essential,0.0,-21.153846153846153
+2022,ELECTRICAL,Recreation,Swintec Ribbon-Black,,5.0,non-essential,-2.4390243902439024,-23.076923076923077
+2023,ELECTRICAL,Recreation,Swintec Ribbon-Black,,5.375,non-essential,7.5,-17.307692307692307
+2024,ELECTRICAL,Recreation,Swintec Ribbon-Black,,7.25,non-essential,34.883720930232556,11.538461538461538
+2025,ELECTRICAL,Recreation,Swintec Ribbon-Black,,7.25,non-essential,0.0,11.538461538461538
+2019,CLOTHING,Apparel,T-Shirts,,7.0,essential,,0.0
+2020,CLOTHING,Apparel,T-Shirts,,7.0,essential,0.0,0.0
+2021,CLOTHING,Apparel,T-Shirts,,7.0,essential,0.0,0.0
+2022,CLOTHING,Apparel,T-Shirts,,7.0,essential,0.0,0.0
+2023,CLOTHING,Apparel,T-Shirts,,7.75,essential,10.714285714285714,10.714285714285714
+2024,CLOTHING,Apparel,T-Shirts,,7.75,essential,0.0,10.714285714285714
+2025,CLOTHING,Apparel,T-Shirts,,21.375,essential,175.80645161290323,205.35714285714283
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,7.0,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,0.6,essential,-91.42857142857143,-91.42857142857143
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,6.6,essential,1000.0,-5.71428571428572
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,8.25,essential,25.000000000000007,17.857142857142858
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,8.25,essential,0.0,17.857142857142858
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,8.25,essential,0.0,17.857142857142858
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Terbinafine Antifungal Crm-.5 oz,,8.25,essential,0.0,17.857142857142858
+2019,HYGIENE,Personal care,Toilet Tissue (roll),,0.5,essential,,0.0
+2020,HYGIENE,Personal care,Toilet Tissue (roll),,0.5,essential,0.0,0.0
+2021,HYGIENE,Personal care,Toilet Tissue (roll),,0.6,essential,19.999999999999996,19.999999999999996
+2022,HYGIENE,Personal care,Toilet Tissue (roll),,0.6,essential,0.0,19.999999999999996
+2023,HYGIENE,Personal care,Toilet Tissue (roll),,0.85,essential,41.66666666666667,70.0
+2024,HYGIENE,Personal care,Toilet Tissue (roll),,0.85,essential,0.0,70.0
+2025,HYGIENE,Personal care,Toilet Tissue (roll),,0.9,essential,5.882352941176476,80.0
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,0.85,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,0.8,essential,-5.882352941176463,-5.882352941176463
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,0.8,essential,0.0,-5.882352941176463
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,1.0,essential,24.999999999999993,17.647058823529417
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,1.2,essential,19.999999999999996,41.17647058823529
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,1.2,essential,0.0,41.17647058823529
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Tolnaftate Antifungal Cream-.5 oz,,1.2,essential,0.0,41.17647058823529
+2019,CANDY,Food at home,Tootsie Pops,8 pk,0.9,non-essential,,0.0
+2020,CANDY,Food at home,Tootsie Pops,8 pk,0.9,non-essential,0.0,0.0
+2021,CANDY,Food at home,Tootsie Pops,8 pk,0.9,non-essential,0.0,0.0
+2022,CANDY,Food at home,Tootsie Pops,8 pk,0.9,non-essential,0.0,0.0
+2023,CANDY,Food at home,Tootsie Pops,8 pk,1.2,non-essential,33.33333333333333,33.33333333333333
+2024,CANDY,Food at home,Tootsie Pops,8 pk,1.5,non-essential,25.000000000000007,66.66666666666666
+2025,CANDY,Food at home,Tootsie Pops,8 pk,1.65,non-essential,9.999999999999993,83.33333333333331
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.0,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,1.85,essential,-7.499999999999996,-7.499999999999996
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,1.85,essential,0.0,-7.499999999999996
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.1,essential,13.513513513513512,5.000000000000004
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.1,essential,0.0,5.000000000000004
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.1,essential,0.0,5.000000000000004
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Triple Antibiotic Ointment,1 oz,2.1,essential,0.0,5.000000000000004
+2019,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,non-essential,,0.0
+2020,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,non-essential,0.0,0.0
+2021,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,non-essential,0.0,0.0
+2022,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,non-essential,0.0,0.0
+2023,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,non-essential,0.0,0.0
+2024,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,non-essential,0.0,0.0
+2025,FEMALE ONLY,Personal care,Tweezer-Blunt,,0.75,non-essential,0.0,0.0
+2019,CANDY,Food at home,Twix Candy Bar,1.79 oz,0.85,non-essential,,0.0
+2020,CANDY,Food at home,Twix Candy Bar,1.79 oz,0.95,non-essential,11.764705882352938,11.764705882352938
+2021,CANDY,Food at home,Twix Candy Bar,1.79 oz,0.95,non-essential,0.0,11.764705882352938
+2022,CANDY,Food at home,Twix Candy Bar,1.79 oz,1.0,non-essential,5.263157894736848,17.647058823529417
+2023,CANDY,Food at home,Twix Candy Bar,1.79 oz,1.25,non-essential,25.0,47.05882352941177
+2024,CANDY,Food at home,Twix Candy Bar,1.79 oz,1.25,non-essential,0.0,47.05882352941177
+2025,CANDY,Food at home,Twix Candy Bar,1.79 oz,1.5,non-essential,20.0,76.47058823529413
+2019,ELECTRICAL,Recreation,Typewriter-Swintec,,225.0,non-essential,,0.0
+2020,ELECTRICAL,Recreation,Typewriter-Swintec,,225.0,non-essential,0.0,0.0
+2021,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,non-essential,60.0,60.0
+2022,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,non-essential,0.0,60.0
+2023,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,non-essential,0.0,60.0
+2024,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,non-essential,0.0,60.0
+2025,ELECTRICAL,Recreation,Typewriter-Swintec,,360.0,non-essential,0.0,60.0
+2019,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,0.95,essential,,0.0
+2020,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,0.95,essential,0.0,0.0
+2021,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,0.95,essential,0.0,0.0
+2022,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,0.95,essential,0.0,0.0
+2023,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,1.1,essential,15.789473684210542,15.789473684210542
+2024,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,2.3,essential,109.09090909090907,142.10526315789474
+2025,CORRESPONDENCE,Recreation,Typing Paper,50 sheets,3.5,essential,52.17391304347827,268.42105263157896
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,4.75,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,3.75,essential,-21.052631578947366,-21.052631578947366
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,3.75,essential,0.0,-21.052631578947366
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,5.6,essential,49.33333333333332,17.894736842105257
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,5.6,essential,0.0,17.894736842105257
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,5.6,essential,0.0,17.894736842105257
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Amino Acid,100 tabs,5.95,essential,6.25000000000001,25.26315789473685
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.65,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.3,essential,-13.207547169811324,-13.207547169811324
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.3,essential,0.0,-13.207547169811324
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.7,essential,17.391304347826104,1.8867924528301987
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.7,essential,0.0,1.8867924528301987
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.7,essential,0.0,1.8867924528301987
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-C500 Complex,100 tabs,2.75,essential,1.8518518518518452,3.7735849056603805
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.35,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.25,essential,-4.255319148936174,-4.255319148936174
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.25,essential,0.0,-4.255319148936174
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.75,essential,22.22222222222222,17.021276595744677
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.75,essential,0.0,17.021276595744677
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.75,essential,0.0,17.021276595744677
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Calcium,100 tabs,2.75,essential,0.0,17.021276595744677
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,3.35,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.65,essential,-20.895522388059707,-20.895522388059707
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.65,essential,0.0,-20.895522388059707
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.8,essential,5.660377358490563,-16.4179104477612
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.8,essential,0.0,-16.4179104477612
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,2.8,essential,0.0,-16.4179104477612
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-E 200 IU,100 tabs,4.5,essential,60.71428571428572,34.32835820895522
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.25,essential,-21.05263157894737,-21.05263157894737
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.25,essential,0.0,-21.05263157894737
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,essential,26.66666666666667,0.0
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,essential,0.0,0.0
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,essential,0.0,0.0
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Garlic/Oil,100 tabs,2.85,essential,0.0,0.0
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.3,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,1.85,essential,-19.565217391304337,-19.565217391304337
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.35,essential,27.027027027027025,2.1739130434782727
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.6,essential,10.638297872340425,13.043478260869579
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.6,essential,0.0,13.043478260869579
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,2.6,essential,0.0,13.043478260869579
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Multi No Iron,100 tabs,3.0,essential,15.38461538461538,30.43478260869566
+2019,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.85,essential,,0.0
+2020,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.1,essential,-19.480519480519483,-19.480519480519483
+2021,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.1,essential,0.0,-19.480519480519483
+2022,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.3,essential,6.451612903225798,-14.285714285714294
+2023,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,3.3,essential,0.0,-14.285714285714294
+2024,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,7.5,essential,127.2727272727273,94.8051948051948
+2025,"OTC MEDICATIONS, VITAMINS, ETC",Medicinal drugs,Vitamin-Omega,120 tabs,7.5,essential,0.0,94.8051948051948
+2019,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.25,non-essential,,0.0
+2020,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,non-essential,4.761904761904762,4.761904761904762
+2021,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,non-essential,0.0,4.761904761904762
+2022,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,non-essential,0.0,4.761904761904762
+2023,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,non-essential,0.0,4.761904761904762
+2024,ART SUPPLIES,Recreation,Watercolor Pad,9x12,5.5,non-essential,0.0,4.761904761904762
+2025,ART SUPPLIES,Recreation,Watercolor Pad,9x12,6.75,non-essential,22.727272727272727,28.57142857142857
+2019,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,1.35,non-essential,,0.0
+2020,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,1.5,non-essential,11.111111111111104,11.111111111111104
+2021,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,non-essential,156.66666666666666,185.18518518518516
+2022,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,non-essential,0.0,185.18518518518516
+2023,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,non-essential,0.0,185.18518518518516
+2024,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,non-essential,0.0,185.18518518518516
+2025,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,non-essential,0.0,185.18518518518516
+2019,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,10.0,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,10.0,non-essential,0.0,0.0
+2021,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,12.5,non-essential,25.0,25.0
+2022,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,12.5,non-essential,0.0,25.0
+2023,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,non-essential,-57.99999999999999,-47.5
+2024,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,non-essential,0.0,-47.5
+2025,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,non-essential,0.0,-47.5
