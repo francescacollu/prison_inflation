@@ -53,4 +53,6 @@ This project will provide tools to:
 
 
 ## Retail prices sources:
-- 
+- BLS Average Price Data for the South Area
+- H-E-B, Texas grocery chain
+- Target/CVS/Walgreens
