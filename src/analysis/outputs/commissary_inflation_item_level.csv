@@ -440,20 +440,20 @@ year,category,cpi_category,item_name,size,price,essential_status,yoy_inflation_p
 2023,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,25.0,non-essential,4.166666666666666,13.636363636363635
 2024,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,31.0,non-essential,24.0,40.909090909090914
 2025,FEMALE ONLY,Personal care,Hair Dryer-1600 Watts,,31.0,non-essential,0.0,40.909090909090914
-2019,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
-2021,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
-2022,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
-2023,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
-2024,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
-2025,JEWELRY / RELIGIOUS,Other goods,Hat-White Knitted,,8.0,non-essential,0.0,0.0
-2019,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,non-essential,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,non-essential,0.0,0.0
-2021,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,1.25,non-essential,0.0,0.0
-2022,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,2.5,non-essential,100.0,100.0
-2023,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,non-essential,-70.0,-40.0
-2024,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,non-essential,0.0,-40.0
-2025,JEWELRY / RELIGIOUS,Other goods,Hat-White Solid,,0.75,non-essential,0.0,-40.0
+2019,JEWELRY / RELIGIOUS,Apparel,Hat-White Knitted,,8.0,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Apparel,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2021,JEWELRY / RELIGIOUS,Apparel,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2022,JEWELRY / RELIGIOUS,Apparel,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2023,JEWELRY / RELIGIOUS,Apparel,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2024,JEWELRY / RELIGIOUS,Apparel,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2025,JEWELRY / RELIGIOUS,Apparel,Hat-White Knitted,,8.0,non-essential,0.0,0.0
+2019,JEWELRY / RELIGIOUS,Apparel,Hat-White Solid,,1.25,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Apparel,Hat-White Solid,,1.25,non-essential,0.0,0.0
+2021,JEWELRY / RELIGIOUS,Apparel,Hat-White Solid,,1.25,non-essential,0.0,0.0
+2022,JEWELRY / RELIGIOUS,Apparel,Hat-White Solid,,2.5,non-essential,100.0,100.0
+2023,JEWELRY / RELIGIOUS,Apparel,Hat-White Solid,,0.75,non-essential,-70.0,-40.0
+2024,JEWELRY / RELIGIOUS,Apparel,Hat-White Solid,,0.75,non-essential,0.0,-40.0
+2025,JEWELRY / RELIGIOUS,Apparel,Hat-White Solid,,0.75,non-essential,0.0,-40.0
 2019,ELECTRICAL,Recreation,Headphones,,5.5,non-essential,,0.0
 2020,ELECTRICAL,Recreation,Headphones,,6.0,non-essential,9.090909090909092,9.090909090909092
 2021,ELECTRICAL,Recreation,Headphones,,6.0,non-essential,0.0,9.090909090909092
@@ -591,13 +591,13 @@ year,category,cpi_category,item_name,size,price,essential_status,yoy_inflation_p
 2023,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,essential,5.263157894736839,22.448979591836725
 2024,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,essential,0.0,22.448979591836725
 2025,FEMALE ONLY,Personal care,Maxi Pads,22 ct,3.0,essential,0.0,22.448979591836725
-2019,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,non-essential,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,non-essential,0.0,0.0
-2021,JEWELRY / RELIGIOUS,Other goods,Medallions,,11.625,non-essential,0.0,0.0
-2022,JEWELRY / RELIGIOUS,Other goods,Medallions,,12.375,non-essential,6.451612903225806,6.451612903225806
-2023,JEWELRY / RELIGIOUS,Other goods,Medallions,,12.375,non-essential,0.0,6.451612903225806
-2024,JEWELRY / RELIGIOUS,Other goods,Medallions,,14.125,non-essential,14.14141414141414,21.50537634408602
-2025,JEWELRY / RELIGIOUS,Other goods,Medallions,,14.125,non-essential,0.0,21.50537634408602
+2019,JEWELRY / RELIGIOUS,Apparel,Medallions,,11.625,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Apparel,Medallions,,11.625,non-essential,0.0,0.0
+2021,JEWELRY / RELIGIOUS,Apparel,Medallions,,11.625,non-essential,0.0,0.0
+2022,JEWELRY / RELIGIOUS,Apparel,Medallions,,12.375,non-essential,6.451612903225806,6.451612903225806
+2023,JEWELRY / RELIGIOUS,Apparel,Medallions,,12.375,non-essential,0.0,6.451612903225806
+2024,JEWELRY / RELIGIOUS,Apparel,Medallions,,14.125,non-essential,14.14141414141414,21.50537634408602
+2025,JEWELRY / RELIGIOUS,Apparel,Medallions,,14.125,non-essential,0.0,21.50537634408602
 2019,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,essential,,0.0
 2020,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,essential,0.0,0.0
 2021,HYGIENE,Personal care,Medi/Cleanse Cream,8 oz,1.2,essential,0.0,0.0
@@ -745,13 +745,13 @@ year,category,cpi_category,item_name,size,price,essential_status,yoy_inflation_p
 2023,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.15,non-essential,14.999999999999991,14.999999999999991
 2024,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.2,non-essential,4.347826086956526,19.999999999999996
 2025,FEMALE ONLY,Personal care,Ponytail Holders,10 pk,1.4,non-essential,16.666666666666664,39.99999999999999
-2019,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,18.75,non-essential,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,non-essential,6.666666666666667,6.666666666666667
-2021,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
-2022,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
-2023,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
-2024,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,21.0,non-essential,5.0,12.0
-2025,JEWELRY / RELIGIOUS,Other goods,Prayer Oil,4 oz,21.0,non-essential,0.0,12.0
+2019,JEWELRY / RELIGIOUS,Apparel,Prayer Oil,4 oz,18.75,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Apparel,Prayer Oil,4 oz,20.0,non-essential,6.666666666666667,6.666666666666667
+2021,JEWELRY / RELIGIOUS,Apparel,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
+2022,JEWELRY / RELIGIOUS,Apparel,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
+2023,JEWELRY / RELIGIOUS,Apparel,Prayer Oil,4 oz,20.0,non-essential,0.0,6.666666666666667
+2024,JEWELRY / RELIGIOUS,Apparel,Prayer Oil,4 oz,21.0,non-essential,5.0,12.0
+2025,JEWELRY / RELIGIOUS,Apparel,Prayer Oil,4 oz,21.0,non-essential,0.0,12.0
 2019,ART SUPPLIES,Recreation,Protractor Ruler,,0.45,non-essential,,0.0
 2020,ART SUPPLIES,Recreation,Protractor Ruler,,0.5,non-essential,11.111111111111107,11.111111111111107
 2021,ART SUPPLIES,Recreation,Protractor Ruler,,0.35,non-essential,-30.000000000000004,-22.22222222222223
@@ -1039,10 +1039,10 @@ year,category,cpi_category,item_name,size,price,essential_status,yoy_inflation_p
 2023,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,non-essential,0.0,185.18518518518516
 2024,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,non-essential,0.0,185.18518518518516
 2025,ART SUPPLIES,Recreation,Watercolor Paints,16 colors,3.85,non-essential,0.0,185.18518518518516
-2019,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,10.0,non-essential,,0.0
-2020,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,10.0,non-essential,0.0,0.0
-2021,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,12.5,non-essential,25.0,25.0
-2022,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,12.5,non-essential,0.0,25.0
-2023,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,non-essential,-57.99999999999999,-47.5
-2024,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,non-essential,0.0,-47.5
-2025,JEWELRY / RELIGIOUS,Other goods,Wood Rune Set,,5.25,non-essential,0.0,-47.5
+2019,JEWELRY / RELIGIOUS,Apparel,Wood Rune Set,,10.0,non-essential,,0.0
+2020,JEWELRY / RELIGIOUS,Apparel,Wood Rune Set,,10.0,non-essential,0.0,0.0
+2021,JEWELRY / RELIGIOUS,Apparel,Wood Rune Set,,12.5,non-essential,25.0,25.0
+2022,JEWELRY / RELIGIOUS,Apparel,Wood Rune Set,,12.5,non-essential,0.0,25.0
+2023,JEWELRY / RELIGIOUS,Apparel,Wood Rune Set,,5.25,non-essential,-57.99999999999999,-47.5
+2024,JEWELRY / RELIGIOUS,Apparel,Wood Rune Set,,5.25,non-essential,0.0,-47.5
+2025,JEWELRY / RELIGIOUS,Apparel,Wood Rune Set,,5.25,non-essential,0.0,-47.5

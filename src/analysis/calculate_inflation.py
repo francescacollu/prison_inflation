@@ -411,7 +411,7 @@ def main():
     # Load data (relative to project root)
     project_root = Path(__file__).parent.parent.parent
     print("Loading data...")
-    cpi_file = project_root / "data" / "cpi" / "cpi_data.csv"
+    cpi_file = project_root / "data" / "cpi" / "processed" / "cpi_data.csv"
     commissary_file = project_root / "data" / "commissary" / "processed" / "texas" / "texas_commissary_filtered_5plus_years.csv"
     
     if not cpi_file.exists():

@@ -37,13 +37,10 @@ This project will provide tools to:
 - From https://www.bls.gov/developers/home.htm
 
 
-## Inflation analysis:
-- On CPI data
-- On commissary prices data
-- Comparison between CPI and commissary prices
-
-
-## Visualizations
+## Analysis:
+- Comparison between CPI and commissary inflation (correspondence between CPI and commissary categories)
+- Comparison between individual item prices (2019-2025, items in at least 5 years): which ones got the greatest increase/decrease? 
+- Comparisono between 2025 commisary prices and retail prices (choose 10-15 specific items)
 
 
 ## Talking points:
