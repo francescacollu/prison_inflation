@@ -1,0 +1,175 @@
+================================================================================
+COMMISSARY vs RETAIL PRICE COMPARISON (2025)
+================================================================================
+Comparing commissary prices to average retail prices by category
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total commissary items compared: 28
+Items with comparable prices: 18
+
+Average markup: -51.0%
+Median markup: -64.4%
+Minimum markup: -89.7%
+Maximum markup: 70.9%
+
+MARKUP BY COMPARISON CATEGORY
+--------------------------------------------------------------------------------
+Bar soap:
+  Commissary items: 2
+  Retail items used for comparison: 56
+  Average markup: -81.1%
+  Median markup: -81.1%
+  Retail price range: $0.16/oz - $2.66/oz (avg: $1.17/oz)
+
+Body lotion:
+  Commissary items: 4
+  Retail items used for comparison: 59
+  Average markup: -65.8%
+  Median markup: -67.6%
+  Retail price range: $0.21/oz - $2.99/oz (avg: $0.78/oz)
+
+Colombian coffee:
+  Commissary items: 2
+  Retail items used for comparison: 40
+  Average markup: -14.7%
+  Median markup: -14.7%
+  Retail price range: $0.13/oz - $1.66/oz (avg: $0.81/oz)
+
+Deodorant stick:
+  Commissary items: 1
+  Retail items used for comparison: 41
+  Average markup: -81.2%
+  Median markup: -81.2%
+  Retail price range: $0.82/oz - $7.68/oz (avg: $3.36/oz)
+
+Oatmeal:
+  Commissary items: 1
+  Retail items used for comparison: 60
+  Average markup: -44.0%
+  Median markup: -44.0%
+  Retail price range: $0.09/oz - $1.03/oz (avg: $0.35/oz)
+
+Peanut butter:
+  Commissary items: 1
+  Retail items used for comparison: 154
+  Average markup: -61.4%
+  Median markup: -61.4%
+  Retail price range: $0.01/oz - $1.68/oz (avg: $0.42/oz)
+
+Shampoo:
+  Commissary items: 3
+  Retail items used for comparison: 53
+  Average markup: -82.4%
+  Median markup: -82.6%
+  Retail price range: $0.08/oz - $4.42/oz (avg: $0.79/oz)
+
+Snickers bar:
+  Commissary items: 1
+  Retail items used for comparison: 17
+  Average markup: 1.4%
+  Median markup: 1.4%
+  Retail price range: $0.24/oz - $2.64/oz (avg: $0.80/oz)
+
+Toothpaste:
+  Commissary items: 3
+  Retail items used for comparison: 46
+  Average markup: -10.5%
+  Median markup: -34.9%
+  Retail price range: $0.18/oz - $4.98/oz (avg: $1.54/oz)
+
+MARKUP BY ESSENTIAL STATUS
+--------------------------------------------------------------------------------
+Essential:
+  Count: 17
+  Average markup: -54.1%
+  Median markup: -67.4%
+
+Non-Essential:
+  Count: 1
+  Average markup: 1.4%
+  Median markup: 1.4%
+
+TOP 10 HIGHEST MARKUPS
+--------------------------------------------------------------------------------
+Sensodyne Toothpaste (Toothpaste)
+  Markup: 70.9%
+  Commissary: $2.62/oz | Retail avg: $1.54/oz
+
+EK Columbian Coffee (Colombian coffee)
+  Markup: 30.8%
+  Commissary: $1.06/oz | Retail avg: $0.81/oz
+
+Snickers Candy Bar (Snickers bar)
+  Markup: 1.4%
+  Commissary: $0.81/oz | Retail avg: $0.80/oz
+
+Ad Seg Colgate (Toothpaste)
+  Markup: -34.9%
+  Commissary: $1.00/oz | Retail avg: $1.54/oz
+
+Calamine Lotion (Body lotion)
+  Markup: -41.5%
+  Commissary: $0.46/oz | Retail avg: $0.78/oz
+
+EH Oatmeal Variety (10 Pk) (Oatmeal)
+  Markup: -44.0%
+  Commissary: $0.19/oz | Retail avg: $0.35/oz
+
+Antibacterial Lotion (Body lotion)
+  Markup: -48.9%
+  Commissary: $0.40/oz | Retail avg: $0.78/oz
+
+EK Plantation Coffee (Colombian coffee)
+  Markup: -60.1%
+  Commissary: $0.32/oz | Retail avg: $0.81/oz
+
+EK Creamy Peanut Butter (Peanut butter)
+  Markup: -61.3%
+  Commissary: $0.16/oz | Retail avg: $0.42/oz
+
+Colgate Toothpaste (Toothpaste)
+  Markup: -67.4%
+  Commissary: $0.50/oz | Retail avg: $1.54/oz
+
+TOP 10 LOWEST MARKUPS (Best Deals)
+--------------------------------------------------------------------------------
+Antibacterial Soap (Bar soap)
+  Markup: -89.7%
+  Commissary: $0.12/oz | Retail avg: $1.17/oz
+
+Shampoo (Shampoo)
+  Markup: -88.4%
+  Commissary: $0.09/oz | Retail avg: $0.79/oz
+
+Aloe Lotion (Body lotion)
+  Markup: -86.4%
+  Commissary: $0.11/oz | Retail avg: $0.78/oz
+
+Cocoa Butter Lotion (Body lotion)
+  Markup: -86.4%
+  Commissary: $0.11/oz | Retail avg: $0.78/oz
+
+Ad Seg Shampoo (Shampoo)
+  Markup: -82.6%
+  Commissary: $0.14/oz | Retail avg: $0.79/oz
+
+Mennen Deodorant (Deodorant stick)
+  Markup: -81.2%
+  Commissary: $0.63/oz | Retail avg: $3.36/oz
+
+Dandruff Shampoo (Shampoo)
+  Markup: -76.2%
+  Commissary: $0.19/oz | Retail avg: $0.79/oz
+
+Dial Soap (Bar soap)
+  Markup: -72.6%
+  Commissary: $0.32/oz | Retail avg: $1.17/oz
+
+Colgate Toothpaste (Toothpaste)
+  Markup: -67.4%
+  Commissary: $0.50/oz | Retail avg: $1.54/oz
+
+EK Creamy Peanut Butter (Peanut butter)
+  Markup: -61.3%
+  Commissary: $0.16/oz | Retail avg: $0.42/oz
