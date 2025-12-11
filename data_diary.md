@@ -39,7 +39,7 @@ This project will provide tools to:
 
 ## Analysis:
 - Comparison between CPI and commissary inflation (correspondence between CPI and commissary categories)
-- Comparison between individual item prices (2019-2025, items in at least 5 years): which ones got the greatest increase/decrease? 
+- Comparison between individual item prices (2019-2025, items still there in 2025): which ones got the greatest increase/decrease? 
 - Comparisono between 2025 commisary prices and retail prices (choose 10-15 specific items)
 
 
@@ -53,3 +53,13 @@ This project will provide tools to:
 - BLS Average Price Data for the South Area
 - H-E-B, Texas grocery chain
 - Target/CVS/Walgreens
+
+## Retail vs. Commissary items:
+- Maxi pads
+
+
+## Color palette:
+- #ffc300 for areas
+- #003566 or #000814 for borders
+
+

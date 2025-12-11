@@ -1,54 +1,38 @@
 item_category,item_name,item_price,price_per_unit,price_per_unit_type,item_size
-Colombian coffee,CAFE Olé by H-E-B Medium Roast Colombian Coffee Single Serve Cups,7.98,0.66,ct,12 ct
-Colombian coffee,H-E-B 100% Colombian Med-Dark Roast Ground Coffee,19.98,0.58,oz,34.5 oz
-Colombian coffee,Folgers 100% Colombian Medium Roast Ground Coffee,13.88,,,22.60 oz
-Colombian coffee,Hill Country Fare Colombian Single Serve Coffee Cups,4.62,0.38,ct,12 ct
-Colombian coffee,Hill Country Fare Colombian Single Serve Coffee Cups,16.47,0.34,ct,48 ct
-Colombian coffee,H-E-B 100% Colombian Med-Dark Roast Ground Coffee,8.98,0.78,oz,11.5 oz
-Colombian coffee,CAFE Olé by H-E-B Medium Roast Colombian Supremo Ground Coffee,8.98,0.75,oz,12 oz
-Colombian coffee,Folgers 100% Colombian Medium Roast Single Serve Coffee K Cups,7.14,,,10 ct
-Colombian coffee,CAFE Olé by H-E-B Commemorative Collection Dark Roast Colombian Coffee Single Serve Cups,7.98,0.66,ct,12 ct
-Colombian coffee,CAFE Olé by H-E-B Commemorative Collection Dark Roast Colombian Ground Coffee,8.98,0.75,oz,12 oz
-Colombian coffee,Tejas Cafe 100% Colombian Medium Roast Ground Coffee,6.48,0.59,oz,11 oz
-Colombian coffee,Maxwell House 100% Colombian Ground Coffee,6.96,,,9.9 oz
-Colombian coffee,CAFE Olé by H-E-B Medium Roast Decaf Colombian Coffee Single Serve Cups,7.98,0.66,ct,12 ct
-Colombian coffee,Veneto Cafe Organic Colombian Coffee Single Serve Cups,6.0,,,12 ct
-Colombian coffee,Swoon by H-E-B Colombian Coffee Toffee Ice Cream,3.98,,,1 pt
-Colombian coffee,Colcafe Colombian Instant Coffee,4.58,1.53,oz,3 oz
-Colombian coffee,CAFE Olé by H-E-B Decaf Donut Shop,28.98,0.54,ct,"Breakfast Blend & Colombian Coffee Single Serve Cups Variety Pack, 54 ct"
-Colombian coffee,CAFE Olé by H-E-B Donut Shop,28.98,0.54,ct,"Pacific Island Blend & Colombian Coffee Single Serve Cups Variety Pack, 54 ct"
-Colombian coffee,CAFE Olé by H-E-B Whole Bean Medium Roast Colombian Supremo Coffee,21.98,0.69,oz,2 lbs
-Colombian coffee,Maxwell House 100% Colombian Ground Coffee,14.84,,,23.1 oz
-Colombian coffee,Veneto Cafe 100% Colombian Breakfast Ground Coffee,10.48,,,12 oz
-Colombian coffee,Equal Exchange Organic Colombian Medium Roast Ground Coffee,12.24,1.02,oz,12 oz
-Colombian coffee,Folgers 100% Colombian Medium-Dark Roast Ground Coffee,9.57,,,9.6 oz
-Colombian coffee,Veneto Cafe 100% Colombian Dark Roast Ground Coffee,10.48,,,12 oz
-Colombian coffee,Blue Island 100% Colombian Medium Roast Ground Coffee,10.24,0.93,oz,11 oz
-Colombian coffee,CAFE Olé by H-E-B Commemorative Collection Dark Roast Colombian Whole Bean Coffee,8.98,0.75,oz,12 oz
-Colombian coffee,Hill Country Fare Colombian Single Serve Coffee Cups,30.96,0.31,ct,100 ct
-Colombian coffee,CAFE Olé by H-E-B Donut Shop,43.98,0.44,ct,"Pacific Island Blend, Colombian & French Roast Coffee Single Serve Cups - Texas-Size Pack, 100 ct"
-Colombian coffee,Veneto Cafe 100% Colombian Cold Brew Coarse Ground Coffee,9.98,,,12 oz
-Colombian coffee,Eight O'Clock 100% Colombian Peaks Medium Roast Ground Coffee,7.48,0.68,oz,11 oz
-Colombian coffee,Blue Island Hammock Reserve 100% Colombian Medium Roast Single Serve Coffee K Cups,10.24,1.02,ct,10 ct
-Colombian coffee,Veneto Cafe 100% Colombian Medium Roast Ground Coffee,10.48,,,12 oz
-Colombian coffee,Veneto Cafe Organic 100% Colombian Medium Roast Ground Coffee,10.98,,,12 oz
-Colombian coffee,Tejas Cafe Decaf 100% Colombian Medium Roast Ground Coffee,6.48,0.59,oz,11 oz
-Colombian coffee,CAFE Olé by H-E-B Medium Roast Decaf Colombian Supremo Ground Coffee,8.98,0.75,oz,12 oz
-Colombian coffee,Cameron's Organic Colombian Light Roast Whole Bean Coffee,10.99,0.69,oz,sold by the pound
-Colombian coffee,Veneto Cafe 100% Colombian Breakfast Single Serve Cups,9.98,0.83,ct,12 ct
-Colombian coffee,La Colombe Unsweetened Medium Roast Colombian Cold Brew,5.38,,,42 oz
-Colombian coffee,CAFE Olé by H-E-B Reserve Single Origin Whole Bean Colombia Anaerobic Coffee,19.98,1.66,oz,12 oz
-Colombian coffee,Folgers 100% Colombian Medium Roast Single Serve Coffee K Cups,23.98,,,32 ct
-Instant coffee,Nescafe Gold Blonde Espresso Instant Coffee,9.24,,,3.5 oz
-Instant coffee,H-E-B Classic Roast Instant Coffee,5.15,,,8 oz
+Maxi pads,H-E-B Maxi Pads - Super,3.98,0.08,ct,48 ct
+Maxi pads,H-E-B Maxi with Flexi-Wings Overnight Pads,5.13,0.14,ct,36 ct
+Maxi pads,"Always Maxi Overnight Pads with Wings, Extra Heavy Overnight, Unscented Size 5",5.56,0.28,ct,20 ct
+Maxi pads,H-E-B Maxi with Flexi-Wings Overnight Pads - Extra Heavy,3.98,0.2,ct,20 ct
+Maxi pads,H-E-B Maxi with Flexi-Wings Overnight Pads - Extra Heavy,6.0,0.17,ct,36 ct
+Maxi pads,H-E-B Maxi with Flexi-Wings Overnight Pads,3.0,0.11,ct,28 ct
+Maxi pads,"Always Maxi Daytime Pads with Wings, Super, Unscented Size 2",7.97,0.19,ct,42 ct
+Maxi pads,H-E-B Maxi with Flexi-Wings Long Pads - Super,3.0,0.09,ct,32 ct
+Maxi pads,Stayfree Maxi Pads - Super,6.38,0.13,ct,48 ct
+Maxi pads,Stayfree Maxi Pads Wingless - Regular,4.43,0.18,ct,24 ct
+Maxi pads,U by Kotex Clean & Secure Maxi Pads - Heavy Absorbency,4.18,0.19,ct,22 ct
+Maxi pads,Always Maxi Pads Overnight Absorbency Unscented with Wings Size 4,7.97,0.24,ct,33 ct
+Maxi pads,Always Maxi Pads Overnight Absorbency Unscented with Wings Size 5,7.97,0.3,ct,27 ct
+Maxi pads,"Always Maxi Overnight Pads with Wings - Extra Heavy Size 5, Unscented",10.47,0.29,ct,36 ct
+Maxi pads,Carefree Maxi Overnight Pads With Wings,6.68,0.24,ct,28 ct
+Maxi pads,"Stayfree Maxi Super Pads For Women, Wingless",4.43,0.18,ct,24 ct
+Maxi pads,U by Kotex Clean & Secure Maxi Overnight Pad with Wings - Extra Heavy,8.99,0.37,ct,24 ct
+Maxi pads,Frida Mom Instant Ice Maxi Pads for Postpartum Recovery,17.99,2.25,ct,8 ct
+Maxi pads,Always Maxi Pads Overnight Absorbency Unscented Size 4,5.56,0.21,ct,26 ct
+Maxi pads,"Always Maxi Overnight Pads with Wings for Women, Size 5, Extra Heavy Overnight Absorbency, Unscented, 14 Count",4.67,0.33,ct,14 ct
+Maxi pads,U by Kotex Clean & Secure Overnight Maxi Pads,7.68,0.19,ct,40 ct
+Maxi pads,U by Kotex Clean & Secure Overnight Maxi Pads,4.18,0.3,ct,14 ct
+Maxi pads,Carefree Maxi Super Long Pads with Wings,6.68,0.24,ct,28 ct
+Maxi pads,"Always Maxi Daytime Pads with Wings, Extra Long Super, Unscented  Size 3",7.97,0.24,ct,33 ct
+Instant coffee,Nescafe Gold Blonde Espresso Instant Coffee,9.24,2.64,oz,3.5 oz
+Instant coffee,H-E-B Classic Roast Instant Coffee,5.15,0.64,oz,8 oz
 Instant coffee,Nescafe Tasters Choice House Blend Light-Medium Roast Instant Coffee Packets,1.48,0.25,ct,6 ct
-Instant coffee,Folgers Classic Roast Instant Coffee,12.84,,,12 oz
-Instant coffee,Nescafe Gold Espresso Intense Instant Coffee,9.24,,,3.5 oz
-Instant coffee,Folgers Classic Roast Instant Coffee,8.97,,,8 oz
-Instant coffee,Folgers Classic Roast Single Serve Instant Coffee Packets,1.46,,,7 ct
+Instant coffee,Folgers Classic Roast Instant Coffee,12.84,1.07,oz,12 oz
+Instant coffee,Nescafe Gold Espresso Intense Instant Coffee,9.24,2.64,oz,3.5 oz
+Instant coffee,Folgers Classic Roast Instant Coffee,8.97,1.12,oz,8 oz
+Instant coffee,Folgers Classic Roast Single Serve Instant Coffee Packets,1.46,0.21,ct,7 ct
 Instant coffee,H-E-B Cafe Puro Instant Coffee,2.28,1.3,oz,1.76 oz
-Instant coffee,Cafe Bustelo Espresso Instant Coffee Packets,1.69,,,6 ct
-Instant coffee,Folgers Classic Roast Instant Coffee,5.12,,,3 oz
+Instant coffee,Cafe Bustelo Espresso Instant Coffee Packets,1.69,0.28,ct,6 ct
+Instant coffee,Folgers Classic Roast Instant Coffee,5.12,1.71,oz,3 oz
 Instant coffee,Nescafe Clasico Pure Instant Coffee,3.98,2.34,oz,1.7 oz
 Instant coffee,Nescafe Clasico Pure Instant Coffee,6.77,1.93,oz,3.5 oz
 Instant coffee,Nescafe Taster's Choice House Blend Instant Coffee,12.57,1.8,oz,7 oz
@@ -59,639 +43,797 @@ Instant coffee,Via Romo Espresso Instant  Coffee,2.78,1.39,oz,2 oz
 Instant coffee,Nescafe Tasters Choice French Roast Instant Coffee,12.57,1.8,oz,7 oz
 Instant coffee,H-E-B Classic Decaf Instant Coffee,7.68,0.96,oz,8 oz
 Instant coffee,Tejas Cafe H-E-B Chocolate Instant Coffee,5.99,0.75,oz,8 oz
-Instant coffee,H-E-B Cafe Puro Dark Roast Instant Coffee,5.98,0.85,oz,7 oz
 Instant coffee,Tejas Cafe H-E-B Café De Olla Instant Coffee,5.99,0.75,oz,8 oz
 Instant coffee,Colcafe Colombian Instant Coffee,4.58,1.53,oz,3 oz
 Instant coffee,Caffe D'Vita Premium Mocha Cappuccino Instant Coffee,5.82,0.36,oz,16 oz
-Instant coffee,Folgers Coffee Singles Classic Roast Instant Coffee Bags,6.98,,,19 ct
+Instant coffee,Folgers Coffee Singles Classic Roast Instant Coffee Bags,6.98,0.37,ct,19 ct
 Instant coffee,Nescafe Clasico Pure Instant Coffee,13.28,1.26,oz,10.5 oz
-Instant coffee,Maxwell House International Cafe French Vanilla Beverage Mix,4.46,,,8.4 oz
-Instant coffee,Folgers Classic Decaf Single Serve Coffee Packets,1.46,,,6 ct
+Instant coffee,Maxwell House International Cafe French Vanilla Beverage Mix,4.46,0.53,oz,8.4 oz
 Instant coffee,Nescafe Tasters Choice Decaf House Blend Light-Medium Roast Instant Coffee Packets,1.48,0.3,ct,5 ct
-Instant coffee,Hills Bros. French Vanilla Cappuccino Drink Mix,4.22,,,16 oz
+Instant coffee,Hills Bros. French Vanilla Cappuccino Drink Mix,4.22,0.26,oz,16 oz
+Instant coffee,Folgers Classic Decaf Instant Coffee,9.97,1.25,oz,8 oz
 Instant coffee,Nescafe Clasico Pure Decaf Dark Roast Instant Coffee,10.74,1.53,oz,7 oz
 Instant coffee,Postum Original Roasted Wheat-Bran and Molasses Instant Coffee Alternative,10.68,1.34,oz,8 oz
-Instant coffee,Starbucks VIA Ready Brew Colombia Medium Roast Instant Coffee Packets,8.47,,,8 ct
-Instant coffee,Folgers Classic Decaf Instant Coffee,9.97,,,8 oz
-Instant coffee,Colcafe Granulated Instant Coffee,6.68,1.11,oz,6 oz
+Instant coffee,Starbucks VIA Ready Brew Colombia Medium Roast Instant Coffee Packets,8.47,1.06,ct,8 ct
+Instant coffee,H-E-B Cafe Puro Dark Roast Instant Coffee,5.98,0.85,oz,7 oz
+Instant coffee,Colcafe Granulated Instant Coffee,7.98,1.33,oz,6 oz
 Instant coffee,Nescafe Ice Roast Instant Coffee Sticks,4.57,0.57,ct,8 ct
-Instant coffee,Central Market Organics Decaffeinated Instant Coffee,6.98,1.99,oz,3.5 oz
 Instant coffee,Sally Hansen Insta-Dri Nail Polish - Instant Coffee,5.98,,,
 Instant coffee,Postum Natural Coffee Flavor Instant Coffee Alternative,10.68,1.34,oz,8 oz
+Instant coffee,Nescafe Gold Decaf Expresso Instant Coffee Mix,9.24,2.64,oz,3.5 oz
 Instant coffee,Community Coffee Breakfast Blend Medium Roast Instant Coffee,10.99,1.57,oz,7 oz
 Instant coffee,Community Coffee Signature Blend Dark Roast Instant Coffee,10.99,1.57,oz,7 oz
-Instant coffee,Folgers Coffee Singles Classic Decaf Instant Coffee Bags,7.98,,,19 ct
 Instant coffee,Community Coffee Coffee & Chicory Medium-Dark Roast Instant Coffee,10.99,1.57,oz,7 oz
 Instant coffee,Community Coffee Decaf Cafe Special Medium-Dark Roast Instant Coffee,10.99,1.57,oz,7 oz
-Instant coffee,Nescafe Tasters Choice Decaf Instant Coffee,12.57,,,7 oz
-Instant coffee,Nescafe Gold Decaf Expresso Instant Coffee Mix,9.24,,,3.5 oz
-Instant coffee,Starbucks Via Ready Brew Pikes Place Roast Medium Roast Instant Coffee,8.47,,,8 ct
+Instant coffee,Starbucks Via Ready Brew Pikes Place Roast Medium Roast Instant Coffee,8.47,1.06,ct,8 ct
+Instant coffee,Nescafe Tasters Choice Decaf Instant Coffee,12.57,1.8,oz,7 oz
+Instant coffee,Central Market Organics Decaffeinated Instant Coffee,6.98,1.99,oz,3.5 oz
+Instant coffee,Folgers Coffee Singles Classic Decaf Instant Coffee Bags,7.98,0.42,ct,19 ct
 Instant coffee,H-E-B Cafe Puro Instant Decaf Coffee,6.78,0.97,oz,7 oz
 Instant coffee,Chike 20g Whey Protein Iced Coffee - Mocha,29.63,1.94,oz,15.3 oz
-Instant coffee,DeLallo Instant Espresso Powder,4.77,,,1.94 oz
-Instant coffee,Caffe D'Vita Premium Instant Sugar Free Mocha Cappuccino,5.82,0.68,oz,8.5 oz
 Instant coffee,Chike 20g Whey Protein Iced Coffee - Original,29.63,1.85,oz,15.3 oz
-Instant coffee,Maxwell House International Cafe Francais Beverage Mix,4.46,,,7.6 oz
-Instant coffee,Maxwell House International Cafe Cafe Vienna Beverage Mix,4.46,,,9 oz
-Instant coffee,Maxwell House International Cafe  Suisse Mocha Beverage Mix,4.46,,,7.2 oz
-Instant coffee,Maxwell House International Cafe Sugar Free Suisse Mocha Decaffeinated Beverage Mix,4.46,,,4 oz
-Instant coffee,Maxwell House International Cafe Sugar Free French Vanilla Beverage Mix,4.46,,,4.3 OZ
-Instant coffee,Hills Bros. Sugar Free French Vanilla Cappuccino Drink Mix,4.22,,,12 oz
+Instant coffee,Maxwell House International Cafe Francais Beverage Mix,4.46,0.59,oz,7.6 oz
+Instant coffee,Hills Bros. Sugar Free French Vanilla Cappuccino Drink Mix,4.22,0.35,oz,12 oz
+Instant coffee,Maxwell House International Cafe Cafe Vienna Beverage Mix,4.46,0.5,oz,9 oz
+Instant coffee,Folgers Classic Decaf Single Serve Coffee Packets,1.46,0.24,ct,6 ct
+Instant coffee,Maxwell House International Cafe  Suisse Mocha Beverage Mix,4.46,0.62,oz,7.2 oz
 Instant coffee,Hills Bros. English Toffee Cappuccino Drink Mix,4.22,0.26,oz,16 oz
-Instant coffee,Maxwell House International Cafe Hazelnut Beverage Mix,4.46,,,9 oz
-Instant ramen,Samyang Buldak Spicy Chicken Carbonara Ramen Instant Soup Packs,7.28,0.32,oz,5 ct
-Instant ramen,Nongshim Shin Spicy Ramyun Noodle Soup Family Pack,5.48,0.32,oz,4 ct
-Instant ramen,Samyang Buldak Spicy Chicken Carbonara Ramen Instant Soup Big Bowl,2.98,,,3.7 oz
-Instant ramen,Samyang Buldak Rosé Spicy Chicken Ramen Instant Soup Packs,7.28,,,5 ct
-Instant ramen,Nongshim Shin Black Noodle Soup Family Pack,8.68,0.47,oz,4 ct
-Instant ramen,Samyang Taco Buldak Spicy Chicken Ramen Instant Soup Packs,7.28,,,5 ct
-Instant ramen,Samyang Taco Buldak Spicy Chicken Ramen Instant Soup Cup,1.88,,,2.64 oz
-Instant ramen,Samyang Buldak Cream Carbonara Spicy Chicken Ramen Instant Soup Big Bowl,2.98,,,4.23 oz
-Instant ramen,Samyang Buldak Quattro Cheese Spicy Chicken Ramen Instant Soup Big Bowl,2.98,0.77,oz,3.88 oz
-Instant ramen,Samyang Buldak Spicy Chicken Ramen Instant Soup Packs,7.28,0.29,oz,5 ct
-Instant ramen,Nongshim Soon Veggie Noodle Soup Family Pack,5.48,0.35,oz,4 ct
-Instant ramen,Samyang Buldak Yakisoba Spicy Chicken Ramen Instant Soup Packs,7.28,,,5 ct
-Instant ramen,Samyang Buldak Sweet & Spicy Korean Chicken Ramen Instant Soup Big Bowl,2.98,0.74,oz,4.05 oz
-Instant ramen,Samyang Buldak Rosé Spicy Ramen Instant Soup Big Bowl,2.98,0.81,oz,3.7 oz
-Instant ramen,Nissin Hot & Spicy Chicken Flavor Ramen Noodle Soup,1.38,,,3.32 oz
-Instant ramen,Nissin Top Ramen Chicken Flavor Ramen Noodle Soup,2.48,0.41,pack,6 ct
-Instant ramen,Nissin Top Ramen Beef Flavor Ramen Noodle Soup,2.48,0.41,pack,6 ct
-Instant ramen,Samyang Buldak Carbonara Spicy Chicken Ramen Instant Soup Cup,1.88,0.67,oz,2.82 oz
-Instant ramen,Nissin Hot & Fiery Beef Flavor Ramen Noodle Soup,1.38,,,3.28 oz
-Instant ramen,Nissin Hot & Spicy with Shrimp Ramen Noodle Soup,1.38,,,3.27 oz
-Instant ramen,Cielo Fresh Foods Birria Instant Ramen Noodles,1.98,,,2.82 oz
-Instant ramen,Nongshim Spicy Chicken Bowl Noodle Soup,1.34,0.44,oz,3.03 oz
-Instant ramen,Nongshim Hot and Spicy Flavor Picante Bowl Noodle Soup,1.34,0.44,oz,3.03 oz
-Instant ramen,Nongshim Shin Big Bowl Gourmet Spicy Noodle Soup,2.08,0.52,oz,4.02 oz
-Instant ramen,Nissin Hot & Spicy Fire Wok Scorchin' Sesame Shrimp Noodle Bowl,1.38,,,4.55 oz
-Instant ramen,Nongshim Shin Bowl Gourmet Spicy Noodle Soup,1.34,0.44,oz,3.03 oz
-Instant ramen,Nongshim Spicy Shin Cup Noodle Soup,1.34,0.51,oz,2.64 oz
-Instant ramen,Nissin Teriyaki Chicken Stir Fry Cup Noodles,1.08,0.36,oz,3 oz
-Instant ramen,Nissin Teriyaki Beef Stir Fry Cup Noodles,1.08,0.36,oz,3 oz
-Instant ramen,Annie Chun's Pad Thai Noodle Bowl,2.97,,,8.53 oz
-Instant ramen,Annie Chun's Teriyaki Noodle Bowl,2.97,,,8.16 oz
-Instant ramen,Mama Thai Instant Ramen Noodle Soup Packs - Shrimp,3.78,0.36,oz,5 ct
-Instant ramen,Mama Instant Ramen Noodle Soup Packs - Pork,3.78,0.36,oz,5 ct
-Instant ramen,Cielo Fresh Foods Menudo Instant Ramen Noodles,1.98,,,2.82 oz
-Instant ramen,Cielo Fresh Foods 7 Mares Seafood Instant Ramen Noodle Soup,1.98,,,2.82 oz
-Instant ramen,Samyang Buldak 2X Spicy Chicken Ramen Instant Soup Cup,1.5,0.61,oz,2.47 oz
-Instant ramen,Samyang Buldak Cheese Spicy Chicken Ramen Instant Soup Cup,1.88,0.76,oz,2.46 oz
-Instant ramen,Samyang Taco Buldak Spicy Chicken Ramen Instant Soup Big Bowl,2.98,0.81,oz,3.7 oz
-Instant ramen,PhoLicious Ramen Spicy Beef Instant Soup,4.98,,,4.19 oz
-Instant ramen,PhoLicious Ramen Spicy Chicken Instant Soup,4.98,,,4.19 oz
-Instant ramen,Indomie Instant Ramen Noodle Soup Packs - Chicken,4.78,0.39,oz,5 ct
-Instant ramen,Samyang Buldak Original Spicy Chicken Ramen Instant Soup Big Bowl,2.98,,,3.7 oz
-Instant ramen,Samyang Buldak Habanero Lime Spicy Chicken Ramen Instant Soup Big Bowl,2.98,0.77,oz,3.88 oz
-Instant ramen,Indomie Mi Goreng Hot & Spicy Instant Ramen Noodle Soup Packs,4.78,0.34,oz,5 ct
-Instant ramen,Cielo Fresh Foods Pozole Instant Ramen Noodles,1.98,,,2.82 o
-Instant ramen,Samyang Buldak Original Spicy Chicken Ramen Instant Soup Cup,1.88,,,2.47 oz
-Instant ramen,Samyang Buldak Habanero Lime Spicy Chicken Ramen Instant Soup Packs,7.28,,,5 ct
-Instant ramen,Nissin Hot & Spicy Blazing Hot Ramen Noodle Soup,1.38,0.42,oz,3.26 oz
-Instant ramen,Nissin Chicken Cup Noodles Value Pack,2.96,,,6 ct
-Instant ramen,Nongshim Kimchi Noodle Soup Cup,1.88,0.71,oz,2.64 oz
-Instant ramen,Nissin Beef Cup Noodles Value Pack,2.96,0.49,pack,6 ct
-Instant ramen,Nongshim Spicy Shin Black Soup,2.42,0.69,oz,3.5 oz
-Instant ramen,Nongshim Champong Spicy Seafood Noodle Soup Family Pack,8.68,0.47,oz,4 ct
-Instant ramen,Nongshim Soon Veggie Noodle Soup Cup,1.88,0.71,oz,2.64 oz
-Instant ramen,Indomie Mi Goreng Fried Instant Ramen Noodle Soup Packs,3.98,0.27,oz,5 ct
-Instant ramen,Nongshim Udon Noodle Cup,4.98,0.51,oz,9.73 oz
-Instant ramen,Nissin Shrimp Cup Noodles Value Pack,2.96,,,6 ct
-Instant ramen,Bare Bones Instant Bone Broth Packets - Ramen,8.59,,,4 ct
-Instant ramen,Samyang Buldak Carbonara Spicy Tteokbokki Rice Cakes,3.68,,,6.31 oz
-Instant ramen,Nongshim Shin Gold with Chicken Broth,2.08,0.58,oz,3.56 oz
-Instant ramen,Samyang Buldak Original Spicy Tteokbokki Rice Cake Sticks,3.68,,,6.52 oz
-Instant ramen,Nongshim Kimchi Noodle Soup Family Pack,5.48,1.3,oz,4 ct
-Instant ramen,Nongshim Neoguri Spicy Seafood Udon Noodle Soup Family Pack,5.48,1.3,oz,4 ct
-Instant ramen,Annie Chun's Pho Soup Bowl,2.97,,,5.41 oz
-Instant ramen,Nissin Hot & Spicy Fire Wok Molten Chili Chicken Noodle Bowl,1.38,,,4.37 oz
-Instant ramen,Nissin Hot & Spicy Fire Wok Sizzlin' Rich Pork Noodle Bowl,1.38,,,4.37 oz
-Instant ramen,Nissin Sweet Chili Stir Fry Noodles,1.08,0.37,oz,2.89 oz
-Instant ramen,Nissin Korean BBQ Stir Fry Cup Noodles,1.08,,,2.89 oz
-Instant ramen,Nongshim Beef & Fermented Bean Ansung Noodle Soup Family Pack,5.48,1.25,oz,4 ct
-Instant ramen,PhoLicious Vegetarian Pho Instant Soup,4.93,,,3.6 oz
-Instant ramen,Maruchan Instant Lunch Hot & Spicy Chicken Flavor Ramen Noodles,0.62,0.28,oz,2.25 oz
-Instant ramen,Reames Homestyle Egg Noodles,4.18,0.26,oz,16 oz
-Instant ramen,Maruchan Chicken Flavor Ramen Noodle Soup,0.47,0.16,oz,3 oz
-Instant ramen,Maruchan Chicken Flavor Ramen Noodle Soup,9.88,0.41,pack,24 ct
-Instant ramen,Maruchan Beef Flavor Ramen Noodle Soup,0.47,0.16,oz,3 oz
-Instant ramen,Maruchan Creamy Chicken Flavor Ramen Noodle Soup,0.47,0.16,oz,3 oz
-Instant ramen,Maruchan Pork Flavor Ramen Noodle Soup,0.47,0.16,oz,3 oz
-Instant ramen,Maruchan Beef Flavor Ramen Noodle Soup,9.88,0.41,pack,24 ct
-Instant ramen,Annie Chun's Sweet Chili Noodle Bowl,2.97,,,8.38 oz
-Instant ramen,Maruchan Lime Chili Shrimp Flavor Ramen Noodle Soup,0.47,0.16,oz,3 oz
-Instant ramen,Maruchan Chili Flavor Ramen Noodle Soup,0.47,0.16,oz,3 oz
-Instant ramen,Maruchan Shrimp Flavor Ramen Noodle Soup,0.47,0.16,oz,3 oz
-Instant ramen,Samyang Buldak Hot Sauce - Carbonara,4.97,,,7.05 oz
-Instant ramen,Maruchan Soy Sauce Flavor Ramen Noodle Soup,0.47,0.16,oz,3 oz
-Instant ramen,Maruchan Shrimp Flavor Ramen Noodle Soup,9.88,0.41,ct,24 ct
-Instant ramen,Samyang Buldak Hot Sauce - Original,4.96,,,7.05 oz
-Instant ramen,Maruchan Instant Lunch Chicken Flavor,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Instant Lunch Chicken Flavor 12 ct,6.98,0.58,pack,12 ct
-Instant ramen,Maruchan Instant Lunch Cheddar Cheese Flavor,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Yakisoba Cheddar Cheese Flavor,1.28,0.32,oz,3.96 oz
-Instant ramen,Maruchan Instant Lunch Lime Chili Flavor with Shrimp,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Instant Lunch Hot and Spicy Flavor with Shrimp,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Instant Lunch Beef Flavor,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Instant Lunch With Shrimp,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Instant Lunch Lime Flavor With Shrimp,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Instant Lunch Lime Chili Chicken Flavor,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Yakisoba Korean BBQ Flavor,1.28,0.31,oz,4.12 oz
-Instant ramen,Maruchan Yakisoba Teriyaki Chicken Flavor,1.28,0.32,oz,3.98 oz
-Instant ramen,Maruchan Instant Lunch Hot and Spicy Beef Flavor,0.62,0.28,oz,2.25 oz
-Instant ramen,Maruchan Yakisoba Chicken Flavor,1.28,0.32,oz,4 oz
-Instant ramen,Maruchan Spicy Chicken Flavor Yakisoba Noodles,1.28,0.31,oz,4.11 oz
-Instant ramen,Maruchan Instant Lunch with Shrimp,6.98,0.58,pack,12 ct
-Instant ramen,Maruchan Instant Lunch Beef Flavor 12 ct,6.98,0.58,pack,12 ct
-Peanut butter,H-E-B Made in Texas Creamy Peanut Butter,3.79,0.14,oz,28 oz
-Peanut butter,Jif Creamy Peanut Butter,2.78,,,16 oz
-Peanut butter,Jif Creamy Peanut Butter,6.97,,,40 oz
-Peanut butter,Peter Pan Creamy Peanut Butter,5.77,0.14,oz,40 oz
-Peanut butter,Hill Country Fare Creamy Peanut Butter,3.98,0.1,oz,40 oz
-Peanut butter,H-E-B Organics 7g Protein Creamy Peanut Butter Spread,4.48,0.25,oz,18 oz
-Peanut butter,Hill Country Fare Creamy Peanut Butter,1.98,,,18 oz
-Peanut butter,Central Market All-Natural Smooth Peanut Butter - Unsalted,3.62,0.2,oz,18 oz
-Peanut butter,Peter Pan Honey Roasted Creamy Peanut & Honey Spread,5.77,0.14,oz,40 oz
-Peanut butter,Jif To Go Creamy Peanut Butter Cups,3.14,0.36,oz,8 ct
-Peanut butter,H-E-B Made in Texas Crunchy Peanut Butter,3.79,0.14,oz,28 oz
-Peanut butter,H-E-B Natural 7g Protein Creamy Peanut Butter,1.95,0.12,oz,16 oz
-Peanut butter,Jif Natural Creamy Peanut Butter Spread,5.48,,,28 oz
-Peanut butter,Hill Country Fare Creamy Peanut Butter - Texas-Size Pack,6.47,,,4 lbs
-Peanut butter,Jif Extra Crunchy Peanut Butter,6.97,,,40 oz
-Peanut butter,Peter Pan Creamy Peanut Butter,2.47,0.15,oz,16.3 oz
-Peanut butter,H-E-B Made in Texas Creamy Peanut Butter,2.62,0.15,oz,18 oz
-Peanut butter,Laura Scudder's Old Fashioned All Natural Smooth Peanut Butter,4.88,0.3,oz,16 oz
-Peanut butter,H-E-B Unsalted Peanut Butter,4.48,0.28,oz,16 oz
-Peanut butter,Central Market All-Natural Smooth Peanut Butter - Salted,3.62,0.2,oz,18 oz
-Peanut butter,H-E-B Made in Texas Creamy Peanut Butter - Texas Wildflower Honey,2.62,0.15,oz,18 oz
-Peanut butter,H-E-B Honey Peanut Butter,4.98,0.31,oz,16 oz
-Peanut butter,Skippy No Sugar Added Creamy Peanut Butter,2.98,0.19,oz,16 oz
-Peanut butter,Hill Country Fare PB&J Stripes - Creamy Peanut Butter & Grape Jelly,2.49,,,18 oz
-Peanut butter,H-E-B Made in Texas Crunchy Peanut Butter,2.62,0.15,oz,18 oz
-Peanut butter,Skippy Natural Creamy Peanut Butter,4.79,0.18,oz,26.5 oz
-Peanut butter,Central Market All-Natural Crunchy Peanut Butter – Unsalted,3.62,0.2,oz,18 oz
-Peanut butter,Peter Pan Creamy Honey Peanut Butter Spread,2.47,0.15,oz,16.3 oz
-Peanut butter,Laura Scudder's Old Fashioned All Natural Nutty Peanut Butter,4.88,0.3,oz,16 oz
-Peanut butter,Jif Reduced Fat Creamy Peanut Butter Spread,2.78,,,16 oz
-Peanut butter,H-E-B Natural 6g Protein Creamy Peanut Butter - Honey,1.95,0.12,oz,16 oz
-Peanut butter,PB2 Powdered Peanut Butter,4.17,0.64,oz,6.5 oz
-Peanut butter,Peanut Butter & Co. Peanut Butter - White Chocolate Wonderful,4.82,0.3,oz,16 oz
-Peanut butter,Reese's Creamy Peanut Butter,3.64,,,18 oz
-Peanut butter,Nut' N Better Organic Crunchy Peanut Butter - No Stir,5.28,0.29,oz,18 oz
-Peanut butter,Peter Pan Crunchy Peanut Butter,2.47,0.15,oz,16.3 oz
-Peanut butter,H-E-B Bulk Honey Roasted Peanut Butter,4.78,0.01,oz,lb
-Peanut butter,Justin's Honey Peanut Butter Spread,1.25,1.09,oz,1.15 oz
-Peanut butter,Peter Pan Natural Creamy Peanut Butter,5.77,0.14,oz,40 oz
-Peanut butter,PBfit Classic Roasted Peanut Butter Powder,12.47,0.52,oz,24 oz
-Peanut butter,H-E-B Organics 7g Protein Crunchy Peanut Butter,4.48,0.25,oz,18 oz
-Peanut butter,Central Market Smooth Peanut Butter with Honey - Salted,3.62,0.2,oz,18 oz
-Peanut butter,Peter Pan Natural Creamy Peanut Butter Spread,2.47,0.15,oz,16.3 oz
-Peanut butter,Nut' N Better Organic Crunchy Peanut Butter,5.25,0.29,oz,18 oz
-Peanut butter,Skippy Natural Extra Crunchy Super Chunk Peanut Butter,4.79,0.18,oz,26.5 oz
-Peanut butter,Skippy Natural Super Chunk Extra Chunky Peanut Butter Spread,2.98,0.2,oz,15 oz
-Peanut butter,Smart Balance Chunky Natural Peanut Butter & Flaxseed Oil Spread,6.28,0.24,oz,26 oz
-Peanut butter,Peter Pan Creamy Peanut Butter,3.97,0.14,oz,28 oz
-Peanut butter,Hill Country Fare Crunchy Peanut Butter,3.98,0.1,oz,40 oz
-Peanut butter,PB2 Cocoa Peanut Powder,4.17,0.64,oz,6.5 oz
-Peanut butter,Peter Pan Crunchy Peanut Butter,5.77,0.14,oz,40 oz
-Peanut butter,Justin's Classic Peanut Butter,5.98,0.37,oz,16 oz
-Peanut butter,Justin's Honey Peanut Butter Blend,5.98,0.37,oz,16 oz
-Peanut butter,Justin's Classic Peanut Butter Spread,1.25,1.09,oz,1.15 oz
-Peanut butter,Skippy Natural Creamy Peanut Butter Spread,2.98,0.2,oz,15 oz
-Peanut butter,Nut' N Better Organic Creamy Peanut Butter - No Stir,5.28,0.29,oz,18 oz
-Peanut butter,Nut' N Better Organic Creamy Peanut Butter,5.23,0.29,oz,18 oz
-Peanut butter,Hill Country Fare Crunchy Peanut Butter,1.98,,,18 oz
-Peanut butter,PBfit Cocoa Roasted Peanut Butter Powder,11.96,0.5,oz,24 oz
-Peanut butter,Peter Pan Honey Roast Creamy Peanut Butter Spread,3.97,0.14,oz,28 oz
-Peanut butter,Skippy Natural Creamy Peanut Butter Spread with Honey,2.98,0.2,oz,15 oz
-Peanut butter,Peanut Butter & Co. Peanut Butter - Dark Chocolatey Dreams,4.82,,,16 oz
-Peanut butter,Hill Country Fare Crunchy Peanut Butter - Texas-Size Pack,6.47,0.1,oz,4 lbs
-Peanut butter,Jif To Go Natural Creamy Peanut Butter Cups,3.14,0.36,oz,8 ct
-Peanut butter,Jif Creamy Peanut Butter,10.04,,,4 lbs
-Peanut butter,Smucker's Goober Peanut Butter & Grape Jelly Stripes,3.94,,,18 oz
-Peanut butter,Skippy Natural Creamy Peanut Butter Individual Pouches,2.98,0.32,oz,8 ct
-Peanut butter,H-E-B Bulk Freshly Ground Peanut Butter,3.98,0.25,oz,lb
-Peanut butter,Homeplate Creamy Peanut Butter Spread,6.28,0.39,oz,16 oz
-Peanut butter,Skippy Squeeze Creamy Peanut Butter,2.47,0.41,oz,6 oz
-Peanut butter,Justin's Classic Peanut Butter Spread,6.97,0.25,oz,28 oz
-Peanut butter,Jif Natural Simply Squeeze Creamy Peanut Butter Spread,3.47,,,13 oz
-Peanut butter,PB2 Powdered Peanut Butter,8.97,0.56,oz,16 oz
-Peanut butter,Jif Squeezable Creamy Peanut Butter Pouch,3.47,,,13 oz
-Peanut butter,Skippy Squeeze Natural Creamy Peanut Butter,2.47,0.41,oz,6 oz
-Peanut butter,Good Good No Added Sugar Crunchy Peanut Butter,6.81,0.43,oz,16 oz
-Peanut butter,Skippy Creamy Peanut Butter,2.98,0.18,oz,16.3 oz
-Peanut butter,Lunchables Pb&J Peanut Butter Sandwich & Grape Dip,1.87,,,"Pack, 2.3 oz"
-Peanut butter,Split Peanut Butter & Dark Chocolate Spread Squeeze Pack,2.25,1.68,oz,1.34 oz
-Peanut butter,H-E-B Organics 7g Protein Crunchy Peanut Butter – Texas-Size Pack,9.34,0.25,oz,37 oz
-Peanut butter,Jif To Go Peanut Butter & Chocolate Spread Single-Serve Cups,3.64,,,8 ct
-Peanut butter,H-E-B Made in Texas Creamy Peanut Butter – Texas-Size Pack Twin Pack,9.98,0.12,oz,40 oz each
-Peanut butter,Smucker's Goober Peanut Butter & Strawberry Jelly Stripes,3.94,,,18 oz
-Peanut butter,Jif Peanut Butter & Chocolate Flavored Spread,3.64,,,15 oz
-Peanut butter,Good Good No Added Sugar Creamy Peanut Butter,6.81,0.43,oz,16 oz
-Peanut butter,H-E-B Organics 7g Protein Creamy Peanut Butter Spread - Texas-Size Pack,9.34,0.25,oz,37 oz
-Peanut butter,H-E-B Made in Texas Crunchy Peanut Butter – Texas-Size Pack Twin Pack,9.98,0.12,oz,40 oz each
-Peanut butter,PB2 Powdered Peanut Butter,11.48,0.48,oz,24 oz
-Peanut butter,Central Market All-Natural Crunchy Peanut Butter – Salted,3.62,0.2,oz,18 oz
-Peanut butter,Lunchables Pb&J Peanut Butter Sandwich & Strawberry Flavored Dip,1.87,,,"Pack, 2.3 oz"
-Peanut butter,Peter Pan Honey Roast Crunchy Peanut Butter,2.47,0.15,oz,16.3 oz
-Peanut butter,Skippy Creamy Peanut Butter,6.27,0.16,oz,40 oz
-Peanut butter,H-E-B Natural 7g Protein Crunchy Peanut Butter,1.95,0.12,oz,16 oz
-Peanut butter,Jif Creamy Peanut Butter Pack & Snack Pouches,6.88,,,4 ct
-Peanut butter,MaraNatha Organic No Sugar Added Creamy Peanut Butter,5.47,,,16 oz
-Peanut butter,Nutella Hazelnut Spread with Cocoa,4.95,,,13 oz
-Peanut butter,Skippy No Sugar Added Chunky Peanut Butter,2.98,0.19,oz,16 oz
-Peanut butter,Skippy Creamy Peanut Butter Individual Squeeze Pouches,2.98,0.32,oz,8 ct
-Peanut butter,Lotus Biscoff Creamy Cookie Butter,5.47,0.39,oz,14.1 oz
-Peanut butter,Nutella Hazelnut Spread with Cocoa,2.98,,,7.7 oz
-Peanut butter,H-E-B Made in Texas Crunchy Peanut Butter - Texas Wildflower Honey,2.62,0.15,oz,18 oz
-Peanut butter,H-E-B Creamy Almond Butter - Cinnamon,6.98,0.44,oz,16 oz
-Peanut butter,Central Market All-Natural Smooth Almond Butter – Unsalted,8.49,0.53,oz,16 oz
-Peanut butter,Nutella Hazelnut Spread with Cocoa,9.48,,,26.5 oz
-Peanut butter,Hill Country Fare PB&J Stripes - Creamy Peanut Butter & Strawberry Jelly,2.73,,,18 oz
-Peanut butter,H-E-B Almond Butter,8.98,0.56,oz,16 oz
-Peanut butter,H-E-B Almond Butter Stock,7.88,0.49,oz,lb
-Peanut butter,Barney Butter Bare Smooth Almond Butter,0.78,1.3,oz,0.6 oz
-Peanut butter,Central Market All-Natural Crunchy Almond Butter – Unsalted,8.49,0.53,oz,16 oz
-Peanut butter,Justin's Cinnamon Almond Butter,12.48,0.78,oz,16 oz
-Peanut butter,SunButter Chocolate Sunflower Seed Butter,6.48,0.4,oz,16 oz
-Peanut butter,SunButter Creamy Sunflower Butter On the Go Cups,6.48,0.72,oz,6 ct
-Peanut butter,Barney Butter Almond Butter Blend - Chocolate,7.95,0.8,oz,10 oz
-Peanut butter,Justin's Honey Almond Butter,12.48,0.78,oz,16 oz
-Peanut butter,Justin's Maple Almond Butter,12.48,0.78,oz,16 oz
-Peanut butter,H-E-B Crunchy Almond Butter - Pecan Pie,8.95,0.56,oz,16 oz
-Peanut butter,H-E-B Creamy Almond Butter – Dark Chocolate,6.98,0.44,oz,16 oz
-Peanut butter,Justin's Chocolate Hazelnut Butter Blend,12.48,0.78,oz,16 oz
-Peanut butter,Barney Butter Smooth Almond Butter,6.98,0.7,oz,10 oz
-Peanut butter,Nucolato Hazelnut Spread - White Chocolate,9.98,0.81,oz,12.3 oz
-Peanut butter,Barney Butter Crunchy Almond Butter,6.98,0.7,oz,10 oz
-Peanut butter,Split Almond Butter & Dark Chocolate Spread Squeeze Pack,2.25,1.68,oz,1.34 oz
-Peanut butter,Nucolato Vegan & Keto Friendly Hazelnut Spread,9.98,0.81,oz,12.3 oz
-Peanut butter,Justin's Classic Almond Butter,12.48,0.78,oz,16 oz
-Peanut butter,MaraNatha All Natural No Stir Creamy Almond Butter,8.4,0.7,oz,12 oz
-Peanut butter,Barney Butter Bare Smooth Almond Butter,6.98,,,10 oz
-Peanut butter,Barney Butter Almond Butter - Cocoa + Coconut,6.98,0.7,oz,10 oz
-Peanut butter,MaraNatha No Salt No Sugar Creamy Almond Butter,8.4,0.7,oz,12 oz
-Peanut butter,Bonne Maman Hazelnut Chocolate Spread,5.98,,,12.7 oz
-Peanut butter,NuttZo Keto 7 Nut & Seed Butter - Chocolate,10.74,0.9,oz,12 oz
-Peanut butter,NuttZo Paleo Power Fuel Crunchy 7 Nut & Seed Butter,10.74,0.9,oz,12 oz
-Peanut butter,Artisana Organics Raw Coconut Butter,11.88,0.85,oz,14 oz
-Peanut butter,Nutella & Go! Hazelnut Spread + Pretzel Sticks,2.48,,,1.9 oz
-Peanut butter,Justin's Vanilla Almond Butter,12.48,0.78,oz,16 oz
-Peanut butter,H-E-B No Sugar Added Creamy Almond Butter – Texas Size Pack,12.98,0.41,oz,32 oz
-Peanut butter,H-E-B Creamy Almond Butter - Honey,6.98,0.44,oz,16 oz
-Peanut butter,H-E-B Organics Hazelnut Spread with Cocoa,4.18,0.32,oz,13 oz
-Peanut butter,Barney Butter Smooth Almond Butter,0.78,1.3,oz,0.6 oz
-Peanut butter,Lotus Biscoff Crunchy Cookie Butter,5.47,,,13.4 oz
-Peanut butter,Nutella Hazelnut Spread with Cocoa Twin Pack,14.98,,,2 ct
-Peanut butter,Once Again Unsweetened Creamy Cashew Butter,11.71,0.73,oz,16 oz
-Peanut butter,H-E-B No Sugar Added Crunchy Almond Butter,6.74,0.42,oz,16 oz
-Peanut butter,MaraNatha All Natural Raw Creamy Almond Butter,11.61,0.73,oz,16 oz
-Peanut butter,H-E-B Dark Chocolate Hazelnut Spread with Cocoa,2.87,0.22,oz,13 oz
-Peanut butter,H-E-B No Sugar Added Creamy Almond Butter,4.25,0.27,oz,16 oz
-Peanut butter,PB2 Cocoa Peanut Powder,8.97,,,16 oz
-Peanut butter,Central Market All-Natural Crunchy Almond Butter – Salted,8.49,0.53,oz,16 oz
-Peanut butter,Central Market All-Natural Smooth Almond Butter – Salted,8.49,0.53,oz,16 oz
-Peanut butter,NuttZo Keto 7 Nut & Seed Butter,10.74,0.9,oz,12 oz
-Peanut butter,NuttZo Power Fuel Smooth 7 Nut & Seed Butter,10.74,0.9,oz,12 oz
-Peanut butter,Nucolato Pistachio Spread - Chocolate,9.98,0.81,oz,12.3 oz
-Peanut butter,SunButter Original Sunflower Seed Butter,6.98,0.44,oz,16 oz
-Peanut butter,H-E-B Creamy Almond Butter – Vanilla,6.98,0.44,oz,16 oz
-Peanut butter,Nutella & Go! Hazelnut Spread + Breadsticks,2.48,,,1.8 oz
-Oatmeal,H-E-B Quick Oats,3.97,,,42 oz
-Oatmeal,H-E-B Old Fashioned Oats,3.97,,,42 oz
-Oatmeal,Quaker Instant Oatmeal - Fruit & Cream Variety Pack,6.98,0.39,ct,18 ct
-Oatmeal,Quaker Quick 1-Minute Oats,5.12,0.12,oz,42 oz
-Oatmeal,H-E-B Old Fashioned Oats,2.66,0.15,oz,18 oz
-Oatmeal,Quaker Instant Oatmeal - Maple & Brown Sugar,6.98,0.39,ct,18 ct
-Oatmeal,H-E-B 10g Protein Instant Oatmeal - Maple Brown Sugar,6.98,0.39,ct,18 ct
-Oatmeal,Bob's Red Mill Gluten Free Old Fashioned Rolled Oats,7.42,0.23,oz,32 oz
-Oatmeal,Quaker Quick 1-Minute Oats,2.98,0.17,oz,18 oz
-Oatmeal,H-E-B Instant Oatmeal - Maple Brown Sugar,3.38,0.19,ct,18 ct
-Oatmeal,Quaker Old Fashioned Oats,5.12,0.12,oz,42 oz
-Oatmeal,Mom's Best Quick Oats,1.98,0.12,oz,16 oz
-Oatmeal,H-E-B Quick Oats,2.66,0.15,oz,18 oz
-Oatmeal,H-E-B Instant Oatmeal - Apple Cinnamon,1.75,,,10 ct
-Oatmeal,H-E-B Lower Sugar Instant Oatmeal - Apple Cinnamon,3.28,0.41,ct,8 ct
-Oatmeal,Quaker Instant Oatmeal - Fruit & Cream Variety Pack,2.87,0.36,ct,8 ct
-Oatmeal,Cream of Wheat Hot Cereal - Original,4.68,0.17,oz,28 oz
-Oatmeal,H-E-B 10g Protein Instant Oatmeal - Maple Brown Sugar,3.28,0.41,ct,8 ct
-Oatmeal,H-E-B 10g Protein Instant Oatmeal - Strawberries & Cream,3.28,0.41,ct,8 ct
-Oatmeal,H-E-B Instant Oatmeal - Strawberries & Cream,1.75,,,10 ct
-Oatmeal,H-E-B Lower Sugar Instant Oatmeal - Maple Brown Sugar,3.28,0.41,ct,10 ct
-Oatmeal,H-E-B Instant Oatmeal - Maple Brown Sugar,1.75,,,10 ct
-Oatmeal,H-E-B Instant Oatmeal Variety Pack,1.75,,,10 ct
-Oatmeal,H-E-B Fruit & Cream Instant Oatmeal Variety Pack,1.75,,,10 ct
-Oatmeal,Kodiak 12g Protein Instant Oatmeal - Maple & Brown Sugar,5.28,,,6 ct
-Oatmeal,Quaker Instant Oatmeal - Original,2.87,0.29,ct,10 ct
-Oatmeal,Quaker Instant Oatmeal - Raisin,2.87,0.36,ct,"Date & Walnut, 8 ct"
-Oatmeal,Quaker Maple & Brown Sugar Instant Oatmeal Cup,1.0,0.59,oz,1.69 oz
-Oatmeal,H-E-B Organics Instant Oatmeal - Apple Cinnamon,3.18,0.28,oz,8 ct
-Oatmeal,H-E-B High Fiber Instant Oatmeal - Maple Brown Sugar,3.28,0.41,ct,8 ct
-Oatmeal,Better Oats Steel Cut Instant Oatmeal - Original,3.78,0.38,ct,10 ct
-Oatmeal,H-E-B Organics Old Fashioned Oats,3.28,0.18,oz,18 oz
-Oatmeal,H-E-B Instant Oatmeal - Peaches & Cream,1.75,,,10 ct
-Oatmeal,H-E-B Instant Oatmeal Cup - Apple Cinnamon,0.88,,,1.59 oz
-Oatmeal,H-E-B Instant Oatmeal - Original,1.75,,,12 ct
-Oatmeal,H-E-B Instant Oatmeal Cup - Maple Brown Sugar,0.88,,,1.59 oz
-Oatmeal,H-E-B Instant Oatmeal Cup - Strawberries & Cream,0.88,,,1.59 oz
-Oatmeal,Quaker Apple & Cinnamon Instant Oatmeal Cup,1.0,0.66,oz,1.51 oz
-Oatmeal,Kodiak 14g Protein Oatmeal Power Cup - Maple & Brown Sugar,2.18,1.03,oz,2.12 oz
-Oatmeal,Better Oats 10g Protein Steel Cut Instant Oatmeal - Maple & Brown Sugar,3.78,0.47,ct,8 ct
-Oatmeal,H-E-B Instant Oatmeal - Cinnamon & Spice,1.75,,,10 ct
-Oatmeal,H-E-B Organics Instant Oatmeal - Oats & Flax,3.18,0.28,oz,8 ct
-Oatmeal,H-E-B Organics Instant Oatmeal - Maple Spice,3.18,0.28,oz,8 ct
-Oatmeal,Better Oats Steel Cut Instant Oatmeal - Apples & Cinnamon,3.78,0.38,ct,10 ct
-Oatmeal,Better Oats Steel Cut Instant Oatmeal - Maple & Brown Sugar,3.78,0.38,ct,10 ct
-Oatmeal,H-E-B Organics Instant Oatmeal - Original,3.18,0.28,oz,8 ct
-Oatmeal,Quaker Select Starts Protein Banana Nut Instant Oatmeal,3.97,0.66,ct,6 ct
-Oatmeal,H-E-B Sugar Free Instant Oatmeal - French Vanilla,3.28,0.41,ct,8 ct
-Oatmeal,H-E-B Sugar Free Instant Oatmeal - Cinnamon Spice,3.28,0.41,ct,8 ct
-Oatmeal,H-E-B 10g Protein Instant Oatmeal - French Vanilla,3.28,0.41,ct,8 ct
-Oatmeal,H-E-B Instant Oatmeal Cup - Mango,0.88,,,1.59 oz
-Oatmeal,H-E-B Oatmeal Raisin Granola,3.48,0.25,oz,14 oz
-Oatmeal,H-E-B High Fiber Instant Oatmeal - Apple Cinnamon,3.28,0.41,ct,8 ct
-Oatmeal,H-E-B 10g Protein Instant Oatmeal Cup - Maple Brown Sugar,1.0,,,1.59 oz
-Oatmeal,Kodiak 12g Protein Carb-Conscious Instant Oatmeal - Maple Almond,5.28,1.06,ct,5 ct
-Oatmeal,Quaker Instant Oatmeal - Apple Cinnamon,6.98,0.39,ct,18 ct
-Oatmeal,H-E-B Instant Oatmeal Variety Pack,3.38,0.19,ct,18 ct
-Oatmeal,H-E-B Instant Oatmeal - Apple Cinnamon,3.38,0.19,ct,18 ct
-Oatmeal,Kodiak 12g Protein Packed Oatmeal Packets - Apple Cinnamon,5.28,,,6 ct
-Oatmeal,H-E-B Sugar Free Instant Oatmeal Cup - French Vanilla,0.88,,,1.59 oz
-Snickers bar,Snickers Milk Chocolate Candy Bars - Share Size,2.54,,,3.29 oz
-Snickers bar,Snickers Minis Chocolate Candy Bars - Family Size,8.98,,,18 oz
-Snickers bar,Snickers Minis Chocolate Candy Bars - Sharing Size,4.98,,,9.7 oz
-Snickers bar,Snickers Chocolate Fun Size Candy Bars - Jumbo Bag,7.97,,,18.71 oz
-Snickers bar,Snickers Trees Christmas Candy Bar - Share Size,2.54,,,2.2 oz
-Snickers bar,Snickers Minis Chocolate Candy Bars - Treating Size,2.98,,,5.1 oz
-Snickers bar,Snickers Minis Chocolate Candy Bars - Party Size,14.82,,,35.6 oz
-Snickers bar,Snickers Original Chocolate Fun Size Candy Bars,4.92,,,10.59 oz
-Snickers bar,Snickers Almond Chocolate Fun Size Candy Bars,1.18,0.38,oz,"5 pk, 3.12 oz"
-Snickers bar,Snickers Trees Christmas Milk Chocolate Candy Bar,1.25,,,1.1 oz
-Snickers bar,Snickers Chocolate Fun Size Candy Bars,1.18,,,5 pk
-Snickers bar,Snickers Full Size Milk Chocolate Candy Bars,7.88,1.31,ct,"11.16 oz, 6 pk"
-Snickers bar,Snickers Chocolatey Caramel Peanut Butter Ice Cream Bars,8.63,,,12 ct
-Snickers bar,Snickers Chocolatey Caramel Peanut Butter Ice Cream Bars,4.67,,,6 ct
-Snickers bar,Snickers,9.96,,,"Twix, Milky Way, & 3 Musketeers Minis Milk Chocolate Candy Bars - Party Size, 19.49"
-Snickers bar,Snickers,21.78,,,"Twix, Milky Way, & 3 Musketeers  Assorted Full Size Chocolate Candy Bars - Variety Pack, 18 pk"
-Snickers bar,Snickers,7.92,0.58,oz,"Twix, Milky Way & 3 Musketeers Assorted Minis Chocolate Bars - Family Size, 13.72 oz"
-Bar soap,Zest Aqua Family Deodorant Bars 8 ct,4.98,,,32 oz
-Bar soap,Duke Cannon Men's Big Brick Bar Soap - Peppermint Bark,7.99,0.8,oz,10 oz
-Bar soap,Dr Squatch Men's Natural Bar Soap - Ninny Scrubbins,7.99,1.6,oz,5 oz
-Bar soap,Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin 3 Bars,5.49,,,3.17 oz
-Bar soap,Dove Travel Size Original Beauty Bar Soap,1.49,0.57,oz,2.6 oz
-Bar soap,Dove Beauty Bar Gentle Skin Cleanser Shea Butter,5.49,,,3 pk
-Bar soap,Dove Skin Care Beauty Bar Cucumber and Green Tea,5.49,,,3 pk
-Bar soap,Dove Beauty Bar Gentle Skin Cleanser Original 3.17,5.49,,,3 pk
-Bar soap,Lever 2000 Original Bar Soap,5.78,,,8 ct
-Bar soap,Dove Beauty Bar Gentle Skin Cleanser Pink,5.49,,,3 pk
-Bar soap,Caress Daily Silk Beauty Bar Soap,5.97,1.0,ct,6 pk
-Bar soap,Dove Beauty Bar Gentle Exfoliating With Mild Cleanser,9.98,0.44,oz,3.75 oz
-Bar soap,Irish Spring Original Clean Deodorant Bar Soap for Men,2.98,,,3 ct
-Bar soap,Dove Revitalize Cherry & Chia Milk Bar Soap,5.49,,,3 ct
-Bar soap,Indigo Wild Sea Salt Zum Bar Goat's Milk Soap,5.98,1.99,oz,3 oz
-Bar soap,Irish Spring Deodorant Bar Soap for Men - Aloe Mist,6.48,,,8 ct
-Bar soap,Yardley London English Lavender Bath Bar,2.98,,,8 oz
-Bar soap,Dr. Squatch Men's Natural Soap Bar - Fresh Falls,6.98,,,5 oz
-Bar soap,Kirk's Original Fresh Scent Gentle Castile Soap,5.98,1.99,ct,3 ct
-Bar soap,Ivory Clean Original Personal Bar Soap,2.68,0.89,ct,3 ct
-Bar soap,Coast Original Eye Opener Pacific Force Bar Soap,5.98,0.75,ct,8 ct
-Bar soap,Dove Beauty Bar Gentle Cleanser Anti-Stress Cream Bar 3.17 oz,5.49,,,3 pk
-Bar soap,Indigo Wild Frankincense & Myrrh Zum Bar Goat's Milk Soap,5.98,1.99,oz,3 oz
-Bar soap,Irish Spring Original Clean Deodorant Bar Soap for Men,6.48,,,8 ct
-Bar soap,Indigo Wild Lavender-Mint Zum Bar Goat's Milk Soap,5.98,1.99,oz,3 oz
-Bar soap,Dove Men+Care Body Soap and Face Bar Clean Comfort,9.98,0.44,oz,3.75 oz
-Bar soap,Dove Body & Face Bars - Extra Fresh,9.98,0.44,oz,6 pk
-Bar soap,Irish Spring Original Clean Deodorant Bar Soap for Men,7.97,,,12 ct
-Bar soap,Dr. Squatch Men's Natural Soap Bar - Birchwood Breeze,6.98,,,5 oz
-Bar soap,Irish Spring Icy Blast Deodorant Bar Soap for Men,2.98,,,3 ct
-Bar soap,Yardley London Creamy Coconut Bath Bar,2.98,,,8 oz
-Bar soap,Caress Beauty Bar Soap Daily Silk 3 Bars,3.98,,,3.15 oz
-Bar soap,Dove Beauty Bar Gentle Skin Cleanser Original,1.97,,,3.17 oz
-Bar soap,Dial Antibacterial Refresh & Renew Bar Soap - White,6.47,,,8 ct
-Bar soap,Dove Body Soap and Face Bar Deep Clean,9.98,,,3.75 oz
-Bar soap,Dial Antibacterial Refresh & Renew Bar Soap - Mountain Fresh,3.39,0.28,oz,3 ct
-Bar soap,Dove Hydrating Beauty Bar Soap - Glacial Water & Avocado Oil,5.49,1.83,ct,3 ct
-Bar soap,Zest Aqua Family Deodorant Bars 3 ct,2.88,,,4 oz
-Bar soap,White Rain Spring Fresh Bar Soap,1.28,0.64,ct,2 ct
-Bar soap,Dial Antibacterial Refresh & Renew Bar Soap - White,3.39,,,3 ct
-Bar soap,Chandrika Ayurvedic Bar Soap,1.48,0.49,oz,3 oz
-Bar soap,Zest Bar Soap - Refreshing Aqua Bonus Size,1.48,0.74,ct,2 oz
-Bar soap,Rosa Venus Pink Bar Soap 4 pk,2.45,0.12,oz,5.3 oz
-Bar soap,White Rain Bar Soap - Vital Energy,1.28,0.64,ct,2 ct
-Bar soap,Dial Antibacterial Advanced Clean Bar Soap - Gold,10.47,,,12 ct
-Bar soap,Ivory Clean Original Personal Bar Soap,6.97,0.7,ct,10 ct
-Bar soap,Zest Aqua Refreshing Bar Soap,8.98,,,16 ct
-Bar soap,Irish Spring Deodorant Bar Soap - Aloe Mist,7.97,,,12 ct
-Bar soap,Irish Spring Deodorant Bar Soap for Men = Moisture Blast,6.48,0.22,oz,8 ct
-Bar soap,Irish Spring Icy Blast Deodorant Bar Soap for Men,6.48,,,8 ct
-Bar soap,Irish Spring Moisture Blast Deodorant Bar Soap for Men,7.97,,,12 ct
-Bar soap,Irish Spring Deodorant Bar Soap for Men - Moisture Blast,2.98,,,3 ct
-Bar soap,Irish Spring Active Scrub Deodorant Bar Soap for Men,2.98,,,3 ct
-Bar soap,Camay Classic Soap Bars,3.98,1.33,pack,3 ct
-Bar soap,Dove Soap Bar - Cool Moisture,4.97,0.62,oz,4 oz
-Bar soap,Plantlife Patchouli Aromatherapy Herbal Soap Bar,5.98,1.5,oz,4 oz
-Shampoo,Field & Future by H-E-B Leave-In Hair Detangler - Ocean Coconut Scent,7.97,,,
-Shampoo,Field & Future by H-E-B Lightweight Hair Spray,7.97,,,
-Shampoo,Field & Future by H-E-B Lightweight Hair Mousse,7.97,,,
-Shampoo,Field & Future by H-E-B Hair Oil,7.97,,,
-Shampoo,Field & Future by H-E-B Moisturize & Hydrate Shampoo - Ocean Coconut,7.97,,,
-Shampoo,Field & Future by H-E-B Moisturize & Hydrate Hair Conditioner - Ocean Coconut,7.97,,,
-Shampoo,Field & Future by H-E-B Smooth & Sleek Shampoo - Lavender & Rose,7.97,,,
-Shampoo,Field & Future by H-E-B Smooth & Sleek Conditioner - Lavender & Rose,7.97,,,
-Shampoo,Field & Future by H-E-B Moisturize & Hydrate Hair Mask - Ocean Coconut,2.97,,,
-Shampoo,Field & Future by H-E-B Smooth & Sleek Hair Mask - Murumuru Jasmine,2.97,,,
-Shampoo,Field & Future by H-E-B Lightweight Dry Shampoo - Coconut,7.97,,,
-Shampoo,Field & Future by H-E-B Moisture & Hydrate Hair Mask - Ocean Coconut,7.97,,,
+Instant coffee,Maxwell House International Cafe Sugar Free Suisse Mocha Decaffeinated Beverage Mix,4.46,1.01,oz,4 oz
+Instant coffee,Maxwell House International Cafe Sugar Free French Vanilla Beverage Mix,4.46,1.04,oz,4.3 OZ
+Instant coffee,DeLallo Instant Espresso Powder,4.77,2.46,oz,1.94 oz
+Instant coffee,Caffe D'Vita Premium Instant Sugar Free Mocha Cappuccino,5.82,0.68,oz,8.5 oz
+Instant coffee,Maxwell House International Cafe Hazelnut Beverage Mix,4.46,0.5,oz,9 oz
+Colored Pencils,H-E-B Presharpened Colored Pencils,2.38,,,24 pk
+Colored Pencils,H-E-B Presharpened Colored Pencils,0.97,,,12 pk
+Colored Pencils,Crayola Twistables Colored Pencils,2.97,0.25,ct,12 pk
+Colored Pencils,Crayola Erasable Colored Pencils,5.88,0.24,ct,24 pk
+Colored Pencils,H-E-B Bright Colored Pencils,1.47,,,8 pk
+Colored Pencils,H-E-B Metallic Colored Pencils,1.47,,,8 pk
+Colored Pencils,H-E-B Presharpened Colored Pencils,3.47,,,36 pk
+Colored Pencils,Zebra Zensations Colored Pencils - Assorted Ink,10.79,0.9,pack,12 pk
+Colored Pencils,Cra-Z-Art Neon Colored Pencils,4.48,0.37,ct,12 pk
+Colored Pencils,Prismacolor Premier Soft Core Colored Pencils,12.99,1.08,ct,12 pk
+Colored Pencils,Crayola Signature Blend & Shade Colored Pencils,19.99,,,24 pk
+Colored Pencils,Faber-Castell Black Edition Color Pencils - Neon & Pastel,9.99,0.83,ct,12 pk
+Colored Pencils,Crayola Pre-Sharpened Colored Pencils,3.27,0.14,ct,24 pk
+Colored Pencils,Crayola Pre-Sharpened Colored Pencils,2.17,0.18,ct,12 pk
+Colored Pencils,Crayola Silly Scents Colored Pencils,4.97,,,12 pk
+Colored Pencils,Art 101 Colored Pencil On The Go Art Kit,2.97,,,11 pc
+Colored Pencils,H-E-B Presharpened Colored Pencils,4.98,,,50 pk
+Colored Pencils,Evolve Latex Free Pencil Grips - Multi Color,1.27,,,10 pc
+Colored Pencils,Maped Universal Retractable Eraser - Assorted Colors,1.47,,,
+Colored Pencils,Pilot V-Board Master BeGreen Dry-Erase Markers - Assorted Colors,6.97,1.39,ct,5 pk
+Orange Juice,Simply Pulp Free 100% Orange Juice,0.09,0.09,oz,76 oz
+Orange Juice,Simply Orange Pulp Free 100% Pure Squeezed Orange Juice,0.16,0.16,oz,8 oz
+Orange Juice,H-E-B 100% Orange Juice - No Pulp,0.09,0.09,oz,52 oz
+Orange Juice,Simply Orange Pulp Free 100% Pure Squeezed Orange Juice,0.1,0.1,oz,46 oz
+Orange Juice,H-E-B 100% Orange Juice - No Pulp,0.08,0.08,oz,89 oz
+Orange Juice,Hill Country Fare Orange Juice - Original,0.05,0.05,oz,1 gal
+Orange Juice,H-E-B 100% Orange Juice - Some Pulp,0.09,0.09,oz,52 oz
+Orange Juice,Sunny D Tangy Original Orange Flavored Citrus Punch,0.03,0.03,oz,1 gal
+Orange Juice,Minute Maid 100% Orange Juice 6 pk Bottles,0.09,0.09,oz,10 oz
+Orange Juice,H-E-B 100% Orange Juice - Some Pulp,0.08,0.08,oz,89 oz
+Orange Juice,H-E-B Fresh Orange Juice,0.19,0.19,oz,52 fl oz
+Orange Juice,Minute Maid Pulp Free Orange Juice,0.08,0.08,oz,59 oz
+Orange Juice,H-E-B No Pulp Light Orange Juice,0.09,0.09,oz,52 oz
+Orange Juice,Tropicana No Pulp Pure Premium Orange 100% Juice,0.09,0.09,oz,46 oz
+Orange Juice,H-E-B Organics Fresh Orange Juice,0.19,0.19,oz,52 fl oz
+Orange Juice,Simply Orange Pulp Free Orange Juice with Calcium & Vitamin D,0.1,0.1,oz,46 oz
+Orange Juice,Minute Maid Original Low Pulp 100% Pure Squeezed Orange Juice,0.08,0.08,oz,59 oz
+Orange Juice,H-E-B 100% Orange Juice - Lots of Pulp,0.09,0.09,oz,52 oz
+Orange Juice,Florida's Natural No Pulp 100% Premium Florida Orange Juice,0.08,0.08,oz,52 oz
+Orange Juice,H-E-B Organics 100% Valencia Orange Juice - No Pulp,0.1,0.1,oz,52 oz
+Orange Juice,Tropicana Some Pulp Pure Premium 100% Orange Juice,0.09,0.09,oz,46 oz
+Orange Juice,Simply Orange Pulp Free Orange Juice with Calcium & Vitamin D,0.09,0.09,oz,76 oz
+Orange Juice,H-E-B 100% Orange Juice - No Pulp,0.15,0.15,oz,12 oz
+Orange Juice,Tropicana No Pulp Light Orange Juice,0.09,,,46 oz
+Orange Juice,H-E-B No Sugar Added 100% Orange Juice,0.09,0.09,oz,48 oz
+Orange Juice,Simply Orange Pulp Free Orange Juice,0.18,0.18,oz,11.5 oz
+Orange Juice,H-E-B No Sugar Added 100% Orange Juice,0.09,0.09,oz,64 oz
+Orange Juice,H-E-B Fresh Orange Juice,0.25,0.25,oz,16 fl oz
+Orange Juice,Simply Light Pulp Free Orange Juice,0.1,0.1,oz,46 oz
+Orange Juice,Minute Maid Low Pulp 100% Pure Squeezed Orange Juice - Calcium & Vitamin D,0.08,0.08,oz,59 oz
+Orange Juice,Dole 100% Pineapple Orange Juice,0.07,0.07,oz,52 oz
+Orange Juice,Hill Country Fare Orange Juice with Calcium,0.07,0.07,oz,1/2 gal
+Orange Juice,H-E-B Organics 100% Orange Juice,0.08,,,64 oz
+Orange Juice,H-E-B Organics 100% Apple Grape Orange Juice 4 pk Boxes,0.7,0.7,pack,6.75 oz
+Orange Juice,Hill Country Fare Orange Juice - Original,0.07,0.07,oz,1/2 gal
+Orange Juice,Florida's Natural No Pulp 100% Premium Florida Orange Juice with Calcium & Vitamin D,0.08,0.08,oz,52 oz
+Orange Juice,H-E-B Organics 100% Pasteurized Orange Juice 4 pk Juice Boxes,0.7,0.7,pack,6.75 oz
+Orange Juice,Hill Country Fare Orange Juice with Calcium,0.05,0.05,oz,1 gal
+Orange Juice,Florida's Natural Some Pulp 100% Premium Florida Orange Juice,0.08,0.08,oz,52 oz
+Orange Juice,Tropicana Pure Premium No Pulp Orange Juice Calcium & Vitamin D,0.09,0.09,oz,89 oz
+Orange Juice,Tropicana No Pulp Calcium & Vitamin D Light Orange Juice,0.09,0.09,oz,46 oz
+Orange Juice,H-E-B Some Pulp Light Orange Juice,0.09,0.09,oz,52 oz
+Orange Juice,Tropicana Lots of Pulp Pure Premium 100% Orange Juice,0.09,,,46 oz
+Orange Juice,Tropicana Pure Premium No Pulp 100% Orange Juice,0.2,0.2,oz,11 oz
+Orange Juice,Tropicana No Pulp Calcium & Vitamin D Pure Premium Orange Juice,0.09,0.09,oz,46 oz
+Orange Juice,V8 Energy Sparkling Orange Pineapple Juice Energy Drink 4 pk Cans,0.11,0.11,oz,11.5 oz
+Orange Juice,good2grow Bigger Orange Mango Juice,0.43,,,10 oz
+Orange Juice,Welch's Orange Pineapple Juice 6 pk Bottles,0.07,0.07,oz,10 oz
+Orange Juice,H-E-B Diet Pineapple Orange Guava Juice,0.05,0.05,oz,64 oz
+Orange Juice,Hawaiian Punch Orange Ocean Juice Drink,0.03,0.03,oz,32 oz
+Orange Juice,Dole 100% Pineapple Orange Banana Juice,0.07,0.07,oz,52 oz
+Orange Juice,H-E-B Organics Orange Peach Mango Juice,0.09,0.09,oz,59 oz
+Orange Juice,V8 Energy Orange Pineapple Juice Energy Drink 6 pk Cans,0.85,0.85,pack,8 oz
+Orange Juice,Dole 100% Orange Strawberry Banana Juice,0.07,0.07,oz,52 oz
+Orange Juice,Tropicana Pure Premium 100% Orange Juice,0.09,0.09,oz,89 oz
+Orange Juice,H-E-B Organics 100% Orange Strawberry Banana Juice,0.09,0.09,oz,59 oz
+Orange Juice,Hi-C Orange Lavaburst 8 pk Juice Boxes,0.05,0.05,oz,6 oz
+Orange Juice,Dole 100% Orange Peach Mango Juice,0.07,0.07,oz,52 oz
+Orange Juice,So Good So You Happy Blood Orange Guava Probiotic Juice Shot,1.93,1.93,oz,1.7 fl oz
+Orange Juice,Simply Orange Pulp Free Orange with Mango 100% Juice Blend,0.18,0.18,oz,11.5 oz
+Orange Juice,Just Made Passion Orange Guava Cold-Pressed Juice,0.28,0.28,oz,11.8 fl oz
+Orange Juice,So Good So You Detox Pineapple Orange Cold-Pressed Probiotic Juice Shot,1.93,1.93,oz,1.7 fl oz
+Orange Juice,Welch's 100% Orange Pineapple Apple Juice 6 pk Bottles,0.88,0.88,ct,10 oz
+Orange Juice,Suja Detox Blood Orange Organic Cold-Pressed Shot,1.24,1.24,oz,2 fl oz
+Orange Juice,Sunny D Smooth Orange Flavored Citrus Punch,0.03,0.03,oz,1 gal
+Orange Juice,Sunny D Tangy Original Orange Flavored Citrus Punch,0.5,,,6.75 oz
+Orange Juice,Kool-Aid Jammers Sharkleberry Fin Strawberry Orange Punch 10 pk Pouches,0.05,0.05,oz,6 oz
+Orange Juice,Sunny D Tangy Original Orange Flavored Citrus Punch,0.03,0.03,oz,64 oz
+Orange Juice,Plezi Juice Drink 8 pk Boxes - Orange Smash,0.07,0.07,oz,6.75 oz
+Orange Juice,Tropicana Essentials No Pulp Orange Mango Blend,0.08,0.08,oz,46 oz
+Orange Juice,Tropicana Essentials Orange Blend Some Pulp,0.08,0.08,oz,46 oz
+Orange Juice,Tropicana Essentials No Pulp Orange Blend,0.08,0.08,oz,46 oz
+Orange Juice,Just Made Lime Orange Agave Margarita Mix,0.21,0.21,oz,33.8 fl oz
+Orange Juice,Tum-E Yummies Edgy Orange Burst,0.1,0.1,oz,10.1 oz
+Orange Juice,Sunny D Orange Strawberry Flavored Citrus Punch,0.03,0.03,oz,1 gal
+Orange Juice,Bright & Early by Hi-C Orange Drink,0.03,0.03,oz,59 oz
+Orange Juice,Hawaiian Punch Orange Ocean Drink,0.02,0.02,oz,1 gal
+Orange Juice,H-E-B Fresh Tangerine Juice,0.19,0.19,oz,52 fl oz
+Orange Juice,Ruby Kist 100% Orange Juice,0.07,0.07,oz,64 oz
+Twix Candy Bar,Twix Snickerdoodle Chocolate Candy Bar,1.11,1.11,oz,1.41 oz
+Twix Candy Bar,Twix Caramel Cookie Snowmen Christmas Candy Bars - Share Size,1.2,1.2,oz,2.12 oz
+Twix Candy Bar,"Twix Caramel Cookie Snowmen Christmas Candy Bars, 6 pk",0.99,0.99,oz,6.36 oz
+Twix Candy Bar,Twix Caramel Milk Chocolate Minis Candy Bars - Treating Size,0.6,0.6,oz,5 oz
+Twix Candy Bar,Twix Minis Cookie Chocolate Caramel Candy Bars - Party Size,0.42,0.42,oz,35.6 oz
+Twix Candy Bar,"Twix Caramel Milk Chocolate Cookie Candy Bars, 6 pk",7.88,,,10.74 oz
+Twix Candy Bar,Twix Caramel Chocolate Cookie Candy Bar - Share Size,0.84,0.84,oz,3.02 oz
+Twix Candy Bar,Twix Caramel Cookie Snowmen Christmas Candy Bar,1.18,1.18,oz,1.06 oz
+Twix Candy Bar,Twix Caramel Chocolate Cookie Candy Bar,1.57,,,1.79 oz
+Twix Candy Bar,Twix Chocolate Caramel Fun Size Candy Bars,0.45,0.45,oz,5 pk
+Twix Candy Bar,"Snickers, Twix, Milky Way, & 3 Musketeers  Assorted Full Size Chocolate Candy Bars - Variety Pack",21.78,,,18 pk
+Twix Candy Bar,"Snickers, Twix, Milky Way, & 3 Musketeers Minis Milk Chocolate Candy Bars - Party Size",0.51,0.51,oz,19.49
+Twix Candy Bar,"Snickers, Twix, Milky Way & 3 Musketeers Assorted Minis Chocolate Bars - Family Size",0.58,0.58,oz,13.72 oz
+Twix Candy Bar,Twix Milk Chocolate Caramel Cookie Fun Size Candy Bars,0.45,0.45,oz,10.83 oz
+Twix Candy Bar,Twix Minis Chocolate Bars - Sharing Size,0.51,0.51,oz,9.7 oz
+Creamy Peanut Butter,H-E-B Made in Texas Creamy Peanut Butter,0.14,0.14,oz,28 oz
+Creamy Peanut Butter,H-E-B Made in Texas Creamy Peanut Butter,0.15,0.15,oz,18 oz
+Creamy Peanut Butter,Jif Creamy Peanut Butter,0.17,0.17,oz,40 oz
+Creamy Peanut Butter,Jif Creamy Peanut Butter,0.17,0.17,oz,16 oz
+Creamy Peanut Butter,Hill Country Fare Creamy Peanut Butter,0.11,0.11,oz,18 oz
+Creamy Peanut Butter,Peter Pan Creamy Peanut Butter,0.15,0.15,oz,16.3 oz
+Creamy Peanut Butter,Peter Pan Creamy Peanut Butter,0.14,0.14,oz,40 oz
+Creamy Peanut Butter,H-E-B Organics 7g Protein Creamy Peanut Butter Spread,0.25,0.25,oz,18 oz
+Creamy Peanut Butter,Hill Country Fare Creamy Peanut Butter,0.1,0.1,oz,40 oz
+Creamy Peanut Butter,Central Market All-Natural Smooth Peanut Butter - Unsalted,0.2,0.2,oz,18 oz
+Creamy Peanut Butter,H-E-B Made in Texas Creamy Peanut Butter – Texas-Size Pack Twin Pack,0.12,0.12,oz,40 oz each
+Creamy Peanut Butter,Hill Country Fare Creamy Peanut Butter - Texas-Size Pack,0.1,0.1,oz,4 lbs
+Creamy Peanut Butter,Laura Scudder's Old Fashioned All Natural Smooth Peanut Butter,0.3,0.3,oz,16 oz
+Creamy Peanut Butter,H-E-B Natural 7g Protein Creamy Peanut Butter,0.12,0.12,oz,16 oz
+Creamy Peanut Butter,Reese's Creamy Peanut Butter,0.2,0.2,oz,18 oz
+Creamy Peanut Butter,H-E-B Made in Texas Creamy Peanut Butter - Texas Wildflower Honey,0.15,0.15,oz,18 oz
+Creamy Peanut Butter,Skippy No Sugar Added Creamy Peanut Butter,0.19,0.19,oz,16 oz
+Creamy Peanut Butter,Jif To Go Creamy Peanut Butter Cups,0.36,0.36,oz,8 ct
+Creamy Peanut Butter,Skippy Natural Creamy Peanut Butter,0.18,0.18,oz,26.5 oz
+Creamy Peanut Butter,Jif Creamy Peanut Butter,0.16,0.16,oz,4 lbs
+Creamy Peanut Butter,think! 20g Protein Bars - Creamy Peanut Butter,1.71,1.71,ct,5 ct
+Creamy Peanut Butter,Skippy Creamy Peanut Butter,0.16,0.16,oz,40 oz
+Creamy Peanut Butter,Jif Natural Creamy Peanut Butter Spread,0.2,0.2,oz,28 oz
+Creamy Peanut Butter,Homeplate Creamy Peanut Butter Spread,0.39,0.39,oz,16 oz
+Creamy Peanut Butter,Skippy Squeeze Creamy Peanut Butter,0.41,0.41,oz,6 oz
+Creamy Peanut Butter,Skippy Squeeze Natural Creamy Peanut Butter,0.41,0.41,oz,6 oz
+Creamy Peanut Butter,Peter Pan Natural Creamy Peanut Butter Spread,0.15,0.15,oz,16.3 oz
+Creamy Peanut Butter,Nut' N Better Organic Creamy Peanut Butter,0.29,0.29,oz,18 oz
+Creamy Peanut Butter,Quinn Creamy Peanut Butter Filled Pretzel Nuggets,0.64,0.64,oz,7 oz
+Creamy Peanut Butter,Genius Gourmet 10g Protein Bars - Creamy Peanut Butter Chocolate,1.74,1.74,pack,4 ct
+Creamy Peanut Butter,Peter Pan Creamy Peanut Butter,0.14,0.14,oz,28 oz
+Creamy Peanut Butter,Raw Rev Plant-Based 12g Protein Bar - Creamy Peanut Butter & Sea Salt,2.5,,,1.6 oz
+Creamy Peanut Butter,Jif To Go Natural Creamy Peanut Butter Cups,0.36,0.36,oz,8 ct
+Creamy Peanut Butter,Skippy Natural Creamy Peanut Butter Spread,0.2,0.2,oz,15 oz
+Creamy Peanut Butter,Skippy Creamy Peanut Butter Individual Squeeze Pouches,0.32,0.32,oz,8 ct
+Creamy Peanut Butter,Peter Pan Honey Roast Creamy Peanut Butter Spread,0.14,0.14,oz,28 oz
+Creamy Peanut Butter,H-E-B Creamy Creations Peanut Butter Cup Ice Cream,0.11,,,1/2 gal
+Creamy Peanut Butter,Skippy Creamy Peanut Butter,0.18,0.18,oz,16.3 oz
+Creamy Peanut Butter,H-E-B Creamy Creations Peanut Butter Cup Ice Cream,0.16,,,1 pt
+Creamy Peanut Butter,Jif Squeezable Creamy Peanut Butter Pouch,0.27,0.27,oz,13 oz
+Creamy Peanut Butter,Skippy Natural Creamy Peanut Butter Individual Pouches,0.32,0.32,oz,8 ct
+Creamy Peanut Butter,Peter Pan Creamy Honey Peanut Butter Spread,0.15,0.15,oz,16.3 oz
+Creamy Peanut Butter,Jif Reduced Fat Creamy Peanut Butter Spread,0.17,0.17,oz,16 oz
+Creamy Peanut Butter,Good Good No Added Sugar Creamy Peanut Butter,0.43,0.43,oz,16 oz
+Creamy Peanut Butter,H-E-B Organics 7g Protein Creamy Peanut Butter Spread - Texas-Size Pack,0.25,0.25,oz,37 oz
+Creamy Peanut Butter,Hill Country Fare PB&J Stripes - Creamy Peanut Butter & Grape Jelly,0.14,0.14,oz,18 oz
+Creamy Peanut Butter,Nature Valley 10g Protein Creamy Crisp Bars - Peanut Butter Chocolate,0.79,0.79,ct,5 ct
+Creamy Peanut Butter,Jif Creamy Peanut Butter Pack & Snack Pouches,0.34,0.34,oz,4 ct
+Creamy Peanut Butter,Peter Pan Natural Creamy Peanut Butter,0.14,0.14,oz,40 oz
+Creamy Peanut Butter,Nature Valley Peanut Butter Chocolate Crispy Creamy Wafer Bars,0.79,0.79,ct,5 ct
+Creamy Peanut Butter,Nut' N Better Organic Creamy Peanut Butter - No Stir,0.29,0.29,oz,18 oz
+Creamy Peanut Butter,MaraNatha Organic No Sugar Added Creamy Peanut Butter,0.34,0.34,oz,16 oz
+Creamy Peanut Butter,Nature Valley Peanut Butter Crispy Creamy Wafer Bars,0.79,0.79,ct,5 ct
+Creamy Peanut Butter,Skippy Natural Creamy Peanut Butter Spread with Honey,0.2,0.2,oz,15 oz
+Creamy Peanut Butter,Jif Natural Simply Squeeze Creamy Peanut Butter Spread,0.27,0.27,oz,13 oz
+Creamy Peanut Butter,H-E-B Natural 6g Protein Creamy Peanut Butter - Honey,0.12,0.12,oz,16 oz
+Creamy Peanut Butter,Hill Country Fare PB&J Stripes - Creamy Peanut Butter & Strawberry Jelly,0.14,0.14,oz,18 oz
+Creamy Peanut Butter,Lotus Biscoff Creamy Cookie Butter,0.39,0.39,oz,14.1 oz
+Creamy Peanut Butter,Nutella Hazelnut Spread with Cocoa,0.38,0.38,oz,13 oz
+Creamy Peanut Butter,Peter Pan Honey Roasted Creamy Peanut & Honey Spread,0.14,0.14,oz,40 oz
+Creamy Peanut Butter,H-E-B Made in Texas Crunchy Peanut Butter,0.14,0.14,oz,28 oz
+Creamy Peanut Butter,H-E-B Bulk Freshly Ground Peanut Butter,0.15,0.15,oz,lb
+Creamy Peanut Butter,Justin's Classic Peanut Butter Spread,1.09,1.09,oz,1.15 oz
+Creamy Peanut Butter,Justin's Honey Peanut Butter Spread,1.09,1.09,oz,1.15 oz
+Creamy Peanut Butter,Peanut Butter & Co. Peanut Butter - White Chocolate Wonderful,0.3,0.3,oz,16 oz
+Creamy Peanut Butter,H-E-B Almond Butter Stock,0.22,0.22,oz,lb
+Creamy Peanut Butter,H-E-B Creamy Almond Butter - Cinnamon,0.44,0.44,oz,16 oz
+Creamy Peanut Butter,Nutella & Go! Hazelnut Spread + Breadsticks,1.38,1.38,oz,1.8 oz
+Creamy Peanut Butter,Central Market Smooth Peanut Butter with Honey - Salted,0.2,0.2,oz,18 oz
+Creamy Peanut Butter,H-E-B Organics 7g Protein Crunchy Peanut Butter,0.25,0.25,oz,18 oz
+Creamy Peanut Butter,MaraNatha All Natural No Stir Creamy Almond Butter,0.7,0.7,oz,12 oz
+Creamy Peanut Butter,Barney Butter Smooth Almond Butter,1.3,1.3,oz,0.6 oz
+Creamy Peanut Butter,SunButter Creamy Sunflower Butter On the Go Cups,0.72,0.72,oz,6 ct
+Creamy Peanut Butter,MaraNatha No Salt No Sugar Creamy Almond Butter,0.7,0.7,oz,12 oz
+Creamy Peanut Butter,Justin's Classic Almond Butter,0.86,0.86,oz,16 oz
+Creamy Peanut Butter,Justin's Honey Almond Butter,0.86,0.86,oz,16 oz
+Creamy Peanut Butter,Justin's Honey Almond Butter,1.29,1.29,oz,1.15 oz
+Creamy Peanut Butter,MaraNatha All Natural Raw Creamy Almond Butter,0.73,0.73,oz,16 oz
+Creamy Peanut Butter,Nutella Hazelnut Spread with Cocoa,0.36,0.36,oz,26.5 oz
+Creamy Peanut Butter,Justin's Vanilla Almond Butter,1.29,1.29,oz,1.15 oz
+Creamy Peanut Butter,Artisana Organics Raw Coconut Butter,0.85,0.85,oz,14 oz
+Creamy Peanut Butter,Justin's Maple Almond Butter,0.86,0.86,oz,16 oz
+Creamy Peanut Butter,Justin's Maple Almond Butter,1.29,1.29,oz,1.15 oz
+Creamy Peanut Butter,H-E-B Creamy Almond Butter – Dark Chocolate,0.44,0.44,oz,16 oz
+Creamy Peanut Butter,Justin's Chocolate Hazelnut Butter Blend,0.86,0.86,oz,16 oz
+Creamy Peanut Butter,Smucker's Goober Peanut Butter & Strawberry Jelly Stripes,0.22,0.22,oz,18 oz
+Creamy Peanut Butter,Barney Butter Bare Smooth Almond Butter,1.3,1.3,oz,0.6 oz
+Creamy Peanut Butter,Barney Butter Bare Smooth Almond Butter,0.7,0.7,oz,10 oz
+Creamy Peanut Butter,Barney Butter Almond Butter - Cocoa + Coconut,0.7,0.7,oz,10 oz
+Creamy Peanut Butter,Nutella & Go! Hazelnut Spread + Pretzel Sticks,1.31,1.31,oz,1.9 oz
+Creamy Peanut Butter,H-E-B No Sugar Added Creamy Almond Butter – Texas Size Pack,0.41,0.41,oz,32 oz
+Creamy Peanut Butter,Nutella Hazelnut Spread with Cocoa,0.39,0.39,oz,7.7 oz
+Creamy Peanut Butter,PBfit Classic Roasted Peanut Butter Powder,0.52,0.52,oz,24 oz
+Creamy Peanut Butter,H-E-B Creamy Creations No Sugar Added Light Ice Cream - Peanut Butter Cup,0.11,,,1/2 gal
+Creamy Peanut Butter,H-E-B Creamy Almond Butter - Honey,0.44,0.44,oz,16 oz
+Creamy Peanut Butter,SunButter Original Sunflower Seed Butter,0.44,0.44,oz,16 oz
+Creamy Peanut Butter,Once Again Unsweetened Creamy Cashew Butter,0.73,0.73,oz,16 oz
+Creamy Peanut Butter,PBfit Cocoa Roasted Peanut Butter Powder,0.5,0.5,oz,24 oz
+Creamy Peanut Butter,Justin's Chocolate Hazelnut & Almond Butter,1.29,1.29,oz,1.15 oz
+Creamy Peanut Butter,Justin's Vanilla Almond Butter,0.86,0.86,oz,16 oz
+Creamy Peanut Butter,Justin's Classic Almond Butter,1.29,1.29,oz,1.15 oz
+Creamy Peanut Butter,Justin's Classic Peanut Butter,0.37,0.37,oz,16 oz
+Creamy Peanut Butter,Justin's Honey Peanut Butter Blend,0.37,0.37,oz,16 oz
+Creamy Peanut Butter,H-E-B No Sugar Added Creamy Almond Butter,0.27,0.27,oz,16 oz
+Creamy Peanut Butter,Peanut Butter & Co. Peanut Butter - Dark Chocolatey Dreams,0.3,0.3,oz,16 oz
+Creamy Peanut Butter,Barney Butter Smooth Almond Butter,0.7,0.7,oz,10 oz
+Creamy Peanut Butter,H-E-B Creamy Almond Butter – Vanilla,0.44,0.44,oz,16 oz
+Tampons,"Playtex Sport Tampons Multipack - Regular & Super, Unscented",0.21,0.21,ct,48 ct
+Tampons,Tampax Pearl Tampons - Regular Super & Super Plus,0.24,0.24,ct,47 ct
+Tampons,H-E-B Plastic Applicator Unscented Tampons – Absorbency Multipack,0.17,0.17,ct,36 ct
+Tampons,"Tampax Pearl Tampons Trio Pack, Super/Super Plus/Ultra Unscented",0.26,0.26,ct,34 ct
+Tampons,Tampax Pearl Tampons Regular Unscented,0.25,0.25,ct,36 ct
+Tampons,"Tampax Pearl Tampons Super Absorbency, Unscented",0.25,0.25,ct,36 ct
+Tampons,"Playtex Sport Tampons - Super, Unscented",0.22,0.22,ct,36 ct
+Tampons,"Tampax Pearl Tampons Trio Pack, Light/Regular/Super Absorbency, Unscented",0.26,0.26,ct,34 ct
+Tampons,L. Cotton Tampons Regular/Super Absorbency Multipack,0.36,0.36,ct,30 ct
+Tampons,"Playtex Sport Tampons Multipack - Regular & Super, Unscented",0.25,0.25,ct,32 ct
+Tampons,H-E-B Plastic Applicator Unscented Tampons – Regular Absorbency,0.18,0.18,ct,20 ct
+Tampons,"Tampax Pearl Tampons Duo Pack, Regular/Super Absorbency, Unscented",0.26,0.26,ct,34 ct
+Tampons,"Tampax Radiant Tampons Regular Absorbency, Unscented",0.41,0.41,ct,14 ct
+Tampons,L. Organic Cotton Tampons Super Absorbency,0.36,0.36,ct,30 ct
+Tampons,U By Kotex Click Multipack Compact Tampons,0.22,0.22,ct,45 ct
+Tampons,"Playtex Sport Tampons - Ultra, Unscented",0.22,0.22,ct,36 ct
+Tampons,"Tampax Radiant Tampons Super Absorbency, Unscented",0.41,0.41,ct,14 ct
+Tampons,H-E-B Plastic Applicator Unscented Tampons – Super Absorbency,0.2,0.2,ct,18 ct
+Tampons,"Playtex Sport Tampons - Super Plus, Unscented",0.22,0.22,ct,36 ct
+Tampons,L. Cotton Tampons Light/Regular Absorbency Multipack,0.36,0.36,ct,30 ct
+Tampons,"Playtex Sport Tampons - Regular, Unscented",0.22,0.22,ct,36 ct
+Tampons,"Tampax Radiant Tampons Trio Pack, Regular/Super/Super Plus Unscented",0.32,0.32,ct,28 ct
+Tampons,H-E-B Plastic Applicator Unscented Tampons – Super Plus Absorbency,0.17,0.17,ct,36 ct
+Tampons,"Tampax Pearl Tampons Ultra Absorbency, Unscented",0.28,0.28,ct,18 ct
+Tampons,H-E-B Plastic Applicator Unscented Tampons – Regular Absorbency,0.17,0.17,ct,36 ct
+Tampons,L. Cotton Tampons - Regular Absorbency,0.36,0.36,ct,30 ct
+Tampons,"Tampax Pearl Tampons Super Plus Absorbency, Unscented",0.25,0.25,ct,36 ct
+Tampons,"Tampax Pearl Tampons, Regular Absorbency, Unscented",0.28,0.28,ct,18 ct
+Tampons,U By Kotex Click Compact Regular Tampons,0.24,0.24,ct,32 ct
+Tampons,U By Kotex Click Multipack Compact Tampons,0.26,0.26,ct,30 ct
+Tampons,U By Kotex Click Compact Super Tampons,0.28,0.28,ct,16 ct
+Tampons,U By Kotex Click Multipack Compact Tampons,0.26,0.26,ct,30 ct
+Tampons,Tampax Pearl Pocket Tampons Super,0.31,0.31,ct,16 ct
+Tampons,U By Kotex Click Compact Super Plus Tampons,0.28,0.28,ct,16 ct
+Tampons,Tampax Pearl Leakguard Protection Tampons - Ultra,0.28,0.28,ct,32 ct
+Tampons,"Tampax Pearl Tampons Multipack, with LeakGuard Braid, Regular/Super/Super Plus Absorbency, Unscented, 34 Count",0.25,0.25,ct,34 ct
+Tampons,Tampax Pearl Leakguard Protection Tampons Unscented - Super,0.28,0.28,ct,18 ct
+Tampons,"Tampax Pearl Tampons, Super Plus Absorbency, Unscented",0.28,0.28,ct,18 ct
+Tampons,U By Kotex Click Compact Super Tampons,0.24,0.24,ct,32 ct
+Tampons,Tampax Pocket Radiant Compact Tampons - Regular,0.36,0.36,ct,14 ct
+Tampons,Tampax Radiant Pocket Tampons - Regular/Super,0.32,0.32,ct,28 ct
+Tampons,"Tampax Radiant Tampons Super Plus Absorbency, Unscented",0.41,0.41,ct,14 ct
+Tampons,U by Kotex Click Compact Tampons - Regular/Super,0.38,0.38,ct,15 ct
+Tampons,H-E-B Plastic Applicator Unscented Tampons – Super Absorbency,0.17,0.17,ct,36 ct
+Tampons,Tampax Pearl Leakguard Protection Tampons - Super & Ultra,0.26,0.26,ct,56 ct
+Tampons,H-E-B Plastic Applicator Unscented Tampons – Super Plus Absorbency,0.2,0.2,ct,18 ct
+Tampons,"Tampax Radiant Tampons Pack - Regular, Super & Super Plus",0.28,0.28,ct,52 ct
+Tampons,"Playtex Sport Tampons MultiPack - Regular, Super & Super Plus,Unscented",0.25,0.25,ct,32 ct
+Tampons,Lola Organic Cotton Tampons - Regular & Super,0.49,0.49,ct,20 ct
+Tampons,Cora The Comfort Fit Organic Cotton Tampons - Regular & Super Multipack,0.34,0.34,ct,32 ct
+Tampons,August Organic Cotton Tampons Regular,0.5,0.5,ct,16 ct
+Tampons,"Tampax Radiant Tampons Duo Pack, Regular/Super Absorbency, Unscented",0.32,0.32,ct,28 ct
+Tampons,H-E-B Plastic Applicator Unscented Tampons – Light Absorbency,0.17,0.17,ct,36 ct
+Tampons,Tampax Radiant Pocket Compact Tampons - Super,0.36,0.36,ct,14 ct
+Tampons,U By Kotex Click Compact Super Plus Tampons,0.24,0.24,ct,32 ct
+Headphones,Biconic Superior Stereo Headphones - Red & Black,9.98,,,
+Headphones,Bionic Wired Headphones,9.98,,,
+Headphones,Bytech Wireless Headphones - Black,14.98,,,
+Headphones,Bytech Stereo Earbuds - Rose Gold,4.98,,,
+Headphones,Bytech Universal Wireless Earbuds with Mic - Black,9.98,,,
+Headphones,Bytech Wireless Sport Earbuds - Red & Black,9.98,,,
+Headphones,Bytech Wireless Sport Earbuds - Black,9.98,,,each
+Headphones,Helix Lil' Jams Kids Headphones - Blue,19.98,,,
+Headphones,Helix Lil' Jams Kids Headphones - White,19.98,,,
+Headphones,Helix ProJammers Kids Headphones - Gray & Teal,19.98,,,
+Headphones,Helix JamWireless Kids Bluetooth Headphones - Blue,19.98,,,
+Headphones,Helix Lil' Jams Kids Headphones - Pink,19.98,,,
+Headphones,Helix ProJammers Kids Headphones - White & Gray,19.98,,,
+Headphones,Helix JamWireless Kids Bluetooth Headphones - Purple,19.98,,,
+Headphones,Helix JamWireless Kids Bluetooth Headphones - White,19.98,,,
+Headphones,Helix Pro Wireless Foldable Bluetooth Headphones - Green,19.98,,,
+Headphones,Helix Pro Wireless Foldable Bluetooth Headphones - Gray,19.98,,,
+Headphones,Helix Pro Wireless Foldable Bluetooth Headphones - Black,19.98,,,
+Headphones,Biconic Lightning Stereo Earbuds - White,29.98,,,
+Headphones,Helix Ultra Lightning Earbuds - Black,29.98,,,
+Headphones,Helix JamWireless Kids Earbuds - Purple,24.98,,,
+Headphones,Helix JamWireless Kids Earbuds - White,24.98,,,
+Headphones,Helix JamWireless Kids Earbuds - Blue,24.98,,,
+Headphones,Helix Ultra Lightning Earbuds - White,29.98,,,
+Headphones,Helix Ultra 3.5mm Aux Earbuds,9.98,,,
+Headphones,Helix Audioflex Sweatsound Bluetooth Earbuds - Black,19.98,,,
+Headphones,Helix Ultra USB-C Earbuds - Black,24.98,,,
+Headphones,Helix Ultra USB-C Earbuds - White,24.98,,,
+Headphones,Biconic Orbit True Wireless Earbuds - Purple,14.98,,,
+Headphones,Helix Ultra 3.5mm Aux Earbuds - Black,9.98,,,
+Headphones,iHome XT-12 True Wireless Earbuds - Red,19.98,,,
+Headphones,Helix True Wireless High Fidelity Earbuds - Black,19.98,,,
+Headphones,Helix True Wireless High Fidelity Earbuds - White,19.98,,,
+Headphones,Helix True Wireless High Fidelity Earbuds - Black,19.98,,,
+Headphones,Helix True Wireless High Fidelity Earbuds - White,19.98,,,
+Headphones,Helix True Wireless High Fidelity Earbuds - Black,14.98,,,
+Headphones,Hot Focus Vibe Buds Wireless Earbuds Kit,15.97,,,
+Headphones,Biconic Orbit True Wireless Earbuds - Iridescent White,14.98,,,
+Headphones,Helix Share Audio 5-Port Headphone Splitter - White,14.98,,,
+Colgate Toothpaste,"Colgate Total Toothpaste - Whitening, 2pk",0.78,0.78,oz,5.1 oz
+Colgate Toothpaste,"Colgate Optic White Advanced Toothpaste - Sparkling White, 2 Pk",1.56,1.56,oz,6.4 oz
+Colgate Toothpaste,Colgate Optic White Advanced Anticavity Toothpaste - Sparkling White,1.86,1.86,oz,3.2 oz
+Colgate Toothpaste,Colgate Max Fresh Anticavity Toothpaste - Cool Mint,0.63,0.63,oz,6.3 oz
+Colgate Toothpaste,"Colgate Cavity Protection Anticavity Toothpaste, 2 Pk",0.37,0.37,oz,12 oz
+Colgate Toothpaste,Colgate Max Fresh Anticavity Toothpaste - Mint Fusion,0.63,0.63,oz,6.3 oz
+Colgate Toothpaste,"Colgate Max Fresh Anticavity Toothpaste - Clean Mint, 3 Pk",0.42,0.42,oz,18.9 oz
+Colgate Toothpaste,Colgate Baking Soda & Peroxide Whitening Brisk Mint,0.36,0.36,oz,8 oz
+Colgate Toothpaste,Colgate Max Fresh Anticavity Toothpaste - Clean Mint,0.63,0.63,oz,6.3 oz
+Colgate Toothpaste,Colgate Total Toothpaste - Whitening,0.97,0.97,oz,5.1 oz
+Colgate Toothpaste,Colgate Max Fresh Whitening Anticavity Toothpaste - Cool Mint,0.42,0.42,oz,3 pk
+Colgate Toothpaste,Colgate Cavity Protection Toothpaste,0.37,0.37,oz,8 oz
+Colgate Toothpaste,Colgate Cavity Protection Anticavity Toothpaste,0.49,0.49,oz,4 oz
+Colgate Toothpaste,Colgate Sensitive Complete Protection Anticavity Toothpaste - Mint Clean,0.83,0.83,oz,6 oz
+Colgate Toothpaste,Colgate Baking Soda & Peroxide Whitening Anticavity Toothpaste - Brisk Mint,0.49,0.49,oz,4 oz
+Colgate Toothpaste,Colgate Total Toothpaste - Deep Clean,0.97,0.97,oz,5.1 oz
+Colgate Toothpaste,Colgate Total Gel Toothpaste - Fresh Mint,0.97,0.97,oz,5.1 oz
+Colgate Toothpaste,"Colgate Total Gel Toothpaste - Fresh Mint Stripe, 2 Pk",0.78,0.78,oz,10.2 oz
+Colgate Toothpaste,Colgate Optic White Anticavity Toothpaste - Fresh Mint Gel,0.95,0.95,oz,4.2 oz
+Colgate Toothpaste,Colgate Cavity Protection Anticavity Toothpaste 3 pk,0.28,0.28,oz,18 oz
+Colgate Toothpaste,Colgate Max Fresh + Charcoal Anticavity Toothpaste - Charcoal Mint,0.63,0.63,oz,6.3 oz
+Colgate Toothpaste,Colgate Total Toothpaste - Clean Mint,0.97,0.97,oz,5.1 oz
+Colgate Toothpaste,Colgate Max Fresh Anticavity Toothpaste - Cool Mint,0.86,,,4.6 oz
+Colgate Toothpaste,Colgate Optic White Anticavity Toothpaste - Clean Mint,0.83,0.83,oz,6 oz
+Colgate Toothpaste,Hill Country Essentials Travel Size Toothbrush With Colgate Toothpaste - Assorted,0.69,0.69,ct,
+Colgate Toothpaste,"Colgate Total Toothpaste - Whitening, 3pk",3.43,3.43,ct,5.1 oz
+Colgate Toothpaste,Colgate Optic White Anticavity Toothpaste - Clean Mint,0.95,0.95,oz,4.2 oz
+Colgate Toothpaste,Colgate Total Gel Toothpaste - Whitening,0.97,0.97,oz,5.1 oz
+Colgate Toothpaste,"Colgate Total Gel Toothpaste - Whitening, 3pk",3.43,3.43,ct,5.1 oz
+Colgate Toothpaste,Colgate Triple Action Toothpaste - Original Mint,0.49,0.49,oz,4 oz
+Colgate Toothpaste,Colgate Sensitive Anticavity Toothpaste 2 pk - Fresh Mint,0.75,0.75,oz,12 oz
+Colgate Toothpaste,Colgate Sensitive Whitening Anticavity Toothpaste - Mint,0.83,0.83,oz,6 oz
+Colgate Toothpaste,Colgate Bluey Cavity Protection Toothpaste - Bubble Fruit,0.75,0.75,oz,4.6 oz
+Colgate Toothpaste,Colgate Revitalizing White Anticavity Toothpaste - Fresh Mint,1.19,1.19,oz,4.6 oz
+Colgate Toothpaste,Colgate Kids Cavity Protection Toothpaste -  Mild Bubble Fruit,0.9,0.9,oz,4.4 oz
+Colgate Toothpaste,Colgate Kids Cavity Protection Toothpaste - Bubble Fruit,0.54,0.54,oz,4.6 oz
+Colgate Toothpaste,Colgate Total Plaque Pro Release Toothpaste,1.79,1.79,oz,3 oz
+Colgate Toothpaste,Colgate Total Whitening + Charcoal Toothpaste,0.97,0.97,oz,5.1 oz
+Colgate Toothpaste,"Colgate Optic White Advanced Toothpaste - Sparkling White, 2 Pk",1.55,1.55,oz,9 oz
+Colgate Toothpaste,Colgate Max Fresh Anticavity Toothpaste 2 pk - Clean Mint,0.55,0.55,oz,12.6 oz
+Colgate Toothpaste,Colgate Max Fresh Anticavity Toothpaste 2 pk - Cool Mint,0.55,0.55,oz,12 oz
+Colgate Toothpaste,Colgate Optic White Renewal Anticavity Toothpaste - High Impact White,2.65,2.65,oz,3 oz
+Colgate Toothpaste,Colgate Optic White Renewal Anticavity Toothpaste - Brilliant Shine,2.65,2.65,oz,3 oz
+Colgate Toothpaste,Colgate Optic White Pro Series Toothpaste - Stain Prevention,2.16,2.16,oz,2 pk
+Colgate Toothpaste,Colgate Optic White Advanced Anticavity Toothpaste - Icy Fresh,1.86,1.86,oz,4.5 oz
+Colgate Toothpaste,Colgate Optic White Advanced Anticavity Toothpaste - Icy Fresh,1.86,1.86,oz,3.2 oz
+Colgate Toothpaste,Colgate Optic White Advanced Anticavity Toothpaste - Sparkling White,1.86,1.86,oz,4.5 oz
+Colgate Toothpaste,Colgate Max Fresh Anticavity Toothpaste - Clean Mint,0.63,0.63,oz,6.3 oz
+Colgate Toothpaste,Colgate Optic White Purple Anticavity Toothpaste - Fresh Mint,1.42,1.42,oz,4.2 oz
+Colgate Toothpaste,"Colgate Total Toothpaste - Clean Mint, 2pk",0.78,0.78,oz,5.1 oz
+Colgate Toothpaste,Colgate Travel Size Optic White Advanced Toothpaste,1.7,1.7,oz,1.45 oz
+Colgate Toothpaste,"Colgate Optic White Advanced Anticavity Toothpaste - Icy Fresh, 2 Pk",1.56,1.56,oz,6.4 oz
+Colgate Toothpaste,"Colgate Optic White Advanced Anticavity Toothpaste - Icy Fresh, 2 Pk",1.55,1.55,oz,9 oz
+Colgate Toothpaste,"Colgate Optic White Advanced Anticavity Toothpaste - Sparkling White, 3 Pk",1.35,1.35,oz,9.6 oz
+Colgate Toothpaste,"Colgate Optic White Renewal Anticavity Toothpaste - High Impact White, 2 Pk",2.16,2.16,oz,6 oz
+Colgate Toothpaste,Colgate Kids Maximum Cavity Protection Toothpaste - Bubble Fruit,0.9,0.9,oz,4.4 oz
+Colgate Toothpaste,Colgate Optic White Sensitivity Relief Anticavity Toothpaste - Clean Mint,0.95,0.95,oz,4.2 oz
+Colgate Toothpaste,Colgate Optic White Stain Fighter Whitening Toothpaste - Clean Mint,0.7,0.7,oz,2 pk
+Colgate Toothpaste,"Colgate Cavity Protection Triple Action Mint Toothpaste, 6 oz",0.5,0.5,oz,3 pk
+Colgate Toothpaste,"Colgate Total Whitening + Charcoal Toothpaste, 2 Pk",0.78,0.78,oz,10.2 oz
+Colgate Toothpaste,"Colgate Total Gel Toothpaste - Whitening, 2pk",0.78,0.78,oz,5.1 oz
+Colgate Toothpaste,Colgate Optic White Renewal Toothpaste - Brilliant Shine,2.16,2.16,oz,2 pk
+Colgate Toothpaste,Colgate Total Gum Protect Whitening Toothpaste,1.79,1.79,oz,3 oz
+Colgate Toothpaste,Colgate Sensitive Prevent & Repair Anticavity Toothpaste - Gentle Mint,0.83,0.83,oz,6 oz
+Colgate Toothpaste,"Colgate Total Deep Clean Toothpaste, 2 Pk",0.78,0.78,oz,10.2 oz
+Colgate Toothpaste,"Colgate Optic White Anticavity Toothpaste - Clean Mint, 2 Pk",0.83,0.83,oz,8.4 oz
+Colgate Toothpaste,Colgate Kids Cavity Protection Toothpaste - Bubble Fruit,0.75,0.75,oz,4.6 oz
+Colgate Toothpaste,Colgate Optic White Advanced Anticavity Toothpaste - Oxygenating White,1.86,1.86,oz,3.2 oz
+Colgate Toothpaste,Colgate Travel Size Max Fresh Anticavity Toothpaste - Cool Mint,0.97,0.97,oz,1 oz
+Colgate Toothpaste,Colgate Optic White Pro Series Anticavity Toothpaste - Vividly Fresh,2.65,2.65,oz,3 oz
+Colgate Toothpaste,Colgate Optic White Pro Series Anticavity Toothpaste - Stain Prevention,2.65,2.65,oz,3 oz
+Colgate Toothpaste,Colgate Optic White with Charcoal Anticavity Toothpaste - Cool Mint,1.42,1.42,oz,4.2 oz
+Colgate Toothpaste,Colgate Total Plaque Pro Release Toothpaste - Fresh Mint,1.79,1.79,oz,3 oz
+Colgate Toothpaste,Colgate Total Gum Protect Fresh Mint Toothpaste,1.79,1.79,oz,3 oz
+Colgate Toothpaste,"Colgate Kids Cavity Protection Toothpaste - Bubble Fruit, 2 Pk",0.31,0.31,oz,9.2 oz
+Colgate Toothpaste,Colgate Optic White Stain Fighter Clean Mint Toothpaste,0.95,0.95,oz,4.2 oz
+Colgate Toothpaste,Colgate Optic White Advanced Stain Prevention,1.86,1.86,oz,3.2 oz
+Colgate Toothpaste,Colgate Minecraft Cavity Protection Bubble Fruit,0.75,0.75,oz,4.6 oz
+Colgate Toothpaste,"H-E-B Sensitive Fluoride Toothpaste - Fresh Mint, 2 Pk",0.98,0.98,oz,6.8 oz
 Shampoo,L'Oréal Paris Elvive  Total Repair 5 Repairing Shampoo and Conditioner Set,9.48,,,
-Shampoo,L'Oréal Paris Elvive Hyaluron + Plump Shampoo & Conditioner,9.97,0.4,oz,25.2 oz
-Shampoo,Alberto VO5 Moisturizing Shampoo - Pomegranate Bliss,1.14,,,15 oz
-Shampoo,Garnier Whole Blends Honey Treasures Repairing Shampoo & Conditioner,9.47,0.38,oz,25 oz
-Shampoo,Suave Damage Repair Coconut Oil Infusion Shampoo & Conditioner 2 pk,5.84,,,18 oz
-Shampoo,Suave Professionals Keratin Infusion Smoothing Shampoo & Conditioner 2 pk,5.84,,,18 oz
-Shampoo,Garnier Fructis Pure Clean Purifying Shampoo,4.47,,,12.5 oz
-Shampoo,Not Your Mother's Tahitian Gardenia Flower & Mango Butter Shampoo,7.64,,,15.2 oz
-Shampoo,Garnier Fructis Sleek & Shine Smoothing Shampoo,4.47,0.36,oz,12.5 oz
-Shampoo,Suave Essentials Cleansing Shampoo - Daily Clarifying,1.94,0.09,oz,22.5 oz
-Shampoo,Mane 'n Tail The Original Shampoo,7.94,0.25,oz,32 oz
-Shampoo,Mane 'n Tail Repair 'n Strengthen Shampoo - Cucumber Aloe,8.97,,,20 oz
-Shampoo,Paul Mitchell Tea Tree Special Shampoo,16.95,1.67,oz,10.14 oz
-Shampoo,Suave Essentials Refreshing Shampoo - Ocean Breeze,1.94,,,22.5 oz
-Shampoo,It's a 10 Miracle Shampoo Plus Keratin,22.95,2.3,oz,10 oz
-Shampoo,Garnier Fructis Sleek & Shine Smoothing Shampoo,9.47,0.28,oz,33.8 oz
-Shampoo,Head & Shoulders Dandruff Shampoo - Smooth & Silky,6.97,0.56,oz,12.5 oz
-Shampoo,Matrix Biolage Hydrasource Shampoo,22.95,,,13.5 oz
-Shampoo,TRESemm√© Silky & Smooth Shampoo,7.97,,,39 oz
-Shampoo,TRESemm√© Rich Moisture Shampoo with Pump,7.97,,,39 oz
-Shampoo,Native Volumizing Shampoo - Cucumber & Mint,10.97,0.66,oz,16.5 oz
-Shampoo,Redken All Soft Moisturizing Shampoo,27.0,2.67,oz,10.1 oz
-Shampoo,H-E-B Dandruff Shampoo - Dry Scalp Recovery,3.48,0.28,oz,12.5 oz
-Shampoo,L'Oréal Paris Elvive Hyaluron + Pure 72hr Purifying Shampoo,5.49,,,12.6 oz
-Shampoo,Suave Essentials Nourishing Shampoo - Tropical Coconut,1.94,,,22.5 oz
-Shampoo,Suave Essentials Energizing Shampoo - Strawberry,1.94,,,22.5 oz
-Shampoo,Garnier Whole Blends Honey Treasures Repairing Shampoo,9.47,0.34,oz,28 oz
-Shampoo,Garnier Fructis Grow Strong Fortifying Shampoo,4.47,,,12.5 oz
-Shampoo,Matrix Biolage Colorlast Shampoo,24.95,1.85,oz,13.5 oz
-Shampoo,Garnier Whole Blends Smoothing Shampoo,9.47,0.34,oz,"Coconut Oil and Cocoa Butter, 28 oz"
-Shampoo,Mane 'n Tail Moisture Balance Shampoo - Coconut Milk,8.97,,,20 oz
-Shampoo,L'Oréal Paris Ever Pure Clarify Shampoo,9.97,,,6.8 oz
-Shampoo,Nizoral Anti-Dandruff Shampoo,12.49,3.12,oz,4 oz
-Shampoo,CHI Keratin Shampoo,15.95,1.33,oz,12 oz
-Shampoo,Garnier Whole Blends Illuminating Shampoo - Moroccan Argan & Camellia Oils,5.47,0.44,oz,12.5 oz
-Shampoo,Dove Men+Care 2 in 1 Shampoo + Conditioner - Fresh + Clean,4.88,0.41,oz,12 oz
-Shampoo,Mane 'n Tail Herbal Gro Shampoo,3.97,0.33,oz,12 oz
-Shampoo,Suave 2-in-1 Shampoo and Conditioner - Ocean Charge,2.94,,,12.6 oz
-Shampoo,Garnier Fructis Pure Clean Purifying Shampoo,9.47,0.28,oz,33.8 oz
-Shampoo,L'Oréal Paris EverPure Sulfate Free Purple Shampoo,9.97,,,6.8 oz
-Shampoo,Dove Nutritive Solutions Intensive Repair Shampoo & Conditioner,8.84,0.37,oz,"2 Pk, 24 oz"
-Toothpaste,Colgate Cavity Protection Anticavity Toothpaste,4.46,0.37,oz,"2 Pk, 12 oz"
-Toothpaste,Colgate Baking Soda & Peroxide Whitening Anticavity Toothpaste - Brisk Mint,1.97,0.49,oz,4 oz
-Toothpaste,Colgate Cavity Protection Anticavity Toothpaste,1.97,0.49,oz,4 oz
-Toothpaste,Crest 3D White Glamorous White Toothpaste,8.97,1.36,oz,"2 Pk, 6.6 oz"
-Toothpaste,Crest Baking Soda & Peroxide Fresh Mint Whitening Toothpaste,3.96,,,"2 Pk, 11.4 oz"
-Toothpaste,Sensodyne Extra Whitening Sensitive Teeth Whitening Toothpaste,1.99,,,0.8 oz
-Toothpaste,Sensodyne Pronamel Intensive Enamel Repair Toothpaste for Sensitive Teeth and Cavity Protection,7.47,2.2,oz,"Whitening Toothpaste, Arctic Breeze, 3.4 oz"
-Toothpaste,Crest 3D White Whitening Toothpaste - Radiant Mint,3.97,1.65,oz,2.4 oz
-Toothpaste,H-E-B Sensitive Fluoride Toothpaste - Whitening,3.73,1.1,oz,3.4 oz
-Toothpaste,Colgate Max Fresh Anticavity Toothpaste - Cool Mint,3.96,0.63,oz,6.3 oz
-Toothpaste,Sensodyne Extra Whitening Sensitive Teeth Whitening Toothpaste,12.48,1.56,oz,2 pk
-Toothpaste,H-E-B Sensitive Fluoride Toothpaste - Fresh Mint,6.64,0.98,oz,"2 Pk, 6.8 oz"
-Toothpaste,Crest 3D White Whitening Toothpaste - Radiant Mint,8.97,1.36,oz,"2 Pk, 6.6 oz"
-Toothpaste,Sensodyne Extra Whitening Sensitive Teeth Whitening Toothpaste,7.47,1.87,oz,4 oz
-Toothpaste,Field & Future by H-E-B Anti-Plaque & Whitening Fluoride-Free Toothpaste - Peppermint,3.82,,,4.8 oz
-Toothpaste,H-E-B Gleaming White Fluoride Anticavity Toothpaste - Fresh Mint,2.89,0.6,oz,4.8 oz
-Toothpaste,Colgate Total Toothpaste - Whitening,4.96,0.97,oz,5.1 oz
-Toothpaste,Colgate Optic White Advanced Toothpaste - Sparkling White,9.96,,,"2 Pk, 6.4 oz"
-Toothpaste,Sensodyne Pronamel Intensive Enamel Repair Toothpaste for Sensitive Teeth and Cavity Protection,12.48,1.84,oz,"Extra Fresh, 2 pk"
-Toothpaste,Parodontax Active Gum Repair Breath Freshener Toothpaste,7.47,2.2,oz,3.4 oz
-Toothpaste,Crest Baking Soda & Peroxide Whitening Toothpaste - Fresh Mint,1.96,0.34,oz,5.7 oz
-Toothpaste,Arm & Hammer Complete Care Anticavity Fluoride Toothpaste – Fresh Mint,3.98,0.66,oz,6 oz
-Toothpaste,Arm & Hammer Advance White Anticavity Fluoride Toothpaste – Clean Mint,3.98,0.63,oz,6 oz
-Toothpaste,Colgate Max Fresh Anticavity Toothpaste - Clean Mint,3.96,0.63,oz,6.3 oz
-Toothpaste,H-E-B Enamel Protection Toothpaste - Clean Mint,4.18,1.04,oz,4 oz
-Toothpaste,Aim Multi-Benefit Cavity Protection Gel Toothpaste - Ultra Mint,0.98,0.18,oz,5.5 oz
-Toothpaste,Aquafresh Cavity Protection Fluoride Toothpaste for Healthy Gums,2.97,0.53,oz,"Strong Teeth, and Fresh Breath, Cool Mint, 5.6 oz"
-Toothpaste,Sensodyne Complete Protection Sensitive Toothpaste,7.47,2.2,oz,"Extra Fresh, 3.4 oz"
-Toothpaste,Sensodyne Pronamel Gentle Whitening Enamel Toothpaste for Sensitive Teeth,17.47,1.46,oz,3 pk
-Toothpaste,Crest Cavity Protection Regular Toothpaste,4.97,,,"3 Pk, 17.1 oz"
-Toothpaste,H-E-B Gleaming White Fluoride Anticavity Toothpaste - Arctic Cool Mint,2.89,0.6,oz,4.8 oz
-Toothpaste,Tom's of Maine Fluoride-Free Antiplaque & Whitening Toothpaste - Peppermint 2 pk,9.96,,,11 oz
-Toothpaste,Parodontax Complete Protection Teeth Whitening Toothpaste for Bleeding Gums,7.47,2.2,oz,3.4 oz
-Toothpaste,Colgate Baking Soda & Peroxide Whitening Brisk Mint,2.97,0.36,oz,8 oz
-Toothpaste,Crest Cavity Protection Regular Toothpaste,1.96,0.34,oz,5.7 oz
-Toothpaste,Arm & Hammer Advance White Clean Mint Anticavity Fluoride Toothpaste,6.98,,,"2 Pk, 12 oz"
-Toothpaste,Colgate Optic White Advanced Anticavity Toothpaste - Sparkling White,5.96,1.86,oz,3.2 oz
-Toothpaste,Sensodyne Pronamel Gentle Whitening Enamel Toothpaste for Sensitive Teeth and Cavity Protection,1.99,2.49,oz,"Alpine Breeze, 0.8 oz"
-Toothpaste,Crest Travel Size Baking Soda & Peroxide Whitening Toothpaste - Fresh Mint,0.97,0.4,oz,2.4 oz
-Toothpaste,Field & Future by H-E-B Activated Charcoal Fluoride-Free Whitening Toothpaste - Peppermint,3.82,,,4.8 oz
-Toothpaste,Crest Travel Size 3D White Brilliance Whitening Toothpaste - Vibrant Peppermint,0.97,,,0.85 oz
-Toothpaste,Sensodyne Repair and Protect Mint Toothpaste,7.47,2.2,oz,"Toothpaste for Sensitive Teeth and Cavity Prevention, 3.4 oz"
-Toothpaste,Crest Kid's Cavity Protection Toothpaste - Sparkle Fun,1.98,0.43,oz,4.6 oz
-Toothpaste,Crest Tartar Protection Whitening Toothpaste - Cool Mint,1.96,0.34,oz,5.7 oz
-Toothpaste,Sensodyne Repair and Protect Whitening Toothpaste,12.48,1.84,oz,"Toothpaste for Sensitive Teeth and Cavity Prevention, 2 pk"
-Toothpaste,Dr. Bronner's All-One Toothpaste - Peppermint,7.47,1.49,oz,5 oz
-Deodorant stick,Lafe's Deodorant Stick - Lavender & Aloe,8.47,3.76,oz,2.25 oz
-Deodorant stick,Jason Calming Lavender Deodorant Stick,7.47,2.99,oz,2.5 oz
-Deodorant stick,Lafe's Deodorant Stick - Citrus & Bergamot,8.47,3.76,oz,2.25 oz
-Deodorant stick,Lafe's Deodorant Stick - Citrus + Bergamot,9.98,4.44,oz,2.25 oz
-Deodorant stick,Dove Men+Care Extra Fresh Deodorant Stick,12.78,2.13,oz,2 pk
-Deodorant stick,Dove Men+Care Deodorant Stick - Extra Fresh,12.78,2.13,oz,3.0 oz
-Deodorant stick,Tom's of Maine Mountain Spring Deodorant Stick,7.97,2.45,oz,2.25 oz
-Deodorant stick,Dove Men+Care Extra Fresh Deodorant Stick,6.97,2.32,oz,3 oz
-Deodorant stick,Jason Purifying Tea Tree Deodorant Stick,7.47,2.99,oz,2.5 oz
-Deodorant stick,Dove Antiperspirant Deodorant Stick Clear Finish,6.97,,,2.6 oz
-Deodorant stick,Crystal Hypoallergenic Fragrance Free Body Deodorant Stick,7.64,1.8,oz,4.25 oz
-Deodorant stick,Dove Advanced Care Antiperspirant Deodorant Stick Revive,6.97,,,2.6 oz
-Deodorant stick,Old Spice Antiperspirant Deodorant Stick - Fiji 3 Pack,19.97,2.56,oz,2.6 oz
-Deodorant stick,Old Spice Antiperspirant Deodorant Stick - Krakengard,11.97,,,"2 pk, 6 oz"
-Deodorant stick,Dove Advanced Care Antiperspirant Deodorant Stick Beauty Finish,6.97,,,2.6 oz
-Deodorant stick,Dove Advanced Care Antiperspirant Deodorant Stick Cool Essentials,6.97,,,2.6 oz
-Deodorant stick,Mando Whole Body Deodorant - Men's Aluminum-Free Smooth Solid Stick Deodorant - Bourbon Leather,12.72,,,2.6 oz
-Deodorant stick,Speed Stick Deodorant - Power Fresh,2.47,,,3 oz
-Deodorant stick,Mando Whole Body Deodorant - Men's Aluminum-Free Smooth Solid Stick Deodorant - Pro Sport,14.97,5.76,oz,2.6 oz
-Deodorant stick,Mando Whole Body Deodorant - Men's Aluminum-Free Smooth Solid Stick Deodorant - Mt Fuji,14.97,,,2.6 oz
-Deodorant stick,Mando Whole Body Deodorant Smooth Solid Stick - Cabin Retreat,14.99,5.77,oz,2.6 oz
-Deodorant stick,Lume Whole Body Deodorant Smooth Solid Stick - Fresh Alpine,14.99,5.77,oz,2.6 oz
-Deodorant stick,Dove Men+Care Clean Comfort Deodorant Stick,6.97,2.32,oz,3 oz
-Deodorant stick,Lume Whole Body Women's Deodorant - Smooth Solid Stick - Aluminum Free - Unscented - 2.6oz,14.97,5.76,oz,2.6 oz
-Deodorant stick,Lume Whole Body Women's Deodorant - Smooth Solid Stick - Aluminum Free - Clean Tangerine Scent,14.97,5.76,oz,2.6 oz
-Deodorant stick,Right Guard Xtreme Defense Antiperspirant Deodorant Stick - Fresh Blast,8.48,1.63,oz,"2 pk, 2.6 oz"
-Deodorant stick,Dove Advanced Care Antiperspirant Deodorant Stick Apple & White Tea,6.97,,,2.6 oz
-Deodorant stick,Speed Stick Aluminum Free Deodorant - Regular,2.47,0.82,oz,3 oz
-Deodorant stick,Lume Whole Body Women's Deodorant - Smooth Solid Stick - Aluminum Free - Peony Rose Scent - 2.6oz,14.97,5.76,oz,2.6 oz
-Deodorant stick,Lume Whole Body Women's Deodorant - Smooth Solid Stick - Aluminum Free - Lavender Sage Scent - 2.6oz,14.97,5.76,oz,2.6 oz
-Deodorant stick,Speed Stick 24 Hr Protection Deodorant - Regular,4.47,0.74,oz,"2 pk, 3 oz"
-Deodorant stick,Lume Whole Body Women's Deodorant - Smooth Solid Stick - Aluminum Free - Soft Powder Scent,14.97,,,2.6 oz
-Deodorant stick,Lady Speed Stick Invisible Dry Deodorant - Shower Fresh,2.18,,,2.3 oz
-Deodorant stick,Lady Speed Stick Invisible Dry Deodorant - Powder Fresh,2.18,,,2.3 oz
-Deodorant stick,Speed Stick Deodorant - Ocean Surf,4.47,0.74,oz,"2 pk, 3 oz"
-Deodorant stick,Speed Stick Deodorant - Ocean Surf,2.47,0.82,oz,3 oz
-Deodorant stick,Arm & Hammer Fresh Ultra Max Deodorant Solid Wide Stick,2.18,,,2.6 oz
-Deodorant stick,Speed Stick Antiperspirant Deodorant - Power Sport,2.47,,,3 oz
-Deodorant stick,Speed Stick Antipersirant Deodorant - Irish Spring Original,2.47,,,2.7 oz
-Deodorant stick,Speed Stick Power Clear Gel Antiperspirant Deodorant,2.47,0.82,oz,3 oz
-Deodorant stick,Speed Stick Antiperspirant Deodoratnt - Irish Spring Scent,4.47,,,2 pk
-Body lotion,Lubriderm Advanced Therapy Fragrance Free Lotion with Vitamin E,10.12,,,16 oz
-Body lotion,eos Shea Better 24H Moisture Body Lotion - Fresh & Cozy,9.97,0.62,oz,16 oz
-Body lotion,Gold Bond Age Renew Crepe Corrector Body Lotion,16.97,1.21,oz,14 oz
-Body lotion,NIVEA Nourishing Skin Firming Body Lotion with Q10 and Vitamin C,10.27,,,16.9 oz
-Body lotion,eos Shea Better 24H Moisture Body Lotion - Coconut Waters,9.97,0.62,oz,16 oz
-Body lotion,Aveeno Daily Moisturizing Body Lotion,9.97,0.55,oz,18 oz
-Body lotion,Vaseline Intensive Care Cocoa Radiant Lotion,6.98,0.34,oz,20.3 oz
-Body lotion,NIVEA Intense Healing Body Lotion Pump,7.28,0.43,oz,16.9 oz
-Body lotion,Jergens Ultra Healing Dry Skin Moisturizer,7.47,,,21 oz
-Body lotion,NIVEA Oil Infused Body Lotion Cherry Blossom and Jojoba Oil,7.28,0.43,oz,16.9 oz
-Body lotion,Vaseline Intensive Care Cocoa Radiant Lotion,3.98,,,10 oz
-Body lotion,Jergens Enriching Shea Butter Moisturizer,7.47,,,16.8 oz
-Body lotion,Vaseline Intensive Care Hand & Body Lotion - Soothing Hydration,3.98,0.4,oz,10 oz
-Body lotion,eos Shea Better Body Lotion - Peppermint Cashmere,4.97,1.99,oz,2.5 oz
-Body lotion,eos Shea Better 24H Moisture Body Lotion - Vanilla Cashmere,9.97,0.62,oz,16 oz
-Body lotion,NIVEA In-Shower Nourishing Body Lotion,7.28,0.54,oz,13.5 oz
-Body lotion,Aveeno Daily Moisturizing Body Lotion,8.98,,,12 oz
-Body lotion,Avena Collagen Hand & Body Lotion,4.77,0.28,oz,17 oz
-Body lotion,NIVEA Cocoa Butter Body Lotion,7.28,0.43,oz,16.9 oz
-Body lotion,Palmer's Coconut Oil Body Lotion,12.98,0.38,oz,33.8 oz
-Body lotion,Olay Super Serum Body Lotion,14.97,0.81,oz,18.5 oz
-Body lotion,Aveeno Daily Moisturizing Body Lotion,16.97,,,33 oz
-Body lotion,NIVEA Original Daily Moisture Body Lotion,7.28,0.43,oz,16.9 oz
-Body lotion,NIVEA Shea Daily Moisture Body Lotion,7.28,0.43,oz,16.9 oz
-Body lotion,Tree Hut Moisturizing Body Lotion - Tangerine,8.94,1.05,oz,8.5 oz
-Body lotion,Olay Retinol 24 Smoothing Body Lotion,10.97,0.65,oz,17 oz
-Body lotion,Vaseline Intensive Care Body Lotion Soothing Hydration,6.98,,,20.3 oz
-Body lotion,eos Shea Better Body Lotion - Caramel Cashmere,9.97,0.62,oz,16 oz
-Body lotion,eos Shea Better Body Lotion - Cocoa Cashmere,4.99,2.0,oz,2.5 oz
-Body lotion,eos Shea Better Body Lotion - Peppermint Cashmere,9.97,0.62,oz,16 oz
-Body lotion,Shea Moisture Illuminating Body Lotion - Coconut & Hibiscus,11.97,,,16 oz
-Body lotion,Tree Hut Moisturizing Body Lotion - Pink Hibiscus,8.94,1.05,oz,8.5 oz
-Body lotion,Lubriderm Daily Moisture Body Lotion + Pro-Ceramide,12.72,0.53,oz,24 oz
-Body lotion,Lubriderm Daily Moisture Body Lotion + Pro-Ceramide,10.12,,,16 oz
-Body lotion,Palmer's Cocoa Butter Formula Heals Softens Body Lotion,12.98,0.38,oz,33.8 oz
-Body lotion,St. Ives Soothing Body Lotion - Oatmeal & Shea Butter,4.98,0.25,oz,20.28 oz
-Body lotion,Shea Moisture Raw Shea Butter Moisturizing Body Lotion,11.97,,,16 oz
-Body lotion,Lubriderm Daily Moisture Body Lotion + Pro-Ceramide,5.97,,,10 oz
-Body lotion,NIVEA Skin Firming Hydration Body Lotion,10.27,0.61,oz,16.9 oz
-Body lotion,Eucerin Daily Hydration Broad Spectrum SPF 15 Body Lotion,12.97,,,16.9 oz
-Body lotion,eos Shea Better 24H Moisture Body Lotion - Pomegranate Raspberry,9.97,0.62,oz,16 oz
-Body lotion,eos Shea Better 24H Moisture Body Lotion - Jasmine Peach,9.97,0.62,oz,16 oz
-Body lotion,eos Shea Better 24H Moisture Body Lotion - Pink Champagne,9.97,0.62,oz,16 oz
-Body lotion,Suave Advanced Healing Hand & Body Lotion with Ceramides - Extra Dry Skin,5.97,,,28 oz
-Body lotion,The Honest Company Calm Face And Body Lotion - Lavender,11.98,1.41,oz,8.5 oz
-Body lotion,The Honest Company Face & Body Lotion - Sweet Cream,11.98,,,8.5 oz
-Body lotion,Gold Bond Medicated Anti-Itch Body Lotion,9.48,1.72,oz,5.5. oz
-Body lotion,Shea Moisture 100% Virgin Coconut Oil Daily Hydration Body Lotion,11.97,,,16 oz
-Body lotion,The Honest Company Sensitive Face And Body Lotion - Fragrance Free,11.98,1.41,oz,8.5 oz
-Body lotion,Gold Bond Diabetics' Dry Skin Relief Body Lotion - Aloe,12.98,0.62,oz,21 oz
-Body lotion,Baby Dove Sensitive Skin Care Rich Moisture Body Lotion,9.98,0.5,oz,20 oz
-Body lotion,Johnson's Baby Creamy Oil Moisturizing Baby Body Lotion with Aloe,5.98,0.75,oz,8 oz
-Body lotion,CeraVe Hydrating Mineral Sunscreen Body Lotion Broad Spectrum SPF 50,14.97,2.99,oz,5 oz
-Body lotion,eos Shea Better 24hr Moisture Body Lotion-  Vanilla Cashmere,4.0,1.6,oz,"Travel Size, 2.5 oz"
-Body lotion,eos Shea Better Body Lotion - Caramel Cashmere,4.97,1.99,oz,2.5 oz
-Body lotion,Daisy Fuentes Body Butter Lotion Gift Set,4.99,,,
-Body lotion,Gold Bond Age Renew Retinol Overnight Body & Face Lotion,16.97,1.31,oz,13 oz
-Body lotion,Olay Nourishing Body Lotion - Hyaluronic Acid,10.97,0.65,oz,17 oz
-Body lotion,Johnson's Baby CottonTouch Newborn Baby Face & Body Lotion,5.47,0.4,oz,13.6 oz
-Crew socks,EcoSox Medium Black Diabetic Crew Socks,5.61,,,3.1 oz
-Crew socks,H-E-B RX Black Non-Binding Top Diabetic Crew Socks Large,5.61,,,
-Crew socks,H-E-B RX White/Grey Non-Binding Top Diabetic Crew Socks Large,5.61,,,
-Crew socks,Wellness by Harmony & Sole Everyday Diabetic Crew Sock Unisex - White - 2 Pairs,6.28,,,S/M
-Crew socks,Wellness by Harmony & Sole Everyday Diabetic Crew Sock Unisex - White- 2 Pairs,6.28,,,L/XL
-Crew socks,Wellness by Harmony & Sole Everyday Diabetic Crew Sock Unisex - Black- 2 Pairs,6.28,,,S/M
-Crew socks,Wellness by Harmony & Sole Everyday Diabetic Crew Sock Unisex - Black- 2 Pairs,6.28,,,L/XL
+Shampoo,L'Oréal Paris Elvive Hyaluron + Plump Shampoo & Conditioner,0.4,0.4,oz,25.2 oz
+Shampoo,Alberto VO5 Moisturizing Shampoo - Pomegranate Bliss,0.08,,,15 oz
+Shampoo,"Dove Coconut & Hydration Shampoo & Conditioner, 2 Pk",0.37,0.37,oz,24 oz
+Shampoo,Native Moisturizing Shampoo - Coconut & Vanilla,0.66,0.66,oz,16.5 oz
+Shampoo,Garnier Whole Blends Honey Treasures Repairing Shampoo & Conditioner,0.38,0.38,oz,25 oz
+Shampoo,Suave Damage Repair Coconut Oil Infusion Shampoo & Conditioner 2 pk,0.16,,,18 oz
+Shampoo,Suave Professionals Keratin Infusion Smoothing Shampoo & Conditioner 2 pk,0.16,,,18 oz
+Shampoo,Garnier Fructis Pure Clean Purifying Shampoo,0.36,0.36,oz,12.5 oz
+Shampoo,Not Your Mother's Tahitian Gardenia Flower & Mango Butter Shampoo,0.5,,,15.2 oz
+Shampoo,Pantene Pro-V Smooth & Sleek Shampoo,0.39,0.39,oz,17.9 oz
+Shampoo,Garnier Fructis Sleek & Shine Smoothing Shampoo,0.36,0.36,oz,12.5 oz
+Shampoo,Suave Essentials Cleansing Shampoo - Daily Clarifying,0.09,0.09,oz,22.5 oz
+Shampoo,Pantene Nutrient Blends Moisture Boost  Rose Water Shampoo & Conditioner,0.96,0.96,oz,2 pk
+Shampoo,"Dove Shampoo & Conditioner Daily Moisture, 2 Pk",0.37,0.37,oz,24 oz
+Shampoo,Native Moisturizing Shampoo - Sweet Peach & Nectar,0.66,0.66,oz,16.5 oz
+Shampoo,Mane 'n Tail The Original Shampoo,0.25,0.25,oz,32 oz
+Shampoo,TRESemm√© Rich Moisture Shampoo,0.21,0.21,oz,28 oz
+Shampoo,Old Spice Shampoo 2in1 Conditioner - Krakengard,0.41,0.41,oz,21.9 oz
+Shampoo,Mane 'n Tail Repair 'n Strengthen Shampoo - Cucumber Aloe,0.45,,,20 oz
+Shampoo,Paul Mitchell Tea Tree Special Shampoo,1.67,1.67,oz,10.14 oz
+Shampoo,Suave Essentials Refreshing Shampoo - Ocean Breeze,0.09,0.09,oz,22.5 oz
+Shampoo,It's a 10 Miracle Shampoo Plus Keratin,2.3,2.3,oz,10 oz
+Shampoo,Garnier Fructis Sleek & Shine Smoothing Shampoo,0.28,0.28,oz,33.8 oz
+Shampoo,Head & Shoulders Dandruff Shampoo - Smooth & Silky,0.56,0.56,oz,12.5 oz
+Shampoo,Matrix Biolage Hydrasource Shampoo,1.7,1.7,oz,13.5 oz
+Shampoo,TRESemm√© Silky & Smooth Shampoo,0.2,0.2,oz,39 oz
+Shampoo,TRESemm√© Rich Moisture Shampoo with Pump,0.2,0.2,oz,39 oz
+Shampoo,OGX Thick & Full + Biotin & Collagen Volume Shampoo,0.54,0.54,oz,13 oz
+Shampoo,Native Volumizing Shampoo - Cucumber & Mint,0.66,0.66,oz,16.5 oz
+Shampoo,Redken All Soft Moisturizing Shampoo,2.67,2.67,oz,10.1 oz
+Shampoo,Native Curl Care Shampoo - Coconut Milk & Turmeric,0.66,0.66,oz,16.5 oz
+Shampoo,H-E-B Dandruff Shampoo - Dry Scalp Recovery,0.28,0.28,oz,12.5 oz
+Shampoo,L'Oréal Paris Elvive Hyaluron + Pure 72hr Purifying Shampoo,0.44,0.44,oz,12.6 oz
+Shampoo,Suave Essentials Nourishing Shampoo - Tropical Coconut,0.09,0.09,oz,22.5 oz
+Shampoo,Pantene Pro-V Volume & Body Shampoo,0.39,0.39,oz,17.9 oz
+Shampoo,Suave Essentials Energizing Shampoo - Strawberry,0.09,0.09,oz,22.5 oz
+Shampoo,Garnier Whole Blends Honey Treasures Repairing Shampoo,0.34,0.34,oz,28 oz
+Shampoo,Garnier Fructis Grow Strong Fortifying Shampoo,0.36,0.36,oz,12.5 oz
+Shampoo,Aussie Miracle Moist Shampoo - Avocado & Jojoba Oil,0.41,0.41,oz,12.1 oz
+Shampoo,Pantene Pro-V Daily Moisture Renewal Shampoo,0.36,0.36,oz,27.7 oz
+Shampoo,Aussie Miracle Volume Shampoo - Bamboo & Plum,0.3,0.3,oz,26.2 oz
+Shampoo,Matrix Biolage Colorlast Shampoo,1.85,1.85,oz,13.5 oz
+Shampoo,"Garnier Whole Blends Smoothing Shampoo, Coconut Oil and Cocoa Butter",0.34,0.34,oz,28 oz
+Shampoo,Pantene Pro-V Classic Clean Shampoo,0.39,0.39,oz,17.9 oz
+Shampoo,Native Strengthening Shampoo - Almond & Shea Butter,0.66,0.66,oz,16.5 oz
+Shampoo,Mane 'n Tail Moisture Balance Shampoo - Coconut Milk,0.45,,,20 oz
+Shampoo,L'Oréal Paris Ever Pure Clarify Shampoo,1.47,,,6.8 oz
+Shampoo,Dove Ultra Care Shampoo - Coconut & Hydration,0.4,0.4,oz,12 oz
+Shampoo,Nizoral Anti-Dandruff Shampoo,3.12,3.12,oz,4 oz
+Shampoo,CHI Keratin Shampoo,1.33,1.33,oz,12 oz
+Shampoo,Pantene Pro-V Daily Moisture Renewal 2 in 1 Shampoo + Conditioner,0.39,0.39,oz,17. 9 oz
+Shampoo,Aussie Miracle Moist Shampoo - Avocado & Jojoba Oil,0.3,0.3,oz,26.2 oz
+Shampoo,Garnier Whole Blends Illuminating Shampoo - Moroccan Argan & Camellia Oils,0.44,0.44,oz,12.5 oz
+Shampoo,Dove Men+Care 2 in 1 Shampoo + Conditioner - Fresh + Clean,0.41,0.41,oz,12 oz
+Shampoo,Mane 'n Tail Herbal Gro Shampoo,0.33,0.33,oz,12 oz
+Shampoo,Suave 2-in-1 Shampoo and Conditioner - Ocean Charge,0.23,0.23,oz,12.6 oz
+Shampoo,Garnier Fructis Pure Clean Purifying Shampoo,0.28,0.28,oz,33.8 oz
+Shampoo,L'Oréal Paris EverPure Sulfate Free Purple Shampoo,1.47,,,6.8 oz
+Shampoo,"Dove Nutritive Solutions Intensive Repair Shampoo & Conditioner, 2 Pk",0.37,0.37,oz,24 oz
+Shampoo,Native Moisturizing Shampoo - Warm Cider & Cinnamon,0.66,0.66,oz,16.5 oz
+Shampoo,Dove Damage Therapy Daily Moisture Shampoo,0.4,0.4,oz,12 oz
+Shampoo,H-E-B Dandruff Shampoo - Everyday Clean,0.28,0.28,oz,12.5 oz
+Shampoo,Maui Moisture Lightweight Hydration + Hibiscus Water Shampoo,0.54,0.54,oz,13 oz
+Shampoo,L'Oréal Paris Elvive Hyaluron + Plump 72hr Hydrating Shampoo,0.36,0.36,oz,26.5 oz
+Shampoo,Alberto VO5 Moisturizing Shampoo - Strawberries & Cream,0.08,0.08,oz,15 oz
+Shampoo,Suave Essentials Softening Shampoo - Wild Cherry Blossom,0.09,0.09,oz,22.5 oz
+Shampoo,Suave Invigorating Shampoo - Rosemary and Mint,0.23,0.23,oz,12.6 oz
+Shampoo,SheaMoisture Curl and Shine Shampoo - Coconut and Hibiscus,0.83,0.83,oz,13 oz
+Shampoo,Herbal Essences Rose Hips Smooth Shampoo,0.34,0.34,oz,29.2 oz
+Shampoo,Suave Essentials Energizing Conditioner - Strawberry,0.09,0.09,oz,22.5 oz
+Shampoo,VO5 Moisturizing Shampoo - Island Coconut,1.14,,,15 oz
+Shampoo,HASK Biotin Boost Thickening Shampoo,0.41,0.41,oz,12 oz
+Shampoo,Garnier Fructis Hair Filler Strength Repair Shampoo,0.69,0.69,oz,10.1 oz
+Shampoo,Alberto VO5 Extra Body with Collagen Volumizing Shampoo,0.08,0.08,oz,15 oz
+Shampoo,Dove Argan Oil & Damage Repair Shampoo,0.4,,,12 oz
+Shampoo,Suave Professionals Keratin Infusion Color Care Shampoo,0.23,0.23,oz,12.6 oz
+Shampoo,Suave Essentials Softening Conditioner - Wild Cherry Blossom,0.09,0.09,oz,22.5 oz
+Shampoo,H-E-B 2 in 1 Dandruff Shampoo + Conditioner - Clean Apple,0.25,0.25,oz,12.5 oz
+Shampoo,Suave Essentials Cleansing Conditioner - Daily Clarifying,0.09,0.09,oz,22.5 oz
+Shampoo,Dove Ultra Care Shampoo - Intensive Repair,0.4,0.4,oz,12 oz
+Shampoo,Alberto VO5 Men 3 in 1 Shampoo Conditioner Body Wash - Ocean Surge,0.08,0.08,oz,15 oz
+Shampoo,Garnier Fructis Grow Strong Thickening Shampoo,0.36,,,12.5 oz
+Shampoo,Prell Classic Clean Shampoo,0.26,,,13.5 oz
+Shampoo,Suave Essentials Nourishing Conditioner - Tropical Coconut,0.09,,,22.5 oz
+Shampoo,Pantene Travel Size Pro-V Daily Moisture Renewal Shampoo,0.59,0.59,oz,3.38 oz
+Shampoo,Suave Moisturizing Shampoo - Almond &  Shea Butter,0.23,0.23,oz,12.6 oz
+Shampoo,Alberto VO5 Silky Experiences Island Coconut Moisturizing Conditioner,1.14,,,15 OZ
+Shampoo,L'Oréal Paris Elvive Hyaluron Plump 72hr Hydrating Shampoo,0.44,0.44,oz,12.6oz
+Shampoo,Head & Shoulders Dandruff Shampoo - Classic Clean,0.47,0.47,oz,8.45 oz
+Shampoo,Suave Professionals Smoothing Shampoo - Keratin Infusion,0.18,0.18,oz,28 oz
+Shampoo,TRESemm√© Revitalized Color Vibrance & Shine Shampoo,0.21,0.21,oz,28 oz
+Shampoo,Alberto VO5 Strawberries & Cream Moisturizing Conditioner,0.08,0.08,oz,15 oz
+Shampoo,Alberto VO5 Revitalizing Shampoo - Ocean Refresh,0.08,0.08,oz,15 oz
+Shampoo,Alberto VO5 Clarifying Shampoo - Kiwi Lime Squeeze,0.08,0.08,oz,15 oz
+Shampoo,Aussie Miracle Curls Shampoo - Coconut & Jojoba Oil,0.41,0.41,oz,12.1 oz
+Shampoo,Dove Care Between Washes Dry Shampoo Volume and Fullness,1.54,1.54,oz,5 oz
+Shampoo,Kenra Volumzing Shampoo,1.98,1.98,oz,10.1 oz
+Shampoo,Nizoral Anti-Dandruff Shampoo,2.27,2.27,oz,7.00 fl oz
+Shampoo,L'Oréal Paris EverPure Moisture Sulfate Free Shampoo for Dry Hair,1.17,1.17,oz,8.5 oz
+Shampoo,CHI Dry Shampoo,2.42,2.42,oz,7 oz
+Shampoo,CHI Infra Shampoo,1.25,1.25,oz,12 oz
+Shampoo,Sun Bum Revitalizing Shampoo,1.1,1.1,oz,10 oz
+Shampoo,Living Proof Full Shampoo,3.49,3.49,oz,8 oz
+Shampoo,Matrix Biolage Volumebloom Shampoo,1.12,1.12,oz,33.8 oz
+Shampoo,American Crew Daily Shampoo,0.95,0.95,oz,8.4 oz
+Shampoo,Matrix Biolage HydraSource Shampoo,1.12,1.12,oz,33.8 oz
+Shampoo,Matrix Biolage ColorLast Shampoo,1.12,1.12,oz,33.8 oz
+Shampoo,Cre-C Max Shampoo,1.25,1.25,oz,8.46 oz
+Shampoo,Jason Restorative Biotin Shampoo,0.57,0.57,oz,16 oz
+Shampoo,Living Proof Frizz Shampoo,3.25,3.25,oz,8 oz
+Shampoo,Biosilk Hydrating Therapy Shampoo,1.16,1.16,oz,12 oz
+Shampoo,Biosilk Silk Therapy Shampoo,1.16,1.16,oz,12 oz
+Shampoo,It's a 10 Miracle Volumizing Shampoo,2.3,2.3,oz,10 oz
+Shampoo,Nexxus Color Assure Shampoo,1.18,1.18,oz,13.5 oz
+Shampoo,Biosilk Color Therapy Shampoo,1.25,1.25,oz,12 oz
+Shampoo,Nexxus Color Assure Shampoo,0.77,0.77,oz,33.8 oz
+Shampoo,Kenra Platinum F6Dry Shampoo,4.8,4.8,oz,5 oz
+Shampoo,HASK Keratin Smoothing Shampoo,0.41,0.41,oz,12 oz
+Shampoo,Batiste Dry Shampoo - Tropical,2.09,2.09,oz,3.81 oz
+Columbian Coffee,CAFE Olé by H-E-B Medium Roast Colombian Coffee Single Serve Cups,0.66,0.66,ct,12 ct
+Columbian Coffee,H-E-B 100% Colombian Med-Dark Roast Ground Coffee,0.58,0.58,oz,34.5 oz
+Columbian Coffee,Folgers 100% Colombian Medium Roast Ground Coffee,0.61,0.61,oz,22.60 oz
+Columbian Coffee,Hill Country Fare Colombian Single Serve Coffee Cups,0.38,0.38,ct,12 ct
+Columbian Coffee,Hill Country Fare Colombian Single Serve Coffee Cups,0.34,0.34,ct,48 ct
+Columbian Coffee,H-E-B 100% Colombian Med-Dark Roast Ground Coffee,0.78,0.78,oz,11.5 oz
+Columbian Coffee,CAFE Olé by H-E-B Medium Roast Colombian Supremo Ground Coffee,0.75,0.75,oz,12 oz
+Columbian Coffee,Folgers 100% Colombian Medium Roast Single Serve Coffee K Cups,0.71,0.71,ct,10 ct
+Columbian Coffee,CAFE Olé by H-E-B Commemorative Collection Dark Roast Colombian Coffee Single Serve Cups,0.66,0.66,ct,12 ct
+Columbian Coffee,CAFE Olé by H-E-B Commemorative Collection Dark Roast Colombian Ground Coffee,0.75,0.75,oz,12 oz
+Columbian Coffee,Tejas Cafe 100% Colombian Medium Roast Ground Coffee,0.59,0.59,oz,11 oz
+Columbian Coffee,Maxwell House 100% Colombian Ground Coffee,0.7,0.7,oz,9.9 oz
+Columbian Coffee,CAFE Olé by H-E-B Medium Roast Decaf Colombian Coffee Single Serve Cups,0.66,0.66,ct,12 ct
+Columbian Coffee,Veneto Cafe Organic Colombian Coffee Single Serve Cups,0.5,0.5,ct,12 ct
+Columbian Coffee,"CAFE Olé by H-E-B Decaf Donut Shop, Breakfast Blend & Colombian Coffee Single Serve Cups Variety Pack",0.54,0.54,ct,54 ct
+Columbian Coffee,Colcafe Colombian Instant Coffee,1.53,1.53,oz,3 oz
+Columbian Coffee,"CAFE Olé by H-E-B Donut Shop, Pacific Island Blend & Colombian Coffee Single Serve Cups Variety Pack",0.54,0.54,ct,54 ct
+Columbian Coffee,CAFE Olé by H-E-B Whole Bean Medium Roast Colombian Supremo Coffee,0.69,0.69,oz,2 lbs
+Columbian Coffee,Veneto Cafe 100% Colombian Breakfast Ground Coffee,0.87,0.87,oz,12 oz
+Columbian Coffee,CAFE Olé by H-E-B Commemorative Collection Dark Roast Colombian Whole Bean Coffee,0.75,0.75,oz,12 oz
+Columbian Coffee,Equal Exchange Organic Colombian Medium Roast Ground Coffee,1.02,1.02,oz,12 oz
+Columbian Coffee,Veneto Cafe 100% Colombian Dark Roast Ground Coffee,0.87,0.87,oz,12 oz
+Columbian Coffee,Blue Island 100% Colombian Medium Roast Ground Coffee,0.93,0.93,oz,11 oz
+Columbian Coffee,Folgers 100% Colombian Medium-Dark Roast Ground Coffee,1.0,1.0,oz,9.6 oz
+Columbian Coffee,Hill Country Fare Colombian Single Serve Coffee Cups,0.31,0.31,ct,100 ct
+Columbian Coffee,Veneto Cafe Organic 100% Colombian Medium Roast Ground Coffee,0.92,0.92,oz,12 oz
+Columbian Coffee,Cameron's Organic Colombian Light Roast Whole Bean Coffee,0.69,,,sold by the pound
+Columbian Coffee,Veneto Cafe 100% Colombian Cold Brew Coarse Ground Coffee,0.83,0.83,oz,12 oz
+Columbian Coffee,"CAFE Olé by H-E-B Donut Shop, Pacific Island Blend, Colombian & French Roast Coffee Single Serve Cups - Texas-Size Pack",0.44,0.44,ct,100 ct
+Columbian Coffee,Maxwell House 100% Colombian Ground Coffee,0.65,0.65,oz,23.1 oz
+Columbian Coffee,Blue Island Hammock Reserve 100% Colombian Medium Roast Single Serve Coffee K Cups,1.02,1.02,ct,10 ct
+Columbian Coffee,Folgers 100% Colombian Medium Roast Single Serve Coffee K Cups,0.75,0.75,ct,32 ct
+Columbian Coffee,Eight O'Clock 100% Colombian Peaks Medium Roast Ground Coffee,0.73,0.73,oz,11 oz
+Columbian Coffee,Veneto Cafe 100% Colombian Medium Roast Ground Coffee,0.87,0.87,oz,12 oz
+Columbian Coffee,Tejas Cafe Decaf 100% Colombian Medium Roast Ground Coffee,0.59,0.59,oz,11 oz
+Columbian Coffee,CAFE Olé by H-E-B Medium Roast Decaf Colombian Supremo Ground Coffee,0.75,0.75,oz,12 oz
+Columbian Coffee,Veneto Cafe 100% Colombian Breakfast Single Serve Cups,0.83,0.83,ct,12 ct
+Columbian Coffee,La Colombe Unsweetened Medium Roast Colombian Cold Brew,0.13,,,42 oz
+Columbian Coffee,CAFE Olé by H-E-B Reserve Single Origin Whole Bean Colombia Anaerobic Coffee,1.66,1.66,oz,12 oz
+Hot Chocolate,Swiss Miss Milk Chocolate Hot Cocoa Mix,0.4,0.4,ct,8 ct
+Hot Chocolate,Swiss Miss Marshmallow Hot Cocoa Mix,0.4,0.4,ct,8 ct
+Hot Chocolate,Nestle Rich Milk Chocolate Hot Cocoa Mix Packets,0.35,0.35,ct,8 ct
+Hot Chocolate,Swiss Miss Marshmallow Lovers Hot Cocoa Mix,0.61,0.61,ct,6 ct
+Hot Chocolate,Nestle Abuelita Mexican Hot Chocolate Drink Mix,0.34,0.34,ct,8 ct
+Hot Chocolate,Nestle Rich Milk Chocolate Hot Cocoa Mix,0.28,0.28,oz,27.7 oz
+Hot Chocolate,Nestle Abuelita Authentic Mexican Hot Chocolate Drink Tablets,0.31,0.31,oz,6 ct
+Hot Chocolate,Nestle Mini Marshmallows Hot Cocoa Mix,0.37,0.37,ct,8 ct
+Hot Chocolate,Swiss Miss Milk Chocolate Cocoa Mix Canister,0.23,0.23,oz,38.27 oz
+Hot Chocolate,H-E-B Mexican Style Hot Cocoa Single Serve Cups,0.5,0.5,ct,12 ct
+Hot Chocolate,H-E-B Organics Dark Chocolate Hot Cocoa Mix,0.45,0.45,ct,10 ct
+Hot Chocolate,Hospitality Hot Cocoa Mix with Marshmallows,0.27,0.27,ct,8 ct
+Hot Chocolate,Swiss Miss Swiss Miss Reduced Calorie Milk Chocolate Hot Cocoa,0.47,0.47,ct,8 ct
+Hot Chocolate,Silly Cow Farms Chocolate Chocolate Hot Chocolate Mix,0.36,0.36,oz,16 oz
+Hot Chocolate,Nestle Abuelita Mexican Hot Chocolate Drink Mix,0.39,0.39,oz,11.28 oz
+Hot Chocolate,H-E-B Salted Caramel Hot Cocoa Single Serve Cups,0.5,0.5,ct,12 ct
+Hot Chocolate,Ibarra Sweet Mexican Chocolate,0.37,0.37,oz,12.6 oz
+Hot Chocolate,Cocoa Classics Cocoa Classics French Vanilla & Chocolate Cocoa Mix,0.54,0.54,oz,1.25 oz
+Hot Chocolate,Cocoa Classics Mint & Chocolate Cocoa Mix,0.54,0.54,oz,1.25 oz
+Hot Chocolate,Cocoa Classics Chocolate Supreme Cocoa Mix,0.54,0.54,oz,1.25 oz
+Hot Chocolate,Nestle Fat Free Rich Milk Chocolate  Hot Cocoa Mix,1.72,1.72,oz,8 ct
+Hot Chocolate,Caffe D'Vita Sugar Free Hot Cocoa Envelope,1.38,1.38,oz,.5 oz
+Hot Chocolate,Ghirardelli Classic Hot Cocoa Mix Packets,0.94,0.94,ct,8 ct
+Hot Chocolate,Swiss Miss Milk Chocolate Hot Cocoa Mix Single Serve Coffee K Cups,1.0,1.0,ct,10 ct
+Hot Chocolate,Starbucks Classic Hot Cocoa Single Serve K Cups,1.05,1.05,ct,10 ct
+Hot Chocolate,Starbucks Double Chocolate Hot Cocoa Mix,1.06,1.06,oz,8 ct
+Hot Chocolate,Swiss Miss No Sugar Added Hot Cocoa Mix,0.49,0.49,ct,8 ct
+Hot Chocolate,H-E-B Organics Rich Chocolate Hot Cocoa Mix,0.45,0.45,ct,10 ct
+Hot Chocolate,Nesquik Chocolate Powder Drink Mix,0.33,0.33,oz,44.9 oz
+Hot Chocolate,H-E-B Milk Chocolate Cocoa Single Serve Cups,0.5,0.5,ct,12 ct
+Hot Chocolate,Caffe D'Vita Sugar Free Hot Cocoa Mix,0.58,0.58,oz,10 oz
+Hot Chocolate,Silly Cow Farms Chocolate Moo-usse Hot Chocolate Mix,0.36,0.36,oz,16 oz
+Hot Chocolate,Starbucks Marshmallow Hot Cocoa Mix,1.06,1.06,oz,8 ct
+Hot Chocolate,Nestle Fat Free Rich Milk Chocolate Hot Cocoa Mix,0.88,0.88,oz,7.33 oz
+Hot Chocolate,H-E-B Hot Cocoa with Marshmallows Single Serve Cups,0.6,0.6,ct,10 ct
+Hot Chocolate,"Caffe D'Vita Hot Cocoa, Premium Instant",0.36,0.36,oz,16 oz
+Hot Chocolate,Nestle Abuelita Authentic Mexican Hot Chocolate Drink Mix Bar,0.61,0.61,oz,7.05 oz
+Hot Chocolate,International Delight Liquid Coffee Creamer - Home Alone Hot Chocolate Marshmallow,0.12,0.12,oz,32 oz
+Hot Chocolate,Silly Cow Farms Chocolate Truffle Hot Chocolate Mix,0.36,0.36,oz,16 oz
+Hot Chocolate,Silly Cow Farms Peppermint Twist Hot Chocolate Mix,0.35,0.35,oz,16.9 oz
+Hot Chocolate,Entenmann's Hot Chocolate Single Serve Coffee K Cups,0.53,0.53,ct,18 ct
+Hot Chocolate,Ghirardelli Ghirardelli Double Chocolate Hot Cocoa Mix,0.94,0.94,ct,8 ct
+Hot Chocolate,Starbucks Milk Chocolate Hot Cocoa Mix,1.06,1.06,ct,8 ct
+Hot Chocolate,Nestle Coffee Mate Coffee Creamer - Abuelita Mexican Hot Chocolate,0.12,0.12,oz,32 oz
+Hot Chocolate,Hospitality Milk Chocolate Flavor Hot Cocoa Mix,0.27,0.27,ct,8 ct
+Hot Chocolate,Swiss Miss Marshmallows Hot Cocoa Drink Mix,0.24,0.24,oz,37.18 oz
+Hot Chocolate,Caffe D'Vita Hot Cocoa Envelope,0.69,0.69,oz,1 oz
+Hot Chocolate,Cocoa Classics Cocoa Classics Raspberry & Chocolate Cocoa Mix,0.54,0.54,oz,1.25 oz
+Hot Chocolate,Hershey's Simply 5 Chocolate Syrup Bottle,0.26,0.26,oz,21.8 oz
+Hot Chocolate,Nesquik Chocolate Syrup,0.18,0.18,oz,22 oz
+Hot Chocolate,Hershey's Cookies 'N' Creme Cocoa,0.75,0.75,ct,8 ct
+Hot Chocolate,Hershey's Milk Chocolate Cocoa,0.75,0.75,ct,8 ct
+Hot Chocolate,Reese's Peanut Butter Cup Cocoa,0.75,0.75,ct,8 ct
+Hot Chocolate,Ovaltine Rich Chocolate Drink Mix,0.5,0.5,oz,12 oz
+Hot Chocolate,Silly Cow Farms Chocolate Java Chip,0.35,0.35,oz,16.9 oz
+Hot Chocolate,Choco Milk Chocolate Drink Mix,0.31,0.31,oz,14.1 oz
+Hot Chocolate,Guittard Grand Cacoa Drinking Chocolate,0.84,0.84,oz,10 oz
+Hot Chocolate,Ovaltine Rich Chocolate Mix,0.43,0.43,oz,18 oz
+Hot Chocolate,York Peppermint Pattie Cocoa,0.75,0.75,ct,8 ct
+Hot Chocolate,Ibarra Granulated Chocolate Drink Mix,0.49,0.49,oz,11.5 oz
+Hot Chocolate,Ovaltine Classic Malt Mix,0.5,0.5,oz,12 oz
+Hot Chocolate,Cocoa Classics Arctic White Chocolate Cocoa Mix,0.54,0.54,oz,1.25 oz
+Hot Chocolate,Choco Listo Instant Chocolate Powder Mix,0.3,0.3,oz,10.5 oz
+Battery AA,H-E-B Alkaline AA Batteries,0.75,0.75,pack,8 pk
+Battery AA,H-E-B Alkaline AA Batteries,0.9,0.9,pack,6 pk
+Battery AA,H-E-B Alkaline AA Batteries,0.94,0.94,pack,4 pk
+Battery AA,H-E-B Alkaline AA Batteries,0.55,0.55,pack,36 pk
+Battery AA,Duracell Coppertop AA Alkaline Batteries,0.75,0.75,pack,24 pk
+Battery AA,Duracell Coppertop AA Alkaline Batteries,1.0,1.0,pack,16 pk
+Battery AA,H-E-B Alkaline AA Batteries,0.67,0.67,pack,24 pk
+Battery AA,Energizer MAX AA Alkaline Batteries,0.83,0.83,pack,24 pk
+Battery AA,H-E-B Alkaline AA Batteries,0.81,0.81,pack,16 pk
+Battery AA,Energizer MAX AA Alkaline Batteries,0.94,0.94,ct,16 pk
+Battery AA,Rayovac High Energy Alkaline AA Batteries,0.58,0.58,pack,36 pk
+Battery AA,Rayovac Fusion AA Batteries,1.11,1.11,pack,8 ct
+Battery AA,Rayovac Fusion AA Batteries,1.24,1.24,pack,4 pk
+Battery AA,Energizer Ultimate Lithium AA Batteries,3.69,3.69,pack,4 pk
+Battery AA,Energizer Ultimate Lithium AA Batteries,3.0,3.0,pack,8 pk
+Battery AA,Energizer MAX AA Alkaline Batteries,1.1,1.1,ct,8 pk
+Battery AA,Energizer MAX AA Alkaline Batteries,1.24,1.24,pack,4 pk
+Battery AA,Duracell Coppertop AA Alkaline Batteries,1.24,1.24,pack,4 pk
+Battery AA,Duracell Coppertop AA Alkaline Batteries,9.73,,,8 pk
+Battery AA,Duracell Coppertop AA Alkaline Batteries,1.16,1.16,pack,6 pk
+Ibutab-Ibuprofen,H-E-B Ibuprofen Fever & Pain Relief Tablets,0.02,0.02,ct,500-ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen Fever & Pain Relief Coated Tablets – 200 mg Twin Pack,0.02,0.02,ct,200-ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen 200 mg Softgels,0.05,0.05,ct,300 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen 200 mg Coated Caplets,0.04,0.04,ct,50 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen Fever & Pain Relief Coated Tablets – 200 mg,0.02,0.02,ct,100 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen 200 mg Softgels,0.08,0.08,ct,80 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen 200 mg Softgels,0.14,0.14,ct,20 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen Pain Relief 200 mg Caplets - Texas-Size Pack,0.02,0.02,ct,250 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen 200 Mg Coated Caplets,0.01,0.01,ct,500 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen Tablets,0.03,0.03,ct,250 ct
+Ibutab-Ibuprofen,H-E-B H-E-B Ibuprofen Fever & Pain Relief Softgels – 200 mg,0.08,0.08,ct,80-ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen Fever & Pain Relief Softgels – 200 mg,0.05,0.05,ct,300-ct
+Ibutab-Ibuprofen,"Advil Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief - 20 Coated Tablets",1.89,1.89,pack,2 pk
+Ibutab-Ibuprofen,"H-E-B Ibuprofen, 200 mg Coated Tablets",0.04,0.04,ct,24 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen Coated Caplets - 200 mg,0.04,0.04,ct,50 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen 200 Mg Coated Tablets,0.04,0.04,ct,50 ct
+Ibutab-Ibuprofen,H-E-B HEB Orange Ibuprofen,0.02,0.02,ct,100 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen PM Pain Reliever/Nighttime Sleep Aid Coated Caplets,0.16,0.16,ct,20 ct
+Ibutab-Ibuprofen,"Advil Liqui-Gels Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.21,0.21,ct,20 ct
+Ibutab-Ibuprofen,"Advil Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.21,0.21,ct,10 ct
+Ibutab-Ibuprofen,"Advil Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.18,0.18,ct,24 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen Fever & Pain Relief Coated Caplets – 200 mg,0.04,0.04,ct,100-ct
+Ibutab-Ibuprofen,"Advil Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.1,0.1,ct,100 ct
+Ibutab-Ibuprofen,H-E-B Children’s Ibuprofen Fever & Pain Relief Liquid – 100 mg,1.04,1.04,oz,4 oz
+Ibutab-Ibuprofen,H-E-B Ibuprofen 200 mg Softgels,0.14,0.14,ct,20 ct
+Ibutab-Ibuprofen,Motrin Ibuprofen 200mg Pain & Fever Relief Tablets,0.08,0.08,ct,225 ct
+Ibutab-Ibuprofen,H-E-B Children’s Ibuprofen Pain & Fever Relief Liquid – 100 mg,1.04,1.04,oz,4 oz
+Ibutab-Ibuprofen,"Advil Liqui-Gels Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",23.47,,,200 ct
+Ibutab-Ibuprofen,"Advil Liqui-Gels minis Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.21,0.21,ct,20 ct
+Ibutab-Ibuprofen,"Advil Children's Pain Reliever and Fever Reducer, Children's Ibuprofen Liquid Pain Relief Medicine, Grape",1.42,1.42,oz,4 oz
+Ibutab-Ibuprofen,"Advil PM Pain Reliever and Nighttime Sleep Aid, Ibuprofen for Pain Relief and Diphenhydramine Citrate for a Sleep Aid",0.27,0.27,ct,20 ct
+Ibutab-Ibuprofen,"Advil PM Pain Reliever and Nighttime Sleep Aid, Ibuprofen for Pain Relief and Diphenhydramine Citrate for a Sleep Aid",0.15,0.15,ct,120 ct
+Ibutab-Ibuprofen,H-E-B Infants' Ibuprofen 50 Mg Drops For Ages 6 Mos. To 23 Mos. Berry Flavor Oral Suspension,11.94,11.94,oz,0.5 oz
+Ibutab-Ibuprofen,"Advil Liqui-Gels Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief, Easy Open Arthritis Cap",0.11,0.11,ct,160 ct
+Ibutab-Ibuprofen,"Advil Children's Pain Reliever and Fever Reducer, Dye Free Liquid Children's Ibuprofen for Pain Relief, White Grape",1.54,1.54,oz,4 oz
+Ibutab-Ibuprofen,"Advil PM Liqui-Gels Pain Reliever and Nighttime Sleep Aid, Ibuprofen for Pain Relief and Diphenhydramine HCL for a Sleep Aid",0.22,0.22,ct,80 ct
+Ibutab-Ibuprofen,"Advil PM Liqui-Gels Pain Reliever and Nighttime Sleep Aid, Ibuprofen for Pain Relief and Diphenhydramine HCL for a Sleep Aid",6.39,,,20 ct
+Ibutab-Ibuprofen,Motrin Ibuprofen 200mg Pain & Fever Relief Liquid Gels,0.23,0.23,ct,20 ct
+Ibutab-Ibuprofen,Motrin IB Pain Reliever Tablets - 200 mg,0.09,0.09,ct,100 ct
+Ibutab-Ibuprofen,H-E-B Children's Ibuprofen Oral Suspension 100 Mg Grape Flavor,1.04,1.04,oz,4 oz
+Ibutab-Ibuprofen,Motrin Ibuprofen 200mg Pain & Fever Relief Tablets,0.13,0.13,ct,50 ct
+Ibutab-Ibuprofen,"Advil Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.09,0.09,ct,200 ct
+Ibutab-Ibuprofen,"Advil Liqui-Gels minis Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.11,0.11,ct,160 ct
+Ibutab-Ibuprofen,H-E-B Ibuprofen Fever & Pain Relief Coated Caplets – 200 mg,0.03,0.03,ct,250-ct
+Ibutab-Ibuprofen,"Advil Junior Strength Pain Reliever and Fever Reducer, Chewable Children's Ibuprofen for Pain Relief, Grape",0.24,0.24,ct,24 ct
+Ibutab-Ibuprofen,"Advil Liqui-Gels minis Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.14,0.14,ct,80 ct
+Ibutab-Ibuprofen,"Advil Liqui-Gels Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.14,0.14,ct,80 ct
+Ibutab-Ibuprofen,Motrin Children's Ibuprofen Chewable Tabs - Grape,0.32,0.32,ct,24 ct
+Ibutab-Ibuprofen,Motrin Children's Ibuprofen Liquid Oral Susupension Medicine - Berry,1.92,1.92,oz,4 oz
+Ibutab-Ibuprofen,"Advil Liqui-Gels minis Pain Reliever and Fever Reducer, Ibuprofen 200mg for Pain Relief",0.12,0.12,ct,200 ct
+Ibutab-Ibuprofen,"Advil Multi Symptom Cold and Flu Medicine with Ibuprofen, Phenylephrine HCL and Chlorpheniramine Maleate",0.43,0.43,ct,20 ct
+Ibutab-Ibuprofen,Advil PM Pain Reliever & Sleep Aid 200 mg Ibuprofen Liqui-Gel Minis Capsules,0.22,0.22,ct,80 ct
+Ibutab-Ibuprofen,"Advil Sinus Congestion and Pain, Sinus Medicine, Pain Reliever and Fever Reducer with Ibuprofen and Phenylephrine HCl",0.43,0.43,ct,20 ct
+Ibutab-Ibuprofen,"Advil Dual Action Coated Caplets with Acetaminophen, 125mg Ibuprofen and 250mg Acetaminophen Per Caplet for 8 Hour Pain Relief",0.24,0.24,ct,18 ct
+Ibutab-Ibuprofen,Advil Dual Action Back Pain Caplets delivers 250mg Ibuprofen and 500mg Acetaminophen Per Dose for 8 Hours of Back Pain Relief,0.15,0.15,ct,72 ct
+Ibutab-Ibuprofen,Motrin Children's Ibuprofen Pain Reliever Liquid Medicine - Berry,1.92,1.92,oz,4 oz
+Ibutab-Ibuprofen,"Advil Allergy and Congestion Relief, Pain Reliever, Fever Reducer and Allergy Relief with Ibuprofen, Phenylephrine HCl and Chlorpheniramine Maleate 4 mg - 20 Coated Tablets",0.43,0.43,ct,20 ct
+Ibutab-Ibuprofen,"Advil Dual Action Coated Caplets with Acetaminophen, 250 Mg Ibuprofen and 500 Mg Acetaminophen Per Dose (2 Dose Equivalent) for 8 Hour Pain Relief",0.15,0.15,ct,72 ct
+Ibutab-Ibuprofen,Motrin Children's Ibuprofen Liquid Medicine - Bubblegum,1.92,1.92,oz,4 oz
+Ibutab-Ibuprofen,Children's Motrin Oral Suspension Dye-Free Berry,1.92,1.92,oz,4 oz
+Ibutab-Ibuprofen,Infant's Motrin Concentrated Drops,13.56,,,0.5 oz
+Ibutab-Ibuprofen,"Infant's Motrin Concentrated Drops, Dye-Free, Berry",9.78,9.78,oz,1 oz
+Tuna In Water,H-E-B Chunk Light Tuna in Water - Texas Size Pack,0.2,0.2,oz,8 pk
+Tuna In Water,StarKist Chunk Light Tuna in Water,0.25,0.25,oz,20 OZ
+Tuna In Water,StarKist Chunk Light Tuna in Water,0.22,0.22,oz,12 oz
+Tuna In Water,Hill Country Fare Chunk Light Tuna in Water,0.17,0.17,oz,5 oz
+Tuna In Water,Hill Country Fare Chunk Light Tuna in Water,0.21,0.21,oz,12 oz
+Tuna In Water,H-E-B Chunk Light Tuna in Water,0.21,0.21,oz,4 pk
+Tuna In Water,H-E-B Chunk White Albacore Tuna in Water,0.28,0.28,oz,4 pk
+Tuna In Water,StarKist Chunk Light Tuna in Water Pouch,0.48,0.48,oz,4 ct
+Tuna In Water,StarKist Chunk Light Tuna in Water,0.23,0.23,oz,5 oz
+Tuna In Water,H-E-B Chunk White Albacore Tuna in Water,0.3,0.3,oz,12 oz
+Tuna In Water,StarKist Light Tuna in Water Pouch Family Size,0.4,0.4,oz,11 oz
+Tuna In Water,StarKist Solid White Albacore Tuna in Water,0.32,0.32,oz,4 ct
+Tuna In Water,H-E-B Chunk Light Tuna in Water,0.22,0.22,oz,12 oz
+Tuna In Water,H-E-B Solid White Albacore Tuna in Water,0.31,0.31,oz,12 oz
+Tuna In Water,StarKist Chunk Light Tuna in Water Pouch,0.48,0.48,oz,2.6 oz
+Tuna In Water,StarKist Solid White Albacore Tuna in Water,0.31,0.31,oz,12 oz
+Tuna In Water,Chicken of the Sea Chunk Light Tuna in Water,0.21,0.21,oz,12 oz
+Tuna In Water,Chicken of the Sea Chunk Light Tuna in Water,0.2,0.2,oz,5 oz
+Tuna In Water,H-E-B Wild Caught Chunk Light Tuna in Spring Water Pouch,0.51,0.51,oz,2.5 oz
+Tuna In Water,H-E-B Chunk Light Tuna in Water,0.2,0.2,oz,5 oz
+Tuna In Water,StarKist Lunch To-Go Chunk Light Tuna in Water Kit,0.48,0.48,oz,4.1 oz
+Tuna In Water,H-E-B Chunk White Albacore Tuna in Water,0.28,0.28,oz,5 oz
+Tuna In Water,StarKist Chunk Light Tuna in Water Pouch,0.4,0.4,oz,6.4 oz
+Tuna In Water,StarKist Reduced Sodium Light Tuna in Water Pouch,0.48,0.48,oz,2.6 oz
+Tuna In Water,StarKist Solid White Albacore Tuna in Water,0.3,0.3,oz,5 oz
+Tuna In Water,H-E-B Pole & Line Chunk Light Tuna in Water,0.32,0.32,oz,5 oz
+Tuna In Water,H-E-B Wild Caught Chunk White Albacore Tuna in Spring Water Pouch,0.62,0.62,oz,2.5 oz
+Tuna In Water,Chicken of the Sea Chunk Light Tuna in Water,0.2,0.2,oz,5 oz
+Tuna In Water,StarKist Chunk Light Tuna in Water Value Pack,0.43,0.43,oz,8 ct
+Tuna In Water,StarKist Lunch to Go Albacore Tuna in Water Kit,0.48,0.48,oz,4.1 oz
+Tuna In Water,StarKist Selects Solid Light Tuna in Water,0.47,0.47,oz,4.5 oz
+Tuna In Water,H-E-B Solid White Albacore Tuna in Water,0.32,0.32,oz,4 pk
+Tuna In Water,H-E-B Solid White Albacore Tuna in Water,0.33,0.33,oz,5 oz
+Tuna In Water,StarKist Chunk White Albacore Tuna in Water,0.25,0.25,oz,5 oz
+Tuna In Water,Bumble Bee Premium Albacore Tuna in Water Pouch,0.74,0.74,oz,2.5 oz
+Tuna In Water,H-E-B Pole & Line Solid Yellowfin Tuna in Water,0.4,0.4,oz,5 oz
+Tuna In Water,H-E-B Reduced Sodium Chunk Light Tuna in Water,0.24,0.24,oz,5 oz
+Tuna In Water,H-E-B Reduced Sodium Chunk Light Tuna in Water,0.23,0.23,oz,4 pk
+Tuna In Water,StarKist Selects Solid White Albacore Tuna in Water,0.47,0.47,oz,4.5 oz
+Tuna In Water,H-E-B Chunk Light Tuna in Water,0.2,0.2,oz,4 lbs 2.5 oz
+Tuna In Water,Genova Premium Yellowfin Tuna in Water with Sea Salt,0.6,0.6,oz,5 oz
+Tuna In Water,Bumble Bee Premium Solid White Albacore Tuna in Water,0.37,0.37,oz,12 oz
+Tuna In Water,Bumble Bee Premium Chunk White Albacore Tuna in Water,0.35,0.35,oz,5 oz
+Tuna In Water,StarKist No Salt Added Chunk White Albacore Tuna in Water,0.47,0.47,oz,4.5 oz
+Tuna In Water,H-E-B Pole & Line Solid White Albacore Tuna in Water,0.4,0.4,oz,5 oz
+Tuna In Water,Bumble Bee Premium Solid White Albacore Tuna in Water,0.39,0.39,oz,5 oz
+Tuna In Water,Hill Country Fare Chunk White Albacore Tuna in Water Pouch,0.55,0.55,oz,2.5 oz
+Tuna In Water,Central Market Yellowfin Tuna Fillets - Spring Water,1.11,1.11,oz,6.3 oz
+Tuna In Water,Bumble Bee Solid White Tuna Albacore In Water,0.34,0.34,oz,4 ct
+Tuna In Water,Central Market Yellowfin Tuna Fillets - Spring Water & Lemon,1.11,1.11,oz,6.3 oz
+Tuna In Water,StarKist Albacore White Tuna in Water Pouch,0.58,0.58,oz,6.4 oz
+Tuna In Water,H-E-B Pole & Line Solid White Albacore Tuna in Water - No Salt Added,0.4,0.4,oz,5 oz
+Tuna In Water,Santa Catarina Tuna Chunks in Spring Water,0.71,0.71,oz,4.2 oz
+Tuna In Water,H-E-B Wild Caught Chunk Light Tuna in Spring Water Pouch,0.38,0.38,oz,5 oz
+Tuna In Water,StarKist Albacore White Tuna in Water Pouch,0.72,0.72,oz,2.6 oz
+Tuna In Water,Chicken of the Sea Solid White Albacore Tuna in Water,0.3,0.3,oz,5 oz

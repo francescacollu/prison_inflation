@@ -1,0 +1,15 @@
+item_category,retail_price_per_unit_mean,retail_price_per_unit_median,retail_price_per_unit_min,retail_price_per_unit_max,retail_item_count,retail_price_per_unit_type,commissary_item_name,commissary_category,commissary_size,commissary_price_min,commissary_price_max,commissary_price_per_unit_min,commissary_price_per_unit_max,commissary_price_per_unit_type,commissary_match_count
+Battery AA,1.1858125,0.97,0.55,3.69,20,pack,,,,,,,,,1
+Colgate Toothpaste,1.1598348926802422,0.95,0.18695652173913044,3.43,79,oz,Colgate Toothpaste,HYGIENE,6 oz,3.0,3.0,0.5,0.5,oz,1
+Colored Pencils,0.40881959064327483,0.24,0.08083333333333333,1.39,19,ct,Colored Pencils,ART SUPPLIES,12 pk,4.5,4.5,0.375,0.375,ct,1
+Columbian Coffee,0.730607769423559,0.72,0.0030952380952380953,1.66,38,oz,Columbian Coffee,INSTANT DRINK MIXES,4.5 oz,4.75,4.75,1.0555555555555556,1.0555555555555556,oz,1
+Creamy Peanut Butter,0.48235981308411213,0.34,0.1,1.74,107,oz,Creamy Peanut Butter,CONDIMENTS,18 oz,2.95,2.95,0.1638888888888889,0.1638888888888889,oz,1
+Hot Chocolate,0.5477777777777777,0.49,0.12,1.72,63,oz,Hot Chocolate,INSTANT DRINK MIXES,10 oz,1.95,1.95,0.195,0.195,oz,1
+Ibutab-Ibuprofen,1.1515620967741935,0.15,0.01,27.12,62,ct,Ibutab-Ibuprofen,"OTC MEDICATIONS, VITAMINS, ETC",24 tabs,3.5,3.5,0.14583333333333334,0.14583333333333334,ct,1
+Instant coffee,1.1611864406779662,1.07,0.21,2.64,59,oz,,,,,,,,,0
+Maxi pads,0.2975,0.20500000000000002,0.08,2.25,24,ct,Maxi Pads,FEMALE ONLY,22 ct,3.0,3.0,0.13636363636363635,0.13636363636363635,ct,1
+Orange Juice,0.18635743186775106,0.09,0.00125,1.93,79,oz,Orange Juice,BEVERAGES,11.5 oz,1.4,1.4,0.1217391304347826,0.1217391304347826,oz,1
+Shampoo,0.6788298435438848,0.39,0.004,4.8,119,oz,Shampoo,HYGIENE,15 oz,1.35,1.4,0.09000000000000001,0.09333333333333332,oz,1
+Tampons,0.27945454545454546,0.26,0.17,0.5,55,ct,,,,,,,,,1
+Tuna In Water,0.39517857142857143,0.345,0.17,1.11,56,oz,Tuna In Water,PACKAGED MEAT,4.23 oz,1.7,1.7,0.4018912529550827,0.4018912529550827,oz,1
+Twix Candy Bar,0.7773867163252638,0.7337057728119181,0.42,1.21,15,oz,Twix Candy Bar,CANDY,1.79oz,1.5,1.5,0.8379888268156425,0.8379888268156425,oz,1

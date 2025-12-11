@@ -1,0 +1,257 @@
+================================================================================
+RECURRENT PRICE INCREASE ANALYSIS
+================================================================================
+
+TOP 20 ITEMS BY YEARS IN TOP 25% OF INCREASES:
+--------------------------------------------------------------------------------
+Boxer Shorts (nan)
+  Category: CLOTHING
+  Years in top 25%: 4/6
+  Mean YoY: 20.35%
+  Trend: volatile
+
+Foundation-Asst Shades (1 oz)
+  Category: FEMALE ONLY
+  Years in top 25%: 4/6
+  Mean YoY: 163.41%
+  Trend: spiker
+
+Stamps-Assorted (nan)
+  Category: CORRESPONDENCE
+  Years in top 25%: 4/6
+  Mean YoY: 8.80%
+  Trend: volatile
+
+Afta After Shave (3 oz)
+  Category: HYGIENE
+  Years in top 25%: 3/6
+  Mean YoY: 69.15%
+  Trend: spiker
+
+Alarm Clock (nan)
+  Category: ELECTRICAL
+  Years in top 25%: 3/6
+  Mean YoY: 8.32%
+  Trend: volatile
+
+Aspirin Free-APAP (24 tabs)
+  Category: OTC MEDICATIONS, VITAMINS, ETC
+  Years in top 25%: 3/6
+  Mean YoY: 5.96%
+  Trend: volatile
+
+Chess Set (nan)
+  Category: GAMES
+  Years in top 25%: 3/6
+  Mean YoY: 8.10%
+  Trend: volatile
+
+Coax Cable (nan)
+  Category: ELECTRICAL
+  Years in top 25%: 3/6
+  Mean YoY: 7.05%
+  Trend: volatile
+
+EK Columbian Coffee (4.5 oz)
+  Category: INSTANT DRINK MIX
+  Years in top 25%: 3/6
+  Mean YoY: 18.61%
+  Trend: volatile
+
+Gym Shorts (nan)
+  Category: CLOTHING
+  Years in top 25%: 3/6
+  Mean YoY: 11.89%
+  Trend: volatile
+
+Headphones (nan)
+  Category: ELECTRICAL
+  Years in top 25%: 3/6
+  Mean YoY: 11.44%
+  Trend: volatile
+
+Hygiene Pack (3 piece)
+  Category: MALE ONLY
+  Years in top 25%: 3/10
+  Mean YoY: 0.35%
+  Trend: volatile
+
+Milk of Magnesia (4 oz)
+  Category: OTC MEDICATIONS, VITAMINS, ETC
+  Years in top 25%: 3/6
+  Mean YoY: 11.32%
+  Trend: volatile
+
+Pencil Sharpener (nan)
+  Category: CORRESPONDENCE
+  Years in top 25%: 3/6
+  Mean YoY: 11.00%
+  Trend: volatile
+
+Refried Beans-Instant (15 oz)
+  Category: INSTANT FOODS
+  Years in top 25%: 3/6
+  Mean YoY: 15.02%
+  Trend: volatile
+
+Sensodyne Toothpaste (4 oz)
+  Category: HYGIENE
+  Years in top 25%: 3/6
+  Mean YoY: 8.78%
+  Trend: volatile
+
+Shower Shoes (nan)
+  Category: SHOES
+  Years in top 25%: 3/6
+  Mean YoY: 5.77%
+  Trend: volatile
+
+Storage Box-14"x8"x8" (nan)
+  Category: FEMALE ONLY
+  Years in top 25%: 3/6
+  Mean YoY: 18.06%
+  Trend: volatile
+
+Tootsie Pops (8 pk)
+  Category: CANDY
+  Years in top 25%: 3/6
+  Mean YoY: 11.39%
+  Trend: volatile
+
+Twix Candy Bar (1.79 oz)
+  Category: CANDY
+  Years in top 25%: 3/6
+  Mean YoY: 10.34%
+  Trend: volatile
+
+
+TOP 20 ITEMS BY MEAN YEAR-OVER-YEAR INFLATION:
+--------------------------------------------------------------------------------
+Foundation-Asst Shades (1 oz): 163.41% mean YoY
+Terbinafine Antifungal Crm-.5 oz (nan): 155.60% mean YoY
+Eyeliner/Brow Pencil-.05 oz (nan): 108.33% mean YoY
+Afta After Shave (3 oz): 69.15% mean YoY
+ClearTech Lift Off (nan): 42.56% mean YoY
+Earbud-Stereo (nan): 37.50% mean YoY
+Eraser-Pencil/Ink (nan): 35.12% mean YoY
+Olympia/Clear Tech Ribbon (nan): 32.70% mean YoY
+T-Shirts (nan): 31.09% mean YoY
+Typing Paper (50 sheets): 29.51% mean YoY
+Watercolor Paints (16 colors): 27.96% mean YoY
+Colored Pencils (12 pk): 27.82% mean YoY
+Ibutab-Ibuprofen (24 tabs): 25.03% mean YoY
+Protractor Ruler (nan): 23.64% mean YoY
+Manilla Envelope-Writ (2 pk): 23.40% mean YoY
+Antifungal Foot Powder (3.5 oz): 22.02% mean YoY
+Petroleum Jelly (4 oz): 21.60% mean YoY
+Drawing Pad (9x12): 21.46% mean YoY
+Simethicone Anti/Gas (36 tabs): 21.30% mean YoY
+Boxer Shorts (nan): 20.35% mean YoY
+
+
+TOP 20 ITEMS BY CONSISTENCY SCORE:
+--------------------------------------------------------------------------------
+Alcalak Antacid (24 tabs): 66.67% (4/6 years positive)
+Boxer Shorts (nan): 66.67% (4/6 years positive)
+Fixodent Denture (nan): 66.67% (4/6 years positive)
+Foundation-Asst Shades (1 oz): 66.67% (4/6 years positive)
+Gym Shorts (nan): 66.67% (4/6 years positive)
+Non-Dairy Creamer (12 oz): 66.67% (4/6 years positive)
+Stamps-Assorted (nan): 66.67% (4/6 years positive)
+Twix Candy Bar (1.79 oz): 66.67% (4/6 years positive)
+Ad Seg Colgate (1 oz): 50.00% (3/6 years positive)
+Afta After Shave (3 oz): 50.00% (3/6 years positive)
+Alarm Clock (nan): 50.00% (3/6 years positive)
+Antibacterial Lotion (4 oz): 50.00% (3/6 years positive)
+Aspirin Free-APAP (24 tabs): 50.00% (3/6 years positive)
+Aspirin (24 tabs): 50.00% (3/6 years positive)
+Blue Bell Pints- Asst Flavors (nan): 50.00% (3/6 years positive)
+Briefs/Panties (3 pk): 50.00% (3/6 years positive)
+Cereal-Assorted Flavors (20 oz): 50.00% (3/6 years positive)
+Cheese Ravioli (12 oz): 50.00% (3/6 years positive)
+Chess Set (nan): 50.00% (3/6 years positive)
+Coax Cable (nan): 50.00% (3/6 years positive)
+
+
+TOP 20 ITEMS BY CUMULATIVE INFLATION (2019-2025):
+--------------------------------------------------------------------------------
+Foundation-Asst Shades (1 oz): 1971.43% cumulative
+Afta After Shave (3 oz): 650.00% cumulative
+Eyeliner/Brow Pencil-.05 oz (nan): 650.00% cumulative
+ClearTech Lift Off (nan): 285.71% cumulative
+Typing Paper (50 sheets): 268.42% cumulative
+Eraser-Pencil/Ink (nan): 257.14% cumulative
+Olympia/Clear Tech Ribbon (nan): 240.00% cumulative
+Earbud-Stereo (nan): 225.00% cumulative
+T-Shirts (nan): 205.36% cumulative
+Watercolor Paints (16 colors): 185.19% cumulative
+Colored Pencils (12 pk): 181.25% cumulative
+Ibutab-Ibuprofen (24 tabs): 180.00% cumulative
+Drawing Pad (9x12): 172.00% cumulative
+Storage Box-14"x8"x8" (nan): 150.00% cumulative
+Boxer Shorts (nan): 148.48% cumulative
+Manilla Envelope-Writ (2 pk): 140.38% cumulative
+EK Columbian Coffee (4.5 oz): 137.50% cumulative
+Petroleum Jelly (4 oz): 133.33% cumulative
+Antifungal Foot Powder (3.5 oz): 132.14% cumulative
+Ogilvie Hair Perm (nan): 130.00% cumulative
+
+
+================================================================================
+ANOMALY DETECTION RESULTS
+================================================================================
+
+EXTREME SINGLE-YEAR SPIKES (9 items):
+(Top 99th percentile of year-over-year increases)
+--------------------------------------------------------------------------------
+Afta After Shave in 2020: 358.33% increase
+  Category: HYGIENE, Price: $2.75
+ClearTech Lift Off in 2023: 242.86% increase
+  Category: ELECTRICAL, Price: $1.20
+Earbud-Stereo in 2022: 225.00% increase
+  Category: ELECTRICAL, Price: $3.25
+Eraser-Pencil/Ink in 2023: 185.71% increase
+  Category: CORRESPONDENCE, Price: $1.00
+Eyeliner/Brow Pencil-.05 oz in 2021: 650.00% increase
+  Category: FEMALE ONLY, Price: $5.25
+Foundation-Asst Shades in 2020: 892.86% increase
+  Category: FEMALE ONLY, Price: $6.95
+Protractor Ruler in 2023: 185.71% increase
+  Category: ART SUPPLIES, Price: $1.00
+T-Shirts in 2025: 175.81% increase
+  Category: CLOTHING, Price: $21.38
+Terbinafine Antifungal Crm-.5 oz in 2021: 1000.00% increase
+  Category: OTC MEDICATIONS, VITAMINS, ETC, Price: $6.60
+
+CATEGORY OUTLIERS (8 items):
+(Items with mean YoY >2 standard deviations above category median)
+--------------------------------------------------------------------------------
+Terbinafine Antifungal Crm-.5 oz (OTC MEDICATIONS, VITAMINS, ETC): 155.60% vs category median 6.27% (Z=5.50)
+Afta After Shave (HYGIENE): 69.15% vs category median 9.17% (Z=4.03)
+ClearTech Lift Off (ELECTRICAL): 42.56% vs category median 3.16% (Z=2.91)
+Earbud-Stereo (ELECTRICAL): 37.50% vs category median 3.16% (Z=2.54)
+Olympia/Clear Tech Ribbon (ELECTRICAL): 32.70% vs category median 3.16% (Z=2.19)
+Eyeliner/Brow Pencil-.05 oz (FEMALE ONLY): 108.33% vs category median 6.00% (Z=2.15)
+Foundation-Asst Shades (FEMALE ONLY): 163.41% vs category median 6.00% (Z=3.31)
+Eraser-Pencil/Ink (CORRESPONDENCE): 35.12% vs category median 9.90% (Z=2.16)
+
+POSSIBLE PRICE CORRECTIONS (5 items):
+(Large increase >50% followed by decrease >5%)
+--------------------------------------------------------------------------------
+Boxer Shorts in 2024: 78.46% then -5.75%
+  Price: $8.70 -> $8.20
+EK Columbian Coffee in 2023: 80.00% then -7.78%
+  Price: $4.50 -> $4.15
+EK Plantation Coffee in 2023: 81.82% then -27.50%
+  Price: $2.00 -> $1.45
+Hat-White Solid in 2022: 100.00% then -70.00%
+  Price: $2.50 -> $0.75
+Refried Beans-Instant in 2023: 69.81% then -48.89%
+  Price: $4.50 -> $2.30
+
+DATA QUALITY ISSUES (3 items):
+(Extreme cumulative inflation >500%)
+--------------------------------------------------------------------------------
+Afta After Shave: 650.00% cumulative inflation in 2025
+Eyeliner/Brow Pencil-.05 oz: 650.00% cumulative inflation in 2025
+Foundation-Asst Shades: 1971.43% cumulative inflation in 2025

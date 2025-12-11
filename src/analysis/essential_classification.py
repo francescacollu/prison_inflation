@@ -43,12 +43,12 @@ ESSENTIAL_PATTERNS = [
     # Basic hygiene
     "soap", "toothpaste", "tooth brush", "shampoo", "deodorant", "antiperspirant",
     "toilet tissue", "toilet paper", "tissue", "razor", "shave",
-    "pads", "pantiliners", "maxi", "tampon",  # Feminine hygiene
+    "pads", "pantiliners", "maxi", "tampon", 
     "hygiene pack", "hygiene kit",
     
     # Basic clothing
     "socks", "underwear", "briefs", "boxer", "t-shirt", "tshirt", "shirt",
-    "pants", "shorts", "bra", "sports bra",  # Basic undergarments
+    "pants", "shorts", "bra", "sports bra",
     
     # Basic food
     "ramen", "noodles", "rice", "beans", "chicken", "tuna", "salmon", "mackerel",
@@ -68,7 +68,7 @@ ESSENTIAL_PATTERNS = [
 NON_ESSENTIAL_PATTERNS = [
     # Candy and snacks
     "candy", "jawbreaker", "jolly rancher", "tootsie", "twix",
-    "chips", "tortilla", "pork skins", "almonds", "sunflower",
+    "chips", "tortilla", "pork skins", "almonds", "sunflower", "chocolate",
     
     # Art and entertainment
     "coloring book", "colored pencil", "watercolor", "paint", "drawing pad",
@@ -87,7 +87,7 @@ NON_ESSENTIAL_PATTERNS = [
 
 # Items in FEMALE ONLY that are essential (feminine hygiene)
 FEMALE_ESSENTIAL_ITEMS = [
-    "pantiliners", "maxi pads", "always", "hygiene pack", "sports bra",
+    "pantiliners", "maxi pads", "hygiene pack", "sports bra",
     "briefs", "panties",
 ]
 
@@ -135,7 +135,7 @@ def classify_item_essential(item_name, category):
             # Default for FEMALE ONLY: if it's hygiene-related, essential; otherwise non-essential
             if any(pattern in item_name_lower for pattern in ["hygiene", "pad", "bra", "brief", "pantie"]):
                 return "essential"
-            return "non-essential"  # Default for cosmetics
+            return "non-essential"
         
         if category_upper == "CORRESPONDENCE":
             # Check if it's essential communication or non-essential
